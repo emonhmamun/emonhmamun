@@ -1,273 +1,178 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:4d0000,100:000000&height=200&section=header&text=EMON%20H.%20MAMUN&fontSize=42&fontColor=E63946&animation=fadeIn&fontAlignY=32&desc=AI%20Agent%20Architect%20%7C%20Automation%20%7C%20Cybersecurity&descAlignY=52&descSize=16&descColor=D4AF37" width="100%"/>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,50:D4AF37,100:E63946&height=220&section=header&text=EMON%20H.%20MAMUN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Agent%20Architect%20%7C%20Automation%20%7C%20Cybersecurity&descSize=18&descColor=ffffff&descAlignY=52" />
 
+<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Architecting+Autonomous+AI+Systems;Building+AURA+%E2%80%94+Universal+Agent+Framework;Studying+the+Language+of+Cybersecurity;Where+Automation+Meets+Intention;Building+the+Future+of+Autonomous+Agents&font=Fira+Code&center=true&width=700&height=45&color=D4AF37&vCenter=true&size=20&pause=1600&duration=3200&background=000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1500&color=E63946&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Architecting+Autonomous+AI+Systems;Building+AURA+—+Universal+Agent+Framework;Studying+the+Language+of+Cybersecurity;Where+Automation+Meets+Intention;Building+the+Future+of+Autonomous+Agents" alt="Typing SVG" />
 </a>
 
-<br/>
+<!-- Status Badges -->
+<img src="https://img.shields.io/badge/Status-Available%20for%20Collaboration-E63946?style=for-the-badge&logo=websocket&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-AI%20Agent%20Architecture-D4AF37?style=for-the-badge&logo=brain&logoColor=white" />
+<img src="https://img.shields.io/badge/Specialization-Cybersecurity-E63946?style=for-the-badge&logo=shield&logoColor=white" />
 
-<img src="https://komarev.com/ghpvc/?username=emonhmamun&label=PROFILE%20VIEWS&color=E63946&style=for-the-badge&labelColor=1a0000" height="28"/>
-<img src="https://img.shields.io/github/followers/emonhmamun?label=FOLLOWERS&style=for-the-badge&color=E63946&labelColor=1a0000" height="28"/>
-<img src="https://img.shields.io/github/stars/emonhmamun?affiliations=OWNER&label=STARS&style=for-the-badge&color=D4AF37&labelColor=1a0000" height="28"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&labelColor=1a0000&color=E63946" height="28"/>
+<br/><br/>
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a0000&height=3" width="100%"/>
-
-<div align="center">
-
-**Architecting autonomous AI systems and exploring the frontier of cybersecurity —**
-**where automation meets intention.**
-
-`Cybersecurity`&nbsp;&nbsp;`Autonomous AI Agents`&nbsp;&nbsp;`Automation Engineering`&nbsp;&nbsp;`Red Team Ops`
+<!-- Profile Stats -->
+<img src="https://komarev.com/ghpvc/?username=emonhmamun&style=for-the-badge&color=E63946&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/emonhmamun?style=for-the-badge&color=D4AF37&label=Followers" />
+<img src="https://img.shields.io/github/stars/emonhmamun?style=for-the-badge&color=E63946&label=Stars" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,100:000000&height=3" width="100%"/>
+---
 
-## 🧠 About Me
+## 🧬 About Me
+
+```python
+class EmonHMamun:
+    """AI Agent Architect | Automation Engineer | Cybersecurity Researcher"""
+    
+    def __init__(self):
+        self.name = "Emon Hasan Mamun"
+        self.location = "Bangladesh 🇧🇩"
+        self.focus = ["Autonomous AI Agents", "Cybersecurity", "Automation Engineering"]
+        self.current_project = "AURA — Universal Agent Framework"
+        self.languages = ["Python", "JavaScript", "TypeScript", "Bash", "Go"]
+        self.architecture = ["Automation Layer", "Code Agent Layer", "GUI Agent Layer"]
+    
+    def get_current_status(self):
+        return "🟢 Building AURA — an agent that doesn't wait for instructions, it finds the work and finishes it."
+    
+    def get_vision(self):
+        return "Every system I build starts as a question: what would this look like if no human had to touch it again?"
+```
+
+> 💡 *"In the space between code and consequence, I build what watches back."*
+
+---
+
+## 🛡️ Project AURA — Universal Autonomous Agent Framework
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=emonhmamun&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a0000&title_color=E63946&icon_color=D4AF37&text_color=e0c9c9&border_color=E63946&theme=radical" height="170" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonhmamun&layout=compact&langs_count=8&hide_border=true&bg_color=1a0000&title_color=E63946&text_color=e0c9c9&border_color=E63946&theme=radical" height="170" align="right"/>
+
+### 🏗️ Three-Layer Architecture
+
+| Layer | Purpose | Key Capabilities |
+|:-----:|:-------:|:----------------:|
+| 🤖 **Automation Layer** | Rule-Based Operations Engine | Workflow Automation · Task Scheduling · Event Processing · Rule Engine |
+| 💻 **Code Agent Layer** | Autonomous Coding Agent | Code Generation · Auto Debugging · Self-Deployment · Test Synthesis |
+| 🖥️ **GUI Agent Layer** | Interface Navigation Agent | Web Navigation · Form Automation · Screen Reading · Click Agent |
+
 </div>
-
-<br clear="both"/>
-
-<div align="center">
-
-| 🎯 Focus | 🔬 Research | 🏗️ Building |
-|:---:|:---:|:---:|
-| Autonomous AI Agents | LLM Security & Red Teaming | AURA Framework |
-| Cybersecurity Automation | Agent Architecture Patterns | Universal Agent Platform |
-| System Orchestration | AI Safety & Alignment | Production-Grade AI Systems |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,100:000000&height=3" width="100%"/>
-
-## 🚀 AURA — Universal Autonomous Agent
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-UNDER%20DEVELOPMENT-E63946?style=for-the-badge&labelColor=1a0000" height="28"/>
-<img src="https://img.shields.io/badge/VERSION-0.1.0-D4AF37?style=for-the-badge&labelColor=1a0000" height="28"/>
-<img src="https://img.shields.io/badge/LAYER-3-E63946?style=for-the-badge&labelColor=1a0000" height="28"/>
-
-</div>
-
-> **AURA** is a three-layer universal autonomous agent built to complete any online task without human intervention — an architecture where intelligence flows from rules to reasoning to action.
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### ⚡ Automation Layer
-Rule-based operations engine
-
-```
-Workflow Engine
-Task Scheduler  
-Event Processor
-Rule Engine
-```
-
-</td>
-<td width="33%" align="center">
-
-### 🧠 Code Agent Layer
-Autonomous coding agent
-
-```
-Code Generation
-Auto Debugging
-Self-Deployment
-Test Synthesis
-```
-
-</td>
-<td width="33%" align="center">
-
-### 🖥️ GUI Agent Layer
-Interface navigation agent
-
-```
-Web Navigation
-Form Automation
-Screen Reading
-Click Agent
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
 
 ```mermaid
 graph LR
-    A[⚡ Automation Layer] -->|triggers| B[🧠 Code Agent]
-    B -->|deploys| C[🖥️ GUI Agent]
-    C -->|feedback| A
-    style A fill:#1a0000,stroke:#E63946,color:#E63946
-    style B fill:#1a0000,stroke:#D4AF37,color:#D4AF37
-    style C fill:#1a0000,stroke:#E63946,color:#E63946
+    A[🤖 Automation Layer] -->|feeds| B[💻 Code Agent Layer]
+    B -->|executes| C[🖥️ GUI Agent Layer]
+    C -->|reports| A
+    style A fill:#E63946,stroke:#E63946,color:#fff
+    style B fill:#D4AF37,stroke:#D4AF37,color:#000
+    style C fill:#E63946,stroke:#E63946,color:#fff
 ```
 
-</div>
+> 🎯 *"Every system I build starts as a question: what would this look like if no human had to touch it again? AURA is my answer — an agent that doesn't wait for instructions, it finds the work and finishes it."*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a0000&height=3" width="100%"/>
+---
 
-## 💡 Vision
-
-<div align="center">
-
-> *"Every system I build starts as a question: what would this look like if no human had to touch it again?*
-> *AURA is my answer — an agent that doesn't wait for instructions, it finds the work and finishes it."*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,100:000000&height=3" width="100%"/>
-
-## 🛠️ Tech Arsenal
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-### Languages
-<img src="https://img.shields.io/badge/Python-1a0000?style=for-the-badge&logo=python&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/JavaScript-1a0000?style=for-the-badge&logo=javascript&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/TypeScript-1a0000?style=for-the-badge&logo=typescript&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/Bash-1a0000?style=for-the-badge&logo=gnubash&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/Go-1a0000?style=for-the-badge&logo=go&logoColor=E63946"/>
+### 🌐 Languages
+<img src="https://img.shields.io/badge/Python-95%25-E63946?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-88%25-D4AF37?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-85%25-E63946?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-90%25-D4AF37?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-75%25-E63946?style=flat-square&logo=go&logoColor=white" />
 
-### AI & Agents
-<img src="https://img.shields.io/badge/LangChain-1a0000?style=for-the-badge&logo=langchain&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/OpenAI-1a0000?style=for-the-badge&logo=openai&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/CrewAI-1a0000?style=for-the-badge&logo=crewai&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/n8n-1a0000?style=for-the-badge&logo=n8n&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Hugging_Face-1a0000?style=for-the-badge&logo=huggingface&logoColor=D4AF37"/>
+### 🤖 AI / Agents
+<img src="https://img.shields.io/badge/LangChain-92%25-D4AF37?style=flat-square&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-88%25-E63946?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-85%25-D4AF37?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/CrewAI-80%25-E63946?style=flat-square&logo=crew&logoColor=white" />
 
-### Security & Ops
-<img src="https://img.shields.io/badge/Kali_Linux-1a0000?style=for-the-badge&logo=kalilinux&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/Docker-1a0000?style=for-the-badge&logo=docker&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/Linux-1a0000?style=for-the-badge&logo=linux&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/Git-1a0000?style=for-the-badge&logo=git&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/Wireshark-1a0000?style=for-the-badge&logo=wireshark&logoColor=E63946"/>
+### 🔒 Security / Ops
+<img src="https://img.shields.io/badge/Docker-87%25-D4AF37?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-93%25-E63946?style=flat-square&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-91%25-D4AF37?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-85%25-E63946?style=flat-square&logo=kalilinux&logoColor=white" />
 
-### Tools & IDE
-<img src="https://img.shields.io/badge/VS_Code-1a0000?style=for-the-badge&logo=visualstudiocode&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/Neovim-1a0000?style=for-the-badge&logo=neovim&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/Postman-1a0000?style=for-the-badge&logo=postman&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Figma-1a0000?style=for-the-badge&logo=figma&logoColor=D4AF37"/>
+### 🛠️ Tools
+<img src="https://img.shields.io/badge/VS_Code-94%25-D4AF37?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Neovim-78%25-E63946?style=flat-square&logo=neovim&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-72%25-D4AF37?style=flat-square&logo=wireshark&logoColor=white" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a0000&height=3" width="100%"/>
+---
 
-## 📊 Contribution Flow
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/output/snake.svg" width="100%"/>
-<sub>Animated automatically from live contribution data — see setup note below.</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,100:000000&height=3" width="100%"/>
-
-## 📈 GitHub Metrics
+## 📊 GitHub Metrics
 
 <div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=emonhmamun&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a0000&title_color=E63946&icon_color=D4AF37&text_color=e0c9c9&border_color=E63946"/>
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=emonhmamun&hide_border=true&background=1a0000&ring=E63946&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=e0c9c9&currStreakNum=e0c9c9&sideNums=e0c9c9&dates=8a6a6a&border=E63946"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=emonhmamun&show_icons=true&theme=dark&hide_border=true&bg_color=1a0000&title_color=E63946&icon_color=D4AF37&text_color=ffffff&ring_color=E63946" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=emonhmamun&theme=dark&hide_border=true&background=1a0000&ring=E63946&fire=D4AF37&currStreakLabel=E63946&sideLabels=ffffff&dates=ffffff" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=emonhmamun&bg_color=1a0000&color=E63946&line=D4AF37&point=E63946&area=true&hide_border=true" width="95%"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonhmamun&layout=compact&theme=dark&hide_border=true&bg_color=1a0000&title_color=E63946&text_color=ffffff" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=emonhmamun&bg_color=1a0000&color=E63946&line=D4AF37&point=E63946&area=true&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=emonhmamun&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" width="95%"/>
-<sub>Locked trophies appear dim and unlock automatically as GitHub activity grows — this is normal, not an error.</sub>
+  <img src="https://github-profile-trophy.vercel.app/?username=emonhmamun&theme=darkhub&no-bg=true&no-frame=true&column=7" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,100:000000&height=3" width="100%"/>
+---
 
-## 🏆 Achievements
+## 🐍 Contribution Flow
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=emonhmamun&theme=onyx&no-frame=true&column=4&margin-w=10&margin-h=10&title=Followers,Review,Commit,PullRequest" width="85%"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emonhmamun/emonhmamun/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emonhmamun/emonhmamun/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/output/github-snake-dark.svg" />
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a0000&height=3" width="100%"/>
+---
 
 ## 🎯 Current Goals
 
-<div align="center">
+| Goal | Progress | Deadline |
+|:----:|:--------:|:--------:|
+| 🚀 AURA v0.1 Release | ████████░░ 80% | Q1 2025 |
+| 📦 100+ GitHub Repos | ██████░░░░ 60% | 2025 |
+| 🛡️ Cybersecurity Certs | ████░░░░░░ 40% | 2025 |
+| ❤️ Open Source Contributions | ███████░░░ 70% | Ongoing |
 
-| 🎯 Goal | 📊 Progress | 📅 Target |
-|:---|:---:|:---:|
-| AURA v0.1 Release | ████████░░ 80% | Q1 2025 |
-| 100+ GitHub Repos | ██████░░░░ 60% | 2025 |
-| Cybersecurity Certs | ████░░░░░░ 40% | 2025 |
-| Open Source Contributions | ███████░░░ 70% | Ongoing |
+---
 
-</div>
+## 🧠 Philosophy
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,100:000000&height=3" width="100%"/>
+> *"Autonomy is not the absence of control — it's the presence of intelligence."*
 
-## 📜 Latest Activity
+> *"The best systems are the ones that don't need you to exist."*
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+> *"In cybersecurity, paranoia is not a weakness — it's a professional requirement."*
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=emonhmamun&repo=emonhmamun&show_icons=true&bg_color=1a0000&title_color=E63946&icon_color=D4AF37&text_color=e0c9c9&border_color=E63946" />
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a0000&height=3" width="100%"/>
-
-## 💬 Philosophy
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%"/>
-</div>
+## 🔗 Connect
 
 <div align="center">
 
-> *"In the space between code and consequence, I build what watches back."*
+[![GitHub](https://img.shields.io/badge/GitHub-emonhmamun-E63946?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emonhmamun)
+[![Facebook](https://img.shields.io/badge/Facebook-Emon%20Hasan%20Mamun-D4AF37?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/emonhasanmamun.m)
+[![Telegram](https://img.shields.io/badge/Telegram-+8801767953971-E63946?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+8801767953971)
+[![Email](https://img.shields.io/badge/Email-ehm.businessbd@gmail.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehm.businessbd@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,100:000000&height=3" width="100%"/>
-
-## 🌐 Connect
+---
 
 <div align="center">
 
-<a href="https://github.com/emonhmamun" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-1a0000?style=for-the-badge&logo=github&logoColor=E63946"/>
-</a>
-<!--
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-1a0000?style=for-the-badge&logo=linkedin&logoColor=E63946"/>
-</a>
--->
-<a href="https://www.facebook.com/emonhasanmamun.m" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1a0000?style=for-the-badge&logo=facebook&logoColor=E63946"/>
-</a>
-<a href="https://t.me/+8801767953971" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-1a0000?style=for-the-badge&logo=telegram&logoColor=E63946"/>
-</a>
-<a href="mailto:ehm.businessbd@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-1a0000?style=for-the-badge&logo=gmail&logoColor=E63946"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,50:D4AF37,100:E63946&height=120&section=footer" />
 
 </div>
-
-<div align="center">
-<sub><i>⚡ Built with passion, automation, and a little bit of AI magic ⚡</i></sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4d0000,100:1a0000&height=120&section=footer" width="100%"/>
