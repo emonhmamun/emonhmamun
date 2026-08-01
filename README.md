@@ -264,22 +264,34 @@ graph TD
 ---
 
 <!-- ============================== -->
-<!-- GITHUB STATS CARDS            -->
+<!-- GITHUB STATS - SHIELDS.IO      -->
+<!-- (Replaces broken vercel app)   -->
 <!-- ============================== -->
 
 <div align="center">
 
 ### GITHUB METRICS
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=emonhmamun&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=E63946&icon_color=D4AF37&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonhmamun&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=E63946&text_color=c9d1d9&langs_count=10" alt="Top Languages" />
+<p>
+  <img src="https://img.shields.io/badge/Public%20Repos-2-E63946?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Repos" />
+  <img src="https://img.shields.io/badge/Gists-0-D4AF37?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Gists" />
+  <img src="https://img.shields.io/badge/Followers-0-E63946?style=for-the-badge&labelColor=0d1117&logo=users&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/badge/Following-1-D4AF37?style=for-the-badge&labelColor=0d1117&logo=users&logoColor=white" alt="Following" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Total%20Commits-11+-E63946?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-0-D4AF37?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="PRs" />
+  <img src="https://img.shields.io/badge/Issues-0-E63946?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Issues" />
+  <img src="https://img.shields.io/badge/Stars-0-D4AF37?style=for-the-badge&labelColor=0d1117&logo=star&logoColor=white" alt="Stars" />
+</p>
 
 </div>
 
 ---
 
 <!-- ============================== -->
-<!-- STREAK STATS                   -->
+<!-- STREAK STATS (WORKING)         -->
 <!-- ============================== -->
 
 <div align="center">
@@ -291,24 +303,12 @@ graph TD
 ---
 
 <!-- ============================== -->
-<!-- ACTIVITY GRAPH                 -->
+<!-- ACTIVITY GRAPH (WORKING)       -->
 <!-- ============================== -->
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=emonhmamun&bg_color=0d1117&color=E63946&line=D4AF37&point=ffffff&area=true&hide_border=true&radius=6" alt="Activity Graph" width="95%" />
-
-</div>
-
----
-
-<!-- ============================== -->
-<!-- PROFILE TROPHIES               -->
-<!-- ============================== -->
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=emonhmamun&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=5" alt="Trophies" width="100%" />
 
 </div>
 
@@ -388,18 +388,6 @@ graph TD
 - I don't chase titles — I chase understanding
 
 </details>
-
----
-
-<!-- ============================== -->
-<!-- GITHUB SUMMARY CARD            -->
-<!-- ============================== -->
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=emonhmamun&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=E63946&icon_color=D4AF37&text_color=c9d1d9&hide=stars,issues&include_all_commits=true&count_private=true&line_height=30" alt="Summary" />
-
-</div>
 
 ---
 
