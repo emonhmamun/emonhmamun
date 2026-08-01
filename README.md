@@ -90,7 +90,7 @@ class EmonHMamun:
 ---
 
 <!-- ============================== -->
-<!-- SKILL ICONS                    -->
+<!-- SKILL ICONS (ALL VERIFIED)     -->
 <!-- ============================== -->
 
 <div align="center">
@@ -98,13 +98,13 @@ class EmonHMamun:
 ### TECH ARSENAL
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,go,docker,linux,git,github,vscode,neovim,nginx,nodejs,react,nextjs,tailwind,prisma,postgres,sqlite,redis,postgresql,mongodb,aws,vercel,cloudflare&theme=dark&perline=13" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,go,docker,linux,git,github,vscode,neovim,nginx,nodejs,react,nextjs,tailwind,prisma,postgres,sqlite,redis,mongodb,aws,cloudflare,netlify&theme=dark&perline=13" alt="Tech Stack" />
 </a>
 
 <br/><br/>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kali,wireshark,burpsuite,metasploit,nmap,grafana,prometheus,ansible,terraform,vim,pycharm,idea&theme=dark&perline=12" alt="Security & Ops Tools" />
+  <img src="https://skillicons.dev/icons?i=kali,grafana,prometheus,ansible,terraform,jenkins,postman,gitlab,vim,pycharm,idea,selenium&theme=dark&perline=12" alt="Security & Ops Tools" />
 </a>
 
 </div>
@@ -158,7 +158,7 @@ class EmonHMamun:
 ![Linux](https://img.shields.io/badge/Linux-D4AF37?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-E63946?style=flat-square&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-D4AF37?style=flat-square&logo=amazonaws&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-E63946?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-E63946?style=flat-square&logo=cloudflare&logoColor=white)
 
 </td>
 <td align="center" width="20%">
@@ -264,8 +264,7 @@ graph TD
 ---
 
 <!-- ============================== -->
-<!-- GITHUB STATS - SHIELDS.IO      -->
-<!-- (Replaces broken vercel app)   -->
+<!-- GITHUB METRICS (SHIELDS.IO)    -->
 <!-- ============================== -->
 
 <div align="center">
@@ -291,7 +290,7 @@ graph TD
 ---
 
 <!-- ============================== -->
-<!-- STREAK STATS (WORKING)         -->
+<!-- STREAK STATS                   -->
 <!-- ============================== -->
 
 <div align="center">
@@ -303,7 +302,7 @@ graph TD
 ---
 
 <!-- ============================== -->
-<!-- ACTIVITY GRAPH (WORKING)       -->
+<!-- ACTIVITY GRAPH                 -->
 <!-- ============================== -->
 
 <div align="center">
@@ -320,16 +319,14 @@ graph TD
 
 ### CONTRIBUTION FLOW
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emonhmamun/emonhmamun/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emonhmamun/emonhmamun/output/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/output/snake-dark.svg" />
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/output/snake-dark.svg" alt="Contribution Snake" />
+</div>
 
 ---
 
 <!-- ============================== -->
-<!-- CURRENT FOCUS & GOALS          -->
+<!-- CURRENT FOCUS                  -->
 <!-- ============================== -->
 
 ### CURRENT FOCUS
