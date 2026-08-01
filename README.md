@@ -237,17 +237,17 @@ graph TD
     A[EMON H. MAMUN] --> B[Security Research]
     A --> C[Automation Engineering]
     A --> D[System Building]
-    
+
     B --> B1[Threat Analysis]
     B --> B2[Penetration Testing]
     B --> B3[OSINT Research]
     B --> B4[Network Defense]
-    
+
     C --> C1[Agent Systems]
     C --> C2[Workflow Automation]
     C --> C3[Security Tooling]
     C --> C4[CI/CD Pipelines]
-    
+
     D --> D1[Infrastructure Design]
     D --> D2[Container Security]
     D --> D3[Monitoring Systems]
@@ -289,38 +289,44 @@ graph TD
 
 ---
 
-<!-- ============================== -->
-<!-- STREAK STATS                   -->
-<!-- ============================== -->
+<!-- ================================================ -->
+<!-- ADVANCED CONTRIBUTION FLOW (PREMIUM MULTI-CARD)  -->
+<!-- ================================================ -->
 
 <div align="center">
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=emonhmamun&theme=dark&hide_border=true&background=0d1117&stroke=E63946&ring=E63946&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=c9d1d9" alt="GitHub Streak" />
-
-</div>
-
----
-
-<!-- ============================== -->
-<!-- ACTIVITY GRAPH                 -->
-<!-- ============================== -->
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=emonhmamun&bg_color=0d1117&color=E63946&line=D4AF37&point=ffffff&area=true&hide_border=true&radius=6" alt="Activity Graph" width="95%" />
-
-</div>
-
----
-
-<!-- ============================== -->
-<!-- CONTRIBUTION SNAKE             -->
-<!-- ============================== -->
 
 ### CONTRIBUTION FLOW
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/output/snake-dark.svg" alt="Contribution Snake" />
+<!-- Profile Summary Cards -->
+<img height="230" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emonhmamun&theme=github_dark" alt="Profile Details" />
+
+<br/><br/>
+
+<!-- Stats + Languages Side by Side -->
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emonhmamun&theme=github_dark" alt="Stats Card" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emonhmamun&theme=github_dark" alt="Repos per Language" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emonhmamun&theme=github_dark" alt="Most Commit Language" />
+
+<br/><br/>
+
+<!-- Productive Time -->
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emonhmamun&theme=github_dark" alt="Productive Time" />
+
+<br/><br/>
+
+<!-- Streak Stats -->
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=emonhmamun&theme=dark&hide_border=true&background=0d1117&stroke=E63946&ring=E63946&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=c9d1d9" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=emonhmamun&bg_color=0d1117&color=E63946&line=D4AF37&point=ffffff&area=true&hide_border=true&radius=6" alt="Activity Graph" width="95%" />
+
+<br/><br/>
+
+<!-- Contribution Snake Animation -->
+<img src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/output/snake-dark.svg" alt="Contribution Snake" />
+
 </div>
 
 ---
