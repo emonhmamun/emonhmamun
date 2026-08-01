@@ -321,9 +321,9 @@ graph TD
 ### CONTRIBUTION FLOW
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emonhmamun/emonhmamun/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emonhmamun/emonhmamun/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emonhmamun/emonhmamun/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emonhmamun/emonhmamun/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/output/snake-dark.svg" />
 </picture>
 
 ---
