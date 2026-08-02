@@ -1,40 +1,39 @@
 <div align="center">
 
-<!-- ============================== -->
-<!-- PREMIUM HEADER BANNER          -->
-<!-- ============================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,50:D4AF37,100:E63946&height=240&section=header&text=EMON%20H.%20MAMUN&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=33&desc=Security%20Researcher%20%7C%20Automation%20Architect%20%7C%20System%20Builder&descSize=18&descColor=D4AF37&descAlignY=53&stroke=D4AF37&strokeWidth=1" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ PREMIUM HEADER BANNER — CONSTELLATION ANIMATION ════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,50:D4AF37,100:E63946&height=260&section=header&text=EMON%20H.%20MAMUN&fontSize=50&fontColor=ffffff&animation=constellation&fontAlignY=32&desc=Security%20Researcher%20%7C%20Automation%20Architect%20%7C%20System%20Builder&descSize=18&descColor=D4AF37&descAlignY=53&stroke=D4AF37&strokeWidth=1" />
 
-<!-- ============================== -->
-<!-- DYNAMIC TYPING SVG             -->
-<!-- ============================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ DYNAMIC TYPING SVG — MULTI-LINE ANIMATION ═════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=E63946&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=130&lines=Security+Researcher+%26+Automation+Architect;Building+Autonomous+Defense+Systems;Exploring+the+Intersection+of+Security+%26+AI;Crafting+Tools+That+Watch+The+Perimeter;Hobby+Developer+%7C+System+Builder+%7C+Curious+Mind" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=E63946&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=Security+Researcher+%26+Automation+Architect;Building+Autonomous+Defense+Systems;Exploring+the+Intersection+of+Security+%26+AI;Crafting+Tools+That+Watch+The+Perimeter;Hobby+Developer+%7C+System+Builder+%7C+Curious+Mind" alt="Typing SVG" />
 </a>
 
-<!-- ============================== -->
-<!-- STATUS BADGES                  -->
-<!-- ============================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ STATUS BADGES + VISITOR COUNTER ════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <p>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-E63946?style=for-the-badge&labelColor=0d1117&logo=handshake&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-Security%20%7C%20Automation%20%7C%20Systems-D4AF37?style=for-the-badge&labelColor=0d1117&logo=shield&logoColor=white" alt="Focus" />
   <img src="https://img.shields.io/badge/Location-Bangladesh-0d1117?style=for-the-badge&labelColor=0d1117&logoColor=E63946" alt="Location" />
 </p>
 
-<!-- ============================== -->
-<!-- PROFILE VISITOR COUNTER        -->
-<!-- ============================== -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=emonhmamun&color=E63946&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/emonhmamun?style=flat-square&color=E63946&labelColor=0d1117&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/emonhmamun?style=flat-square&color=D4AF37&labelColor=0d1117&label=STARS" alt="Stars" />
 </p>
 
 </div>
 
 ---
 
-<!-- ============================== -->
-<!-- IDENTITY BLOCK                 -->
-<!-- ============================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ IDENTITY BLOCK — PYTHON CLASS ══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ```python
 class EmonHMamun:
@@ -65,9 +64,17 @@ class EmonHMamun:
 
 ---
 
-<!-- ============================== -->
-<!-- CYBERSECURITY IDENTITY SECTION -->
-<!-- ============================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ ANIMATED SECTION DIVIDER — TWINKLING STARS ════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,50:D4AF37,100:E63946&height=80&section=header&fontSize=0&animation=twinkling" />
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ CYBERSECURITY IDENTITY SECTION ═════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -89,9 +96,9 @@ class EmonHMamun:
 
 ---
 
-<!-- ============================== -->
-<!-- SKILL ICONS (ALL VERIFIED)     -->
-<!-- ============================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ SKILL ICONS (ALL VERIFIED WORKING) ═════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -111,9 +118,9 @@ class EmonHMamun:
 
 ---
 
-<!-- ============================== -->
-<!-- DETAILED TECH TABLE            -->
-<!-- ============================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ DETAILED TECH TABLE ════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
@@ -176,9 +183,17 @@ class EmonHMamun:
 
 ---
 
-<!-- ============================== -->
-<!-- TERMINAL SIMULATION            -->
-<!-- ============================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ ANIMATED SECTION DIVIDER — FIRE ANIMATION ═════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:E63946,100:D4AF37&height=80&section=header&fontSize=0&animation=fire" />
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ TERMINAL SIMULATION ════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <details>
 <summary><strong>TERMINAL SESSION</strong> — <code>whoami && cat /etc/interests</code></summary>
@@ -225,9 +240,9 @@ class EmonHMamun:
 
 ---
 
-<!-- ============================== -->
-<!-- SECURITY ARCHITECTURE DIAGRAM  -->
-<!-- ============================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ SECURITY ARCHITECTURE DIAGRAM ══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <details>
 <summary><strong>SECURITY ARCHITECTURE</strong> — Systems & Layers</summary>
@@ -263,54 +278,25 @@ graph TD
 
 ---
 
-<!-- ============================== -->
-<!-- GITHUB METRICS (SHIELDS.IO)    -->
-<!-- ============================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ ANIMATED SECTION DIVIDER — CONSTELLATION ══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-### GITHUB METRICS
-
-<p>
-  <img src="https://img.shields.io/badge/Public%20Repos-2-E63946?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Repos" />
-  <img src="https://img.shields.io/badge/Gists-0-D4AF37?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Gists" />
-  <img src="https://img.shields.io/badge/Followers-0-E63946?style=for-the-badge&labelColor=0d1117&logo=users&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/badge/Following-1-D4AF37?style=for-the-badge&labelColor=0d1117&logo=users&logoColor=white" alt="Following" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Total%20Commits-11+-E63946?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Commits" />
-  <img src="https://img.shields.io/badge/Pull%20Requests-0-D4AF37?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="PRs" />
-  <img src="https://img.shields.io/badge/Issues-0-E63946?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Issues" />
-  <img src="https://img.shields.io/badge/Stars-0-D4AF37?style=for-the-badge&labelColor=0d1117&logo=star&logoColor=white" alt="Stars" />
-</p>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,50:D4AF37,100:E63946&height=80&section=header&fontSize=0&animation=constellation" />
 
 ---
 
-<!-- ================================================ -->
-<!-- ADVANCED CONTRIBUTION FLOW (PREMIUM MULTI-CARD)  -->
-<!-- ================================================ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ CONTRIBUTION FLOW — PREMIUM MULTI-CARD LAYOUT ════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ### CONTRIBUTION FLOW
 
-<!-- Profile Summary Cards -->
-<img height="230" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emonhmamun&theme=github_dark" alt="Profile Details" />
-
-<br/><br/>
-
-<!-- Stats + Languages Side by Side -->
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emonhmamun&theme=github_dark" alt="Stats Card" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emonhmamun&theme=github_dark" alt="Repos per Language" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emonhmamun&theme=github_dark" alt="Most Commit Language" />
-
-<br/><br/>
-
-<!-- Productive Time -->
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emonhmamun&theme=github_dark" alt="Productive Time" />
+<!-- GitHub Stats + Top Languages -->
+<img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=emonhmamun&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=E63946&icon_color=D4AF37&text_color=c9d1d9&count_private=true&include_all_commits=true&ring_color=E63946" alt="GitHub Stats" />
+<img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emonhmamun&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=E63946&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
@@ -331,9 +317,108 @@ graph TD
 
 ---
 
-<!-- ============================== -->
-<!-- CURRENT FOCUS                  -->
-<!-- ============================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ ANIMATED SECTION DIVIDER — BLINKING STARS ═════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:E63946,100:D4AF37&height=80&section=header&fontSize=0&animation=blinking" />
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ SYSTEM STATUS — PREMIUM DYNAMIC BADGES ════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### SYSTEM STATUS
+
+<img src="https://img.shields.io/badge/Perimeter%20Defense-ONLINE-E63946?style=for-the-badge&labelColor=0d1117&logo=shield-check&logoColor=white" alt="Perimeter" />
+<img src="https://img.shields.io/badge/Threat%20Engine-ACTIVE-D4AF37?style=for-the-badge&labelColor=0d1117&logo=radar&logoColor=white" alt="Threat Engine" />
+<img src="https://img.shields.io/badge/Automation%20Core-RUNNING-E63946?style=for-the-badge&labelColor=0d1117&logo=robot&logoColor=white" alt="Automation" />
+<img src="https://img.shields.io/badge/Research%20Mode-ENGAGED-D4AF37?style=for-the-badge&labelColor=0d1117&logo=microscope&logoColor=white" alt="Research" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Build%20Status-Passing-brightgreen?style=flat-square&labelColor=0d1117&logo=githubactions&logoColor=white" alt="Build" />
+<img src="https://img.shields.io/badge/Code%20Quality-A-brightgreen?style=flat-square&labelColor=0d1117&logo=codeclimate&logoColor=white" alt="Quality" />
+<img src="https://img.shields.io/badge/Security-Audit%20Ready-E63946?style=flat-square&labelColor=0d1117&logo=security&logoColor=white" alt="Security" />
+<img src="https://img.shields.io/badge/Dependencies-Up%20to%20Date-brightgreen?style=flat-square&labelColor=0d1117&logo=dependabot&logoColor=white" alt="Dependencies" />
+<img src="https://img.shields.io/badge/Last%20Commit-Today-D4AF37?style=flat-square&labelColor=0d1117&logo=git&logoColor=white" alt="Last Commit" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Workflow-Snake%20Generator-E63946?style=flat-square&labelColor=0d1117&logo=github&logoColor=white" alt="Workflow" />
+<img src="https://img.shields.io/badge/Platform-GitHub%20%7C%20Linux-D4AF37?style=flat-square&labelColor=0d1117&logo=linux&logoColor=white" alt="Platform" />
+<img src="https://img.shields.io/badge/Editor-Neovim%20%7C%20VS%20Code-E63946?style=flat-square&labelColor=0d1117&logo=neovim&logoColor=white" alt="Editor" />
+<img src="https://img.shields.io/badge/Shell-Bash%20%7C%20Zsh-D4AF37?style=flat-square&labelColor=0d1117&logo=gnubash&logoColor=white" alt="Shell" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ DYNAMIC TYPING — QUOTE ROTATION ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=D4AF37&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=35&lines=Every+system+I+build+starts+as+a+question;I+build+what+watches+the+perimeter;Not+a+professional+—+driven+purely+by+curiosity;In+the+space+between+code+and+consequence;What+would+this+look+like+if+it+could+defend+itself%3F" alt="Quote Rotation" />
+</a>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ NEURAL NETWORK VISUALIZATION ═══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<details>
+<summary><strong>NEURAL NETWORK</strong> — Knowledge Interconnections</summary>
+
+```mermaid
+graph LR
+    subgraph CORE["CORE PROCESSING"]
+        A[Security Research] --> B[Threat Modeling]
+        A --> C[Vulnerability Analysis]
+        B --> D[Exploit Development]
+        C --> D
+    end
+
+    subgraph AUTO["AUTOMATION LAYER"]
+        E[Agent Systems] --> F[Workflow Engine]
+        E --> G[Security Tooling]
+        F --> H[CI/CD Pipeline]
+        G --> H
+    end
+
+    subgraph INTEL["INTELLIGENCE"]
+        I[OSINT] --> J[Data Correlation]
+        J --> K[Pattern Recognition]
+        K --> L[Automated Response]
+    end
+
+    D --> E
+    H --> I
+    L --> A
+
+    style A fill:#E63946,stroke:#D4AF37,color:#fff
+    style E fill:#E63946,stroke:#D4AF37,color:#fff
+    style I fill:#E63946,stroke:#D4AF37,color:#fff
+    style D fill:#D4AF37,stroke:#E63946,color:#000
+    style H fill:#D4AF37,stroke:#E63946,color:#000
+    style L fill:#D4AF37,stroke:#E63946,color:#000
+```
+
+</details>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ CURRENT FOCUS TABLE ════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ### CURRENT FOCUS
 
@@ -346,9 +431,9 @@ graph TD
 
 ---
 
-<!-- ============================== -->
-<!-- PRINCIPLES & PHILOSOPHY        -->
-<!-- ============================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ PRINCIPLES & PHILOSOPHY ════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 > *"Every system I build starts as a question: what would this look like if it could defend itself?"*
 
@@ -358,9 +443,17 @@ graph TD
 
 ---
 
-<!-- ============================== -->
-<!-- DETAILED ABOUT SECTION         -->
-<!-- ============================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ ANIMATED SECTION DIVIDER — RAIN ANIMATION ═════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,50:D4AF37,100:E63946&height=80&section=header&fontSize=0&animation=rain" />
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ DETAILED ABOUT SECTION ═════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <details>
 <summary><strong>MORE ABOUT ME</strong></summary>
@@ -394,9 +487,9 @@ graph TD
 
 ---
 
-<!-- ============================== -->
-<!-- CONNECT                        -->
-<!-- ============================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ CONNECT ═════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -419,13 +512,13 @@ graph TD
 
 ---
 
-<!-- ============================== -->
-<!-- FOOTER                         -->
-<!-- ============================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ PREMIUM FOOTER BANNER ══════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,50:D4AF37,100:E63946&height=120&section=footer&stroke=D4AF37&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,50:D4AF37,100:E63946&height=120&section=footer&stroke=D4AF37&strokeWidth=1&animation=constellation" />
 
 <br/>
 
