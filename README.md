@@ -301,7 +301,7 @@ graph TD
 <br/><br/>
 
 <!-- Streak Stats -->
-<img height="180" src="https://streak-stats.demolab.com?user=emonhmamun&theme=dark&hide_border=true&background=0d1117&stroke=E63946&ring=E63946&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=c9d1d9" alt="GitHub Streak" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=emonhmamun&theme=dark&hide_border=true&background=0d1117&stroke=E63946&ring=E63946&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=c9d1d9" alt="GitHub Streak" />
 
 <br/><br/>
 
