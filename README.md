@@ -301,7 +301,7 @@ graph TD
 <br/><br/>
 
 <!-- Streak Stats -->
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=emonhmamun&theme=dark&hide_border=true&background=0d1117&stroke=E63946&ring=E63946&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=c9d1d9" alt="GitHub Streak" />
+<img height="180" src="https://streak-stats.demolab.com?user=emonhmamun&theme=dark&hide_border=true&background=0d1117&stroke=E63946&ring=E63946&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=c9d1d9" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -364,7 +364,7 @@ graph TD
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=D4AF37&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=35&lines=Every+system+I+build+starts+as+a+question;I+build+what+watches+the+perimeter;Not+a+professional+—+driven+purely+by+curiosity;In+the+space+between+code+and+consequence;What+would+this+look+like+if+it+could+defend+itself%3F" alt="Quote Rotation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=D4AF37&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=35&lines=Every+system+I+build+starts+as+a+question;I+build+what+watches+the+perimeter;Curiosity+driven+not+profession+defined;In+the+space+between+code+and+consequence;What+would+this+look+like+if+it+could+defend+itself" alt="Quote Rotation" />
 </a>
 
 </div>
