@@ -1,0 +1,45 @@
+name: Dynamic Galaxy Updates
+
+# 🌌 Keeps the profile alive:
+#   - Live Dhaka time + Bengali date in the README
+#   - Rotating developer/security quote (API with local fallback)
+# Runs every ~30 minutes (offset :07/:37 to avoid clashing with other workflows).
+
+on:
+  schedule:
+    - cron: '7,37 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dynamic-readme
+  cancel-in-progress: false
+
+jobs:
+  update-dynamic:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Update time & quote in README
+        run: python .github/scripts/update_dynamic.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "🌌 auto: refresh Dhaka time & quote [skip ci]"
+            git push
+          fi
