@@ -83,19 +83,16 @@ class EmonHMamun:
 
 <div align="center">
 
-### 📊 CONTRIBUTION GALAXY
+### 📊 TOP LANGUAGES
 
-<img height="380" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emonhmamun&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&langs_count=8&hide=Jupyter%20Notebook,HTML,CSS" alt="Top Languages" onerror="this.style.display='none'; document.getElementById('lang-fallback').style.display='block'" />
-
-<div id="lang-fallback" style="display:none">
-<br/>
-<img src="https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-22D3EE?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-<img src="https://img.shields.io/badge/TypeScript-A855F7?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
-<img src="https://img.shields.io/badge/Bash-EC4899?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-<img src="https://img.shields.io/badge/Go-60A5FA?style=flat-square&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/Docker-A855F7?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-</div>
+<img src="https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-22D3EE?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+<img src="https://img.shields.io/badge/TypeScript-A855F7?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
+<img src="https://img.shields.io/badge/Bash-EC4899?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/Go-60A5FA?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Docker-A855F7?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Shell-7C3AED?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
+<img src="https://img.shields.io/badge/YAML-22D3EE?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
 
 <br/><br/>
 
