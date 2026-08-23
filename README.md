@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ GALAXY EDITION v2.0 — CONSTELLATION ANIMATION ════════ -->
+<!-- ═══ GALAXY EDITION v2.1 — CONSTELLATION ANIMATION ════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:EC4899&height=260&section=header&text=EMON%20H.%20MAMUN&fontSize=50&fontColor=ffffff&desc=Security%20Researcher%20%7C%20Automation%20Architect%20%7C%20System%20Builder&descSize=18&descColor=22D3EE&descAlignY=53&stroke=A855F7&strokeWidth=1&animation=constellation&fontAlignY=32" />
 
@@ -545,6 +545,34 @@ graph LR
 
 ---
 
+<!-- ══════════════════════════════════════════════════ -->
+<!-- ══ ⏰ TIMELINE — MY JOURNEY (NEW) ═════════════════════ -->
+<!-- ═════════════════════════════════════════════ -->
+
+<details>
+<summary><strong>⏰ TIMELINE</strong> — <em>how I got here</em></summary>
+
+```mermaid
+timeline
+    title My Journey
+    section 2024
+        First Lines of Code : Discovered Python for scripting
+        Security Spark : Built first automation tool
+        GitHub Debut : Pushed first public repo
+    section 2025
+        Deep Dive : Systematic security research
+        Galaxy Profile : Launched premium GitHub README
+        CI/CD Mastery : Automated everything
+    section 2026
+        AI Integration : Exploring LLMs for security
+        Open Source : Sharing tools with the community
+        Next Frontier : Autonomous defense systems
+```
+
+</details>
+
+---
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ═══ 📈 DEV METRICS (NEW — quantitative stats) ═══════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -707,6 +735,20 @@ Example workflow generates content between these markers:
 <sub>📱 Blog post cards will auto-appear here once the workflow is activated. <a href="https://github.com/gautamkrishnar/blog-post-workflow">Setup Guide</a></sub>
 
 </div>
+
+---
+
+<!-- ════════════════════════════════════════════════════ -->
+<!-- ══ 📝 GITHUB CARD (NEW) ═════════════════════════════ -->
+<!-- ══════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 📝 GITHUB CARD
+
+<a href="https://github.com/emonhmamun">
+  <img src="https://github-card-cards.vercel.app/api?username=emonhmamun&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&show_icons=true&icon_color=22D3EE" alt="GitHub Card" width="400" />
+</a>
 
 </details>
 
@@ -923,6 +965,23 @@ GUR CREVZRGRE UBYQF - PHEVBFVGL VF GUR GEHR SVERJNYY
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ 🌐 AT A GLANCE ═════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🌐 AT A GLANCE
+
+<img src="https://img.shields.io/badge/💻_Coder-By_Curiosity-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Coder" />
+<img src="https://img.shields.io/badge/🗡️_Security-First_Mindset-A855F7?style=for-the-badge&labelColor=0d1117" alt="Security" />
+<img src="https://img.shields.io/badge/🤖_Automation-Everything_Automated-22D3EE?style=for-the-badge&labelColor=0d1117" alt="Automation" />
+<img src="https://img.shields.io/badge/☕_Powered_By-Coffee_%26_Curiosity-EC4899?style=for-the-badge&labelColor=0d1117" alt="Coffee" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ═══ PREMIUM FOOTER BANNER ════════════════════════════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -933,7 +992,7 @@ GUR CREVZRGRE UBYQF - PHEVBFVGL VF GUR GEHR SVERJNYY
 <br/>
 
 <img src="https://img.shields.io/badge/Built%20with-Curiosity%20%26%20Purpose-7C3AED?style=flat-square&labelColor=0d1117" alt="Built with" />
-<img src="https://img.shields.io/badge/Theme-Galaxy%20Edition%20v2.0%20🌌-22D3EE?style=flat-square&labelColor=0d1117" alt="Theme" />
+<img src="https://img.shields.io/badge/Theme-Galaxy%20Edition%20v2.1%20🌌-22D3EE?style=flat-square&labelColor=0d1117" alt="Theme" />
 <img src="https://img.shields.io/badge/Self%20Updating-GitHub%20Actions-A855F7?style=flat-square&labelColor=0d1117&logo=githubactions&logoColor=white" alt="Self Updating" />
 
 </div>
