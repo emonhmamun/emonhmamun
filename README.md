@@ -85,9 +85,7 @@ class EmonHMamun:
 
 ### 📊 CONTRIBUTION GALAXY
 
-<img height="195" src="https://github-readme-stats-alpha-five.vercel.app/api?username=emonhmamun&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=22D3EE&text_color=c9d1d9&count_private=true&include_all_commits=true&ring_color=A855F7" alt="GitHub Stats" onerror="this.style.display='none'" />
-
-<img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emonhmamun&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&langs_count=8&hide=Jupyter%20Notebook,HTML,CSS" alt="Top Languages" onerror="this.style.display='none'; document.getElementById('lang-fallback').style.display='block'" />
+<img height="380" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emonhmamun&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&langs_count=8&hide=Jupyter%20Notebook,HTML,CSS" alt="Top Languages" onerror="this.style.display='none'; document.getElementById('lang-fallback').style.display='block'" />
 
 <div id="lang-fallback" style="display:none">
 <br/>
