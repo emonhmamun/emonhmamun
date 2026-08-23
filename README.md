@@ -369,11 +369,30 @@ graph TD
 
 ### 🌌 CONTRIBUTION GALAXY
 
-<!-- GitHub Stats + Top Languages (migrated to alpha-five — sigma-five is DEAD) -->
+<!-- GitHub Stats (migrated to alpha-five — sigma-five is DEAD) -->
 <img height="195" src="https://github-readme-stats-alpha-five.vercel.app/api?username=emonhmamun&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=22D3EE&text_color=c9d1d9&count_private=true&include_all_commits=true&ring_color=A855F7" alt="GitHub Stats" onerror="this.onerror=null;this.src='https://github-readme-stats-sigma-five.vercel.app/api?username=emonhmamun&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=22D3EE&text_color=c9d1d9&ring_color=A855F7'" />
 
-<!-- Top Languages — badge-based (donut SVG services are unreliable) -->
-<img height="195" src="https://github-readme-stats-alpha-five.vercel.app/api/top-langs/?username=emonhmamun&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&langs_count=8&hide=Jupyter%20Notebook,HTML,CSS" alt="Top Languages" onerror="this.onerror=null;this.parentElement.innerHTML='<p>📊 <em>Language stats temporarily unavailable — see Tech Arsenal above</em></p>'" />
+<!-- Top Languages — all donut SVG services are unreliable; using inline badge grid -->
+<img height="195" src="https://github-readme-stats-alpha-five.vercel.app/api/top-langs/?username=emonhmamun&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&langs_count=8&hide=Jupyter%20Notebook,HTML,CSS" alt="Top Languages" onerror="this.style.display='none'; document.getElementById('lang-fallback').style.display='block'" />
+
+<div id="lang-fallback" style="display:none">
+<br/>
+<table>
+<tr>
+  <td><img src="https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white" alt="Python" /></td>
+  <td><img src="https://img.shields.io/badge/JavaScript-22D3EE?style=flat-square&logo=javascript&logoColor=black" alt="JS" /></td>
+  <td><img src="https://img.shields.io/badge/TypeScript-A855F7?style=flat-square&logo=typescript&logoColor=white" alt="TS" /></td>
+  <td><img src="https://img.shields.io/badge/Bash-EC4899?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" /></td>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/Go-60A5FA?style=flat-square&logo=go&logoColor=white" alt="Go" /></td>
+  <td><img src="https://img.shields.io/badge/Shell-7C3AED?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell" /></td>
+  <td><img src="https://img.shields.io/badge/Docker-A855F7?style=flat-square&logo=docker&logoColor=white" alt="Dockerfile" /></td>
+  <td><img src="https://img.shields.io/badge/YAML-22D3EE?style=flat-square&logo=yaml&logoColor=white" alt="YAML" /></td>
+</tr>
+</table>
+<sub>📊 See full Tech Arsenal section above for complete stack</sub>
+</div>
 
 <br/><br/>
 
