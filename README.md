@@ -28,34 +28,43 @@
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ═════════ 🛰️ LIVE DYNAMIC BLOCK (auto-updated by GitHub Actions) ═════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════ 📡 LIVE AUTO-UPDATING WIDGETS ═══════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- All widgets below refresh automatically — no manual updates needed -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!--DYNAMIC:START-->
 <div align="center">
 
 <table>
 <tr>
-<td>
+<td width="58%" valign="middle">
 
-<img src="https://img.shields.io/badge/%F0%9F%9B%B0%EF%B8%8F_LIVE_FROM_DHAKA-GMT%2B6-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Live from Dhaka" />
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</a>
 
-🛰️ **`রাত ৩:০৯` · `রবিবার, ২৩ আগস্ট ২০২৬`** *(GMT+6 · auto-refreshed every 30 min)*
+<br/>
+<img src="https://img.shields.io/badge/🔄_Refreshes_every_10_min-22D3EE?style=flat-square&labelColor=0d1117" alt="Auto-refresh" />
 
 </td>
-<td>
+<td width="42%" valign="middle">
 
-<img src="https://img.shields.io/badge/%F0%9F%92%AC_THOUGHT_OF_THE_MOMENT-refreshes_automatically-22D3EE?style=for-the-badge&labelColor=0d1117" alt="Quote" />
-
-> 💬 *"The only truly secure system is one that is powered off."*
-> — **Gene Spafford** <sub>· via Local Vault</sub>
+<p>
+  <img src="https://img.shields.io/github/commit-activity/y/emonhmamun?label=COMMITS_THIS_YEAR&color=7C3AED&style=for-the-badge&labelColor=0d1117" alt="Yearly Commits" />
+</p>
+<p>
+  <img src="https://img.shields.io/github/commit-activity/m/emonhmamun?label=THIS_MONTH&color=22D3EE&style=for-the-badge&labelColor=0d1117" alt="Monthly Commits" />
+</p>
+<p>
+  <img src="https://img.shields.io/github/repo-size/emonhmamun/emonhmamun?label=REPO_SIZE&color=EC4899&style=for-the-badge&labelColor=0d1117&logo=github" alt="Repo Size" />
+</p>
 
 </td>
 </tr>
 </table>
 
 </div>
-<!--DYNAMIC:END-->
 
 </div>
 
@@ -372,8 +381,8 @@ graph TD
 <!-- GitHub Stats (migrated to alpha-five — sigma-five is DEAD) -->
 <img height="195" src="https://github-readme-stats-alpha-five.vercel.app/api?username=emonhmamun&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=22D3EE&text_color=c9d1d9&count_private=true&include_all_commits=true&ring_color=A855F7" alt="GitHub Stats" onerror="this.onerror=null;this.src='https://github-readme-stats-sigma-five.vercel.app/api?username=emonhmamun&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=22D3EE&text_color=c9d1d9&ring_color=A855F7'" />
 
-<!-- Top Languages — all donut SVG services are unreliable; using inline badge grid -->
-<img height="195" src="https://github-readme-stats-alpha-five.vercel.app/api/top-langs/?username=emonhmamun&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&langs_count=8&hide=Jupyter%20Notebook,HTML,CSS" alt="Top Languages" onerror="this.style.display='none'; document.getElementById('lang-fallback').style.display='block'" />
+<!-- Top Languages — sigma-five works for top-langs; alpha-five as fallback to badge grid -->
+<img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emonhmamun&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&langs_count=8&hide=Jupyter%20Notebook,HTML,CSS" alt="Top Languages" onerror="this.style.display='none'; document.getElementById('lang-fallback').style.display='block'" />
 
 <div id="lang-fallback" style="display:none">
 <br/>
