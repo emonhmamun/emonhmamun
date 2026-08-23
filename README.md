@@ -22,7 +22,7 @@
 </p>
 
 <p>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Femonhmamun&count_bg=%23A855F7&title_bg=%230d1117&title=VISITORS&edge_flat=true" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=emonhmamun&color=A855F7&style=flat-square&labelColor=0d1117&label=VISITORS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/emonhmamun?style=flat-square&color=A855F7&labelColor=0d1117&label=FOLLOWERS" alt="Followers" />
   <img src="https://img.shields.io/github/stars/emonhmamun?style=flat-square&color=22D3EE&labelColor=0d1117&label=STARS" alt="Stars" />
 </p>
@@ -132,6 +132,23 @@ class EmonHMamun:
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=kali,grafana,prometheus,ansible,terraform,jenkins,postman,gitlab,vim,pycharm,idea,selenium&theme=dark&perline=12" alt="Security & Ops Tools" />
 </a>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ 📊 TECH RADAR — WHAT I'M LEARNING THIS MONTH ═══════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 📊 TECH RADAR
+
+<img src="https://img.shields.io/badge/🧪_Lab-eBPF_Runtime_Security-A855F7?style=for-the-badge&labelColor=0d1117" alt="eBPF" />
+<img src="https://img.shields.io/badge/🤖_Lab-AI_Agent_Frameworks-22D3EE?style=for-the-badge&labelColor=0d1117" alt="AI Agents" />
+<img src="https://img.shields.io/badge/🔐_Lab-Zero_Knowledge_Proofs-EC4899?style=for-the-badge&labelColor=0d1117" alt="ZKP" />
+<img src="https://img.shields.io/badge/🏃_Lab-Go_Concurrency-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Go" />
 
 </div>
 
@@ -336,9 +353,9 @@ graph TD
 
 ### 🌌 CONTRIBUTION GALAXY
 
-<!-- GitHub Stats + Top Languages Pie (canonical URL) -->
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=emonhmamun&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=22D3EE&text_color=c9d1d9&count_private=true&include_all_commits=true&ring_color=A855F7" alt="GitHub Stats" />
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonhmamun&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&langs_count=8&hide=Jupyter%20Notebook,HTML,CSS" alt="Top Languages" />
+<!-- GitHub Stats + Top Languages Pie (reliable fork) -->
+<img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=emonhmamun&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=22D3EE&text_color=c9d1d9&count_private=true&include_all_commits=true&ring_color=A855F7" alt="GitHub Stats" />
+<img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emonhmamun&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&langs_count=8&hide=Jupyter%20Notebook,HTML,CSS" alt="Top Languages" />
 
 <br/><br/>
 
@@ -367,7 +384,13 @@ graph TD
 
 ### 🏆 TROPHY CABINET
 
-<img src="https://github-profile-trophy.vercel.app/?username=emonhmamun&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8" alt="Trophies" width="95%" />
+<!--
+🏆 TO ACTIVATE:
+The trophy service (github-profile-trophy.vercel.app) intermittently rate-limits.
+If trophies don't show, try refreshing later or deploy your own instance:
+https://github.com/ryo-ma/github-profile-trophy
+-->
+<img src="https://github-profile-trophy.vercel.app/?username=emonhmamun&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8" alt="Trophies" width="95%" onerror="this.style.display='none'" />
 
 </div>
 
@@ -383,6 +406,30 @@ graph TD
 <!--END_SECTION:activity-->
 
 <sub>⚡ Auto-refreshed every 6 hours by GitHub Actions.</sub>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ 🔗 RECOMMENDED REPOS (NEW — curated tools) ══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<details>
+<summary><strong>🔗 RECOMMENDED TOOLS</strong> — <em>tools I use & recommend</em></summary>
+
+<br/>
+
+| Tool | Purpose | Why I Use It |
+|:-----|:--------|:-------------|
+| [**Nuclei**](https://github.com/projectdiscovery/nuclei) | Vulnerability scanner | Fast, template-based, community-driven |
+| [**Nmap**](https://nmap.org/) | Network discovery | The Swiss army knife of network security |
+| [**Burp Suite**](https://portswigger.net/burp) | Web proxy | Essential for web app testing |
+| [**Grafana**](https://grafana.com/) | Monitoring dashboards | Beautiful data visualization |
+| [**n8n**](https://n8n.io/) | Workflow automation | Visual, self-hosted, powerful |
+| [**Neovim**](https://neovim.io/) | Code editor | Extensible, terminal-native, fast |
+
+<sub>💡 These are tools I personally use and recommend — not sponsored.</sub>
+
+</details>
 
 ---
 
@@ -495,6 +542,31 @@ graph LR
 | Automation Systems | Building autonomous security and workflow tools | 🔵 Building |
 | System Architecture | Designing secure, resilient infrastructure patterns | 🟣 Exploring |
 | AI Integration | Applying ML/AI to security analysis and automation | 🩷 Experimenting |
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ 📈 DEV METRICS (NEW — quantitative stats) ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 📈 DEV METRICS
+
+<img src="https://img.shields.io/badge/Total_Repos-0-7C3AED?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Repos" />
+<img src="https://img.shields.io/github/followers/emonhmamun?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Followers" />
+<img src="https://img.shields.io/github/stars/emonhmamun?style=for-the-badge&labelColor=0d1117&logo=star&logoColor=white" alt="Stars" />
+<img src="https://img.shields.io/badge/Commit_Streak-Check_graph_above-22D3EE?style=for-the-badge&labelColor=0d1117" alt="Streak" />
+<img src="https://img.shields.io/badge/Actions_Workflows-3_Automated-A855F7?style=for-the-badge&labelColor=0d1117&logo=githubactions&logoColor=white" alt="Workflows" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/GitHub_Age-Active_Since_2025-EC4899?style=flat-square&labelColor=0d1117" alt="Age" />
+<img src="https://img.shields.io/badge/Profile_Views-See_badge_above-7C3AED?style=flat-square&labelColor=0d1117" alt="Views" />
+<img src="https://img.shields.io/badge/Lines_of_Code-See_stats-22D3EE?style=flat-square&labelColor=0d1117" alt="LOC" />
+<img src="https://img.shields.io/badge/Open_Source-100%25-7C3AED?style=flat-square&labelColor=0d1117" alt="Open Source" />
+
+</div>
 
 ---
 
@@ -645,7 +717,14 @@ Example workflow generates content between these markers:
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><strong>🎮 FUN ZONE</strong> — a security puzzle for visitors</summary>
+<summary><strong>🎮 FUN ZONE</strong> — security puzzles & interactive links</summary>
+
+<br/>
+
+**🔑 ACCESS CHALLENGE** — Can you find the 3 hidden sections on this profile?
+<sub>Hint: expand every `<details>` block. The perimeter rewards the curious.</sub>
+
+<br/>
 
 <br/>
 
