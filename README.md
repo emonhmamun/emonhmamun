@@ -82,7 +82,7 @@ class EmonHMamun:
 <img height="170" src="https://github-readme-stats-alpha-five.vercel.app/api?username=emonhmamun&show_icons=true&hide=contribs&theme=transparent&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=22D3EE&hide_border=true&ring_color=A855F7" alt="GitHub Stats" />
 </td>
 <td>
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emonhmamun&layout=pie&theme=transparent&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&hide_border=true&size_weight=1&count_weight=0.5" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats-taupe.vercel.app/api/top-langs/?username=emonhmamun&layout=pie&theme=transparent&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&hide_border=true&size_weight=1&count_weight=0.5" alt="Top Languages" />
 </td>
 <td>
 <img height="170" src="https://streak-stats.demolab.com?user=emonhmamun&theme=dark&hide_border=true&background=0d1117&stroke=A855F7&ring=7C3AED&fire=EC4899&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=c9d1d9" alt="GitHub Streak" />
@@ -271,14 +271,14 @@ graph TD
 <td width="50%">
 
 <a href="https://github.com/emonhmamun/CleanSweep-Pro">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=emonhmamun&repo=CleanSweep-Pro&theme=transparent&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=22D3EE&hide_border=true&show_owner=false" alt="CleanSweep-Pro" width="100%" />
+  <img src="https://github-readme-stats-taupe.vercel.app/api/pin/?username=emonhmamun&repo=CleanSweep-Pro&theme=transparent&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=22D3EE&hide_border=true&show_owner=false" alt="CleanSweep-Pro" width="100%" />
 </a>
 
 </td>
 <td width="50%">
 
 <a href="https://github.com/emonhmamun/NeoMate-Agent-AI">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=emonhmamun&repo=NeoMate-Agent-AI&theme=transparent&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=22D3EE&hide_border=true&show_owner=false" alt="NeoMate-Agent-AI" width="100%" />
+  <img src="https://github-readme-stats-taupe.vercel.app/api/pin/?username=emonhmamun&repo=NeoMate-Agent-AI&theme=transparent&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=22D3EE&hide_border=true&show_owner=false" alt="NeoMate-Agent-AI" width="100%" />
 </a>
 
 </td>
