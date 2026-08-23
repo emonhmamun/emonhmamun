@@ -1,19 +1,19 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ GALAXY EDITION HEADER — CONSTELLATION ANIMATION ════════ -->
+<!-- ═══ GALAXY EDITION v2.0 — CONSTELLATION ANIMATION ════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:EC4899&height=260&section=header&text=EMON%20H.%20MAMUN&fontSize=50&fontColor=ffffff&desc=Security%20Researcher%20%7C%20Automation%20Architect%20%7C%20System%20Builder&descSize=18&descColor=22D3EE&descAlignY=53&stroke=A855F7&strokeWidth=1&animation=constellation&fontAlignY=32" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ DYNAMIC TYPING SVG — MULTI-LINE ANIMATION ══════════════ -->
+<!-- ═══ DYNAMIC TYPING SVG — MULTI-LINE ANIMATION ════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=Security+Researcher+%26+Automation+Architect;Navigating+the+Galaxy+of+Code+%26+Security;Building+Autonomous+Defense+Systems;Exploring+the+Intersection+of+Security+%26+AI;Crafting+Tools+That+Watch+The+Perimeter" alt="Typing SVG" />
 </a>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ STATUS BADGES + VISITOR COUNTER ════════════════════════ -->
+<!-- ═══ STATUS BADGES + VISITOR COUNTER (upgraded) ════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <p>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-7C3AED?style=for-the-badge&labelColor=0d1117&logo=handshake&logoColor=white" alt="Status" />
@@ -22,7 +22,7 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=emonhmamun&color=A855F7&style=flat-square&labelColor=0d1117&label=VISITORS" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Femonhmamun&count_bg=%23A855F7&title_bg=%230d1117&title=VISITORS&edge_flat=true" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/emonhmamun?style=flat-square&color=A855F7&labelColor=0d1117&label=FOLLOWERS" alt="Followers" />
   <img src="https://img.shields.io/github/stars/emonhmamun?style=flat-square&color=22D3EE&labelColor=0d1117&label=STARS" alt="Stars" />
 </p>
@@ -116,7 +116,7 @@ class EmonHMamun:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ SKILL ICONS ═════════════════════════════════════════════ -->
+<!-- ═══ SKILL ICONS ══════════════════════════════════════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -138,7 +138,7 @@ class EmonHMamun:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ 🌟 SKILL POWER LEVELS — GALAXY EDITION ═════════════════ -->
+<!-- ═══ 🌟 SKILL POWER LEVELS — GALAXY EDITION ══════════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <details>
@@ -165,12 +165,10 @@ class EmonHMamun:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ DETAILED TECH TABLE ════════════════════════════════════ -->
+<!-- ═══ DETAILED TECH TABLE (responsive — stacked on mobile) ════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<table>
-<tr>
-<td align="center" width="20%">
+<div align="center">
 
 **LANGUAGES**
 
@@ -180,8 +178,7 @@ class EmonHMamun:
 ![Bash](https://img.shields.io/badge/Bash-EC4899?style=flat-square&logo=gnubash&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-60A5FA?style=flat-square&logo=go&logoColor=white)
 
-</td>
-<td align="center" width="20%">
+<br/><br/>
 
 **SECURITY**
 
@@ -191,8 +188,7 @@ class EmonHMamun:
 ![Nmap](https://img.shields.io/badge/Nmap-EC4899?style=flat-square&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-60A5FA?style=flat-square&logo=metasploit&logoColor=white)
 
-</td>
-<td align="center" width="20%">
+<br/><br/>
 
 **FRAMEWORKS**
 
@@ -202,8 +198,7 @@ class EmonHMamun:
 ![Tailwind](https://img.shields.io/badge/Tailwind-EC4899?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-60A5FA?style=flat-square&logo=prisma&logoColor=white)
 
-</td>
-<td align="center" width="20%">
+<br/><br/>
 
 **INFRASTRUCTURE**
 
@@ -213,8 +208,7 @@ class EmonHMamun:
 ![AWS](https://img.shields.io/badge/AWS-EC4899?style=flat-square&logo=amazonaws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-60A5FA?style=flat-square&logo=cloudflare&logoColor=white)
 
-</td>
-<td align="center" width="20%">
+<br/><br/>
 
 **AI / AUTOMATION**
 
@@ -223,14 +217,12 @@ class EmonHMamun:
 ![n8n](https://img.shields.io/badge/n8n-A855F7?style=flat-square&logo=n8n&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-EC4899?style=flat-square&logoColor=white)
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ ANIMATED SECTION DIVIDER — FIRE ANIMATION ═════════════ -->
+<!-- ═══ ANIMATED SECTION DIVIDER — FIRE ANIMATION ══════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:7C3AED,100:22D3EE&height=80&section=header&fontSize=0&animation=fire" />
@@ -238,7 +230,7 @@ class EmonHMamun:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ TERMINAL SIMULATION ════════════════════════════════════ -->
+<!-- ═══ TERMINAL SIMULATION ══════════════════════════════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <details>
@@ -337,21 +329,21 @@ graph TD
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ CONTRIBUTION FLOW — PREMIUM MULTI-CARD LAYOUT ════════ -->
+<!-- ═══ CONTRIBUTION GALAXY — FIXED URLs ══════════════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ### 🌌 CONTRIBUTION GALAXY
 
-<!-- GitHub Stats + Top Languages -->
-<img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=emonhmamun&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=22D3EE&text_color=c9d1d9&count_private=true&include_all_commits=true&ring_color=A855F7" alt="GitHub Stats" />
-<img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emonhmamun&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<!-- GitHub Stats + Top Languages Pie (canonical URL) -->
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=emonhmamun&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=22D3EE&text_color=c9d1d9&count_private=true&include_all_commits=true&ring_color=A855F7" alt="GitHub Stats" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonhmamun&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&langs_count=8&hide=Jupyter%20Notebook,HTML,CSS" alt="Top Languages" />
 
 <br/><br/>
 
-<!-- Streak Stats -->
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=emonhmamun&theme=dark&hide_border=true&background=0d1117&stroke=A855F7&ring=7C3AED&fire=EC4899&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=c9d1d9" alt="GitHub Streak" />
+<!-- Streak Stats (MIGRATED to demolab — herokuapp is dead) -->
+<img height="180" src="https://streak-stats.demolab.com?user=emonhmamun&theme=dark&hide_border=true&background=0d1117&stroke=A855F7&ring=7C3AED&fire=EC4899&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=c9d1d9" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -368,7 +360,21 @@ graph TD
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ RECENT ACTIVITY — auto-updated by workflow (FIXED) ═════ -->
+<!-- ═══ 🏆 TROPHY CABINET (NEW — auto-unlocked from GitHub data) ══ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🏆 TROPHY CABINET
+
+<img src="https://github-profile-trophy.vercel.app/?username=emonhmamun&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8" alt="Trophies" width="95%" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ RECENT ACTIVITY — auto-updated by workflow ═════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📡 RECENT ACTIVITY
@@ -408,12 +414,18 @@ graph TD
 <img src="https://img.shields.io/badge/Shell-Bash%20%7C%20Zsh-A855F7?style=flat-square&labelColor=0d1117&logo=gnubash&logoColor=white" alt="Shell" />
 <img src="https://img.shields.io/badge/Timezone-GMT%2B6%20Dhaka-EC4899?style=flat-square&labelColor=0d1117&logo=world&logoColor=white" alt="Timezone" />
 
+<br/><br/>
+
+<!-- NEW: Live Threat Level Indicator -->
+<img src="https://img.shields.io/badge/⚡_Global_Threat_Level-ELEVATED-yellow?style=for-the-badge&labelColor=0d1117" alt="Threat Level" />
+<img src="https://img.shields.io/badge/Updated-Every%206%20hours-7C3AED?style=flat-square&labelColor=0d1117" alt="Update Freq" />
+
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ DYNAMIC TYPING — QUOTE ROTATION ═══════════════════════ -->
+<!-- ═══ DYNAMIC TYPING — QUOTE ROTATION ════════════════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -427,7 +439,7 @@ graph TD
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ NEURAL NETWORK VISUALIZATION ═══════════════════════════ -->
+<!-- ═══ NEURAL NETWORK VISUALIZATION ════════════════════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <details>
@@ -472,7 +484,7 @@ graph LR
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ CURRENT FOCUS TABLE ════════════════════════════════════ -->
+<!-- ═══ CURRENT FOCUS ══════════════════════════════════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ### 🎯 CURRENT FOCUS
@@ -487,7 +499,7 @@ graph LR
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ PRINCIPLES & PHILOSOPHY ════════════════════════════════ -->
+<!-- ═══ PRINCIPLES & PHILOSOPHY ══════════════════════════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 > *"Every system I build starts as a question: what would this look like if it could defend itself?"*
@@ -499,7 +511,28 @@ graph LR
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ 🏆 ACHIEVEMENT WALL — GAMIFIED (UNIQUE) ════════════════ -->
+<!-- ═══ 🔍 NOW — WHAT I'M CURRENTLY UP TO (NEW) ══════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<details>
+<summary><strong>🔍 CURRENTLY</strong> — <em>what I'm working on right now</em></summary>
+
+<br/>
+
+| 💻 Building | 📖 Learning | 🎯 Exploring |
+|:------------|:-------------|:--------------|
+| Autonomous security agents | AI-powered threat detection | Container escape techniques |
+| Personal automation toolkit | Go concurrency patterns | Zero-knowledge proofs |
+| GitHub Actions workflows | LangChain agent architectures | eBPF for runtime security |
+
+<sub>⏰ This section is updated manually. Last refreshed: see the Live Dynamic Block above.</sub>
+
+</details>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ 🏆 ACHIEVEMENT WALL — GAMIFIED ══════════════════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -537,7 +570,78 @@ graph LR
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ 🎮 FUN ZONE — CIPHER CHALLENGE (UNIQUE) ════════════════ -->
+<!-- ═══ 🎵 SPOTIFY NOW PLAYING (ready-to-activate) ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<details>
+<summary><strong>🎵 NOW PLAYING</strong> — <em>what's on my speakers</em></summary>
+
+<br/>
+
+<!--
+🎙️ TO ACTIVATE:
+1. Go to https://spotify-github-profile.vercel.app and login with Spotify
+2. Add the generated image URL below (replace the placeholder comment)
+3. Or deploy your own instance: https://github.com/kittinan/spotify-github-profile
+
+Example:
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=dark&show_offline=false&background_color=0d1117&interchange=false&bar_color=A855F7&bar_color_cover=false" alt="Spotify Now Playing" width="350" />
+-->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎵_Spotify-Connect_to_activate-1DB954?style=for-the-badge&labelColor=0d1117&logo=spotify&logoColor=white" alt="Spotify" />
+
+<br/>
+
+<sub>🎙️ Spotify integration is ready. Connect your account to show live "now playing" data here. <a href="https://github.com/kittinan/spotify-github-profile">Setup Guide</a></sub>
+
+</div>
+
+</details>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ 📰 LATEST WRITING (ready-to-activate) ════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<details>
+<summary><strong>📰 LATEST WRITING</strong> — <em>recent blog posts & articles</em></summary>
+
+<br/>
+
+<!--
+🎙️ TO ACTIVATE:
+1. Fork https://github.com/gautamkrishnar/blog-post-workflow
+2. Add your blog RSS feed URL as a GitHub secret (BLOG_RSS_FEED)
+3. Add the workflow to .github/workflows/
+4. Uncomment the section markers below
+
+Supported: Dev.to, Medium, Hashnode, WordPress, any RSS feed
+
+Example workflow generates content between these markers:
+-->
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/📝_Blog-Auto_updates_via_GitHub_Actions-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Blog" />
+
+<br/>
+
+<sub>📱 Blog post cards will auto-appear here once the workflow is activated. <a href="https://github.com/gautamkrishnar/blog-post-workflow">Setup Guide</a></sub>
+
+</div>
+
+</details>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ 🎮 FUN ZONE — CIPHER CHALLENGE ══════════════════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <details>
@@ -565,12 +669,72 @@ GUR CREVZRGRE UBYQF - PHEVBFVGL VF GUR GEHR SVERJNYY
 
 **🕵️ LIVE THREAT FEED** — watch the internet's background noise: [cybermap.kaspersky.com](https://cybermap.kaspersky.com/)
 
+**🌍 SHODAN VIEW** — explore exposed devices worldwide: [shodan.io](https://www.shodan.io/)
+
+**🧪 MALWARE TRAFFIC** — real-time malware distribution map: [malware-traffic-analysis.net](https://www.malware-traffic-analysis.net/)
+
 </details>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ ANIMATED SECTION DIVIDER — BLINKING STARS ═════════════ -->
+<!-- ═══ ❓ FAQ ACCORDION (NEW — visitor Q&A) ══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<details>
+<summary><strong>❓ FREQUENTLY ASKED</strong> — things people ask me</summary>
+
+<br/>
+
+<details>
+<summary>❓ <strong>Are you available for collaboration or freelance work?</strong></summary>
+
+💡 Open to collaboration on security research, automation projects, and open-source tooling. Reach out via Telegram or email — let's talk about the problem first.
+
+</details>
+
+<br/>
+
+<details>
+<summary>❓ <strong>What editor and OS do you use daily?</strong></summary>
+
+💻 **Neovim** for quick edits and terminal workflows, **VS Code** for larger projects. **Linux** (Arch/Debian) as the primary OS. Everything runs in containers when possible.
+
+</details>
+
+<br/>
+
+<details>
+<summary>❓ <strong>How do you learn cybersecurity?</strong></summary>
+
+🔍 Hands-on. HTB boxes, CTF challenges, reading source code, building tools for my own problems, and breaking things on personal labs before they break in production.
+
+</details>
+
+<br/>
+
+<details>
+<summary>❓ <strong>Can I use your tools or projects?</strong></summary>
+
+📦 Absolutely. Everything open-source is MIT/Apache licensed unless stated otherwise. Star the repo if it helps you — that's the only payment I ask.
+
+</details>
+
+<br/>
+
+<details>
+<summary>❓ <strong>What's your take on AI in security?</strong></summary>
+
+🤖 AI is a force multiplier, not a replacement. I use LLMs for code assistance, threat analysis acceleration, and automating repetitive recon. But the human intuition for creative exploitation? That stays human.
+
+</details>
+
+</details>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══ ANIMATED SECTION DIVIDER — BLINKING STARS ═══════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:EC4899,100:22D3EE&height=80&section=header&fontSize=0&animation=blinking" />
@@ -578,7 +742,7 @@ GUR CREVZRGRE UBYQF - PHEVBFVGL VF GUR GEHR SVERJNYY
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ WAKATIME — RESERVED SLOT (activate later) ══════════════ -->
+<!-- ═══ ⏱️ WAKATIME — RESERVED SLOT (activate later) ═════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <details>
@@ -607,7 +771,7 @@ GUR CREVZRGRE UBYQF - PHEVBFVGL VF GUR GEHR SVERJNYY
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ DETAILED ABOUT SECTION ═════════════════════════════════ -->
+<!-- ═══ DETAILED ABOUT SECTION ════════════════════════════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <details>
@@ -643,7 +807,7 @@ GUR CREVZRGRE UBYQF - PHEVBFVGL VF GUR GEHR SVERJNYY
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ CONNECT ═════════════════════════════════════════════════ -->
+<!-- ═══ 📡 CONNECT ════════════════════════════════════════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -663,12 +827,24 @@ GUR CREVZRGRE UBYQF - PHEVBFVGL VF GUR GEHR SVERJNYY
   <img src="https://img.shields.io/badge/Email-ehm.businessbd@gmail.com-EC4899?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
+<br/><br/>
+
+<!-- NEW: Additional Social Badges -->
+<a href="https://x.com/">
+  <img src="https://img.shields.io/badge/X_(Twitter)-Connect-7C3AED?style=for-the-badge&labelColor=0d1117&logoColor=white" alt="X" />
+</a>
+<a href="https://linkedin.com/in/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-22D3EE?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<sub><em>X / LinkedIn — update the URL above with your actual profile links</em></sub>
+
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ PREMIUM FOOTER BANNER ══════════════════════════════════ -->
+<!-- ═══ PREMIUM FOOTER BANNER ════════════════════════════════════ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -678,7 +854,7 @@ GUR CREVZRGRE UBYQF - PHEVBFVGL VF GUR GEHR SVERJNYY
 <br/>
 
 <img src="https://img.shields.io/badge/Built%20with-Curiosity%20%26%20Purpose-7C3AED?style=flat-square&labelColor=0d1117" alt="Built with" />
-<img src="https://img.shields.io/badge/Theme-Galaxy%20Edition%20%F0%9F%8C%8C-22D3EE?style=flat-square&labelColor=0d1117" alt="Theme" />
+<img src="https://img.shields.io/badge/Theme-Galaxy%20Edition%20v2.0%20🌌-22D3EE?style=flat-square&labelColor=0d1117" alt="Theme" />
 <img src="https://img.shields.io/badge/Self%20Updating-GitHub%20Actions-A855F7?style=flat-square&labelColor=0d1117&logo=githubactions&logoColor=white" alt="Self Updating" />
 
 </div>
