@@ -1,57 +1,71 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ GALAXY EDITION v2.1 — CONSTELLATION ANIMATION ════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:EC4899&height=260&section=header&text=EMON%20H.%20MAMUN&fontSize=50&fontColor=ffffff&desc=Security%20Researcher%20%7C%20Automation%20Architect%20%7C%20System%20Builder&descSize=18&descColor=22D3EE&descAlignY=53&stroke=A855F7&strokeWidth=1&animation=constellation&fontAlignY=32" />
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════ GALAXY EDITION v3.0 — CONSTELLATION ════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:EC4899&height=280&section=header&text=EMON%20H.%20MAMUN&fontSize=50&fontColor=ffffff&desc=Security%20Researcher%20%7C%20Automation%20Architect%20%7C%20System%20Builder&descSize=18&descColor=22D3EE&descAlignY=54&stroke=A855F7&strokeWidth=1&animation=constellation&fontAlignY=32" />
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ DYNAMIC TYPING SVG — MULTI-LINE ANIMATION ════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════ DYNAMIC TYPING SVG — MULTI-LINE ANIMATION ═══════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=Security+Researcher+%26+Automation+Architect;Navigating+the+Galaxy+of+Code+%26+Security;Building+Autonomous+Defense+Systems;Exploring+the+Intersection+of+Security+%26+AI;Crafting+Tools+That+Watch+The+Perimeter" alt="Typing SVG" />
 </a>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ STATUS BADGES + VISITOR COUNTER (upgraded) ════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════ STATUS BADGES + VISITOR COUNTER ══════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <p>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-7C3AED?style=for-the-badge&labelColor=0d1117&logo=handshake&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-Security%20%7C%20Automation%20%7C%20Systems-22D3EE?style=for-the-badge&labelColor=0d1117&logo=shield&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Location-Bangladesh-EC4899?style=for-the-badge&labelColor=0d1117&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Bangladesh%20🇧🇩-EC4899?style=for-the-badge&labelColor=0d1117&logoColor=white" alt="Location" />
 </p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=emonhmamun&color=A855F7&style=flat-square&labelColor=0d1117&label=VISITORS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/emonhmamun?style=flat-square&color=A855F7&labelColor=0d1117&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/emonhmamun?style=flat-square&color=22D3EE&labelColor=0d1117&label=STARS" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/emonhmamun?style=social&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/emonhmamun?style=social&labelColor=0d1117" alt="Stars" />
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ 🛰️ LIVE DYNAMIC BLOCK (auto-updated by GitHub Actions) ═══ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════ 🛰️ LIVE DYNAMIC BLOCK (auto-updated by GitHub Actions) ═════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <!--DYNAMIC:START-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%9B%B0%EF%B8%8F_LIVE_FROM_DHAKA-GMT%2B6-7C3AED?style=flat-square&labelColor=0d1117" alt="Live from Dhaka" />
-<img src="https://img.shields.io/badge/%F0%9F%92%AC_THOUGHT_OF_THE_MOMENT-refreshes_automatically-22D3EE?style=flat-square&labelColor=0d1117" alt="Quote" />
+<table>
+<tr>
+<td>
 
-🛰️ **`রাত ৩:০৯` · `রবিবার, ২৩ আগস্ট ২০২৬`** *(GMT+6 · auto-refreshed every 30 min by GitHub Actions)*
+<img src="https://img.shields.io/badge/%F0%9F%9B%B0%EF%B8%8F_LIVE_FROM_DHAKA-GMT%2B6-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Live from Dhaka" />
+
+🛰️ **`রাত ৩:০৯` · `রবিবার, ২৩ আগস্ট ২০২৬`** *(GMT+6 · auto-refreshed every 30 min)*
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/%F0%9F%92%AC_THOUGHT_OF_THE_MOMENT-refreshes_automatically-22D3EE?style=for-the-badge&labelColor=0d1117" alt="Quote" />
 
 > 💬 *"The only truly secure system is one that is powered off."*
 > — **Gene Spafford** <sub>· via Local Vault</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 <!--DYNAMIC:END-->
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:EC4899&height=60&section=header&fontSize=0&animation=twinkling" />
+
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ IDENTITY BLOCK — PYTHON CLASS ══════════════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════ IDENTITY BLOCK — PYTHON CLASS ══════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ```python
 class EmonHMamun:
@@ -81,23 +95,19 @@ class EmonHMamun:
         return "Not a professional developer — driven purely by curiosity"
 ```
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ ANIMATED SECTION DIVIDER — TWINKLING STARS ═════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:EC4899&height=80&section=header&fontSize=0&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:7C3AED,100:22D3EE&height=60&section=header&fontSize=0&animation=fire" />
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ CYBERSECURITY IDENTITY SECTION ═════════════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════ CYBERSECURITY IDENTITY SECTION ════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 🛡️ SECURITY IDENTITY
+<img src="https://img.shields.io/badge/🛡️_SECURITY_IDENTITY-Verified_Operative-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Security Identity" />
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Penetration%20Testing-Active-7C3AED?style=for-the-badge&labelColor=0d1117&logo=hackthebox&logoColor=white" alt="Pentesting" />
 <img src="https://img.shields.io/badge/Threat%20Analysis-Continuous-22D3EE?style=for-the-badge&labelColor=0d1117&logo=datadog&logoColor=white" alt="Threat Analysis" />
@@ -115,19 +125,21 @@ class EmonHMamun:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ SKILL ICONS ══════════════════════════════════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════ SKILL ICONS ════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### ⚡ TECH ARSENAL
+<img src="https://img.shields.io/badge/⚡_TECH_ARSENAL-24_Weapons_Loaded-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Tech Arsenal" />
+
+<br/><br/>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,js,ts,bash,go,docker,linux,git,github,vscode,neovim,nginx,nodejs,react,nextjs,tailwind,prisma,postgres,sqlite,redis,mongodb,aws,cloudflare,netlify&theme=dark&perline=13" alt="Tech Stack" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=kali,grafana,prometheus,ansible,terraform,jenkins,postman,gitlab,vim,pycharm,idea,selenium&theme=dark&perline=12" alt="Security & Ops Tools" />
@@ -137,13 +149,15 @@ class EmonHMamun:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ 📊 TECH RADAR — WHAT I'M LEARNING THIS MONTH ═══════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════ 📊 TECH RADAR ══════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 📊 TECH RADAR
+<img src="https://img.shields.io/badge/📊_TECH_RADAR-What_I%27m_Learning_This_Month-22D3EE?style=for-the-badge&labelColor=0d1117" alt="Tech Radar" />
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/🧪_Lab-eBPF_Runtime_Security-A855F7?style=for-the-badge&labelColor=0d1117" alt="eBPF" />
 <img src="https://img.shields.io/badge/🤖_Lab-AI_Agent_Frameworks-22D3EE?style=for-the-badge&labelColor=0d1117" alt="AI Agents" />
@@ -154,19 +168,19 @@ class EmonHMamun:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ 🌟 SKILL POWER LEVELS — GALAXY EDITION ══════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════ 🌟 SKILL POWER LEVELS ═════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><strong>🌟 SKILL POWER LEVELS</strong> — charge-up meters</summary>
+<summary><h3>🌟 SKILL POWER LEVELS</h3></summary>
 
 <br/>
 
-| Skill | Class | Power Level | Meter |
-|:-----|:-----:|:-----------:|:------|
-| 🐍 Python | Core Weapon | S | `██████████` 95% |
-| 🛡️ Security Research | Signature Move | S | `██████████` 92% |
+| Skill | Class | Power Level | Charge Meter |
+|:------|:-----:|:-----------:|:-------------|
+| 🐍 Python | Core Weapon | S+ | `██████████` 95% |
+| 🛡️ Security Research | Signature Move | S+ | `█████████▓` 92% |
 | 🤖 Automation / Agents | Core Weapon | A+ | `████████▓░` 88% |
 | 🐧 Linux / Hardening | Core Weapon | A+ | `████████▓░` 85% |
 | ⚡ Bash Scripting | Fast Attack | A | `███████▓▓░` 80% |
@@ -181,13 +195,15 @@ class EmonHMamun:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ DETAILED TECH TABLE (responsive — stacked on mobile) ════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════ DETAILED TECH TABLE (responsive stacked) ══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 **LANGUAGES**
+
+<br/>
 
 ![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-22D3EE?style=flat-square&logo=javascript&logoColor=black)
@@ -197,7 +213,9 @@ class EmonHMamun:
 
 <br/><br/>
 
-**SECURITY**
+**SECURITY TOOLS**
+
+<br/>
 
 ![Kali](https://img.shields.io/badge/Kali-7C3AED?style=flat-square&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-22D3EE?style=flat-square&logo=wireshark&logoColor=black)
@@ -209,6 +227,8 @@ class EmonHMamun:
 
 **FRAMEWORKS**
 
+<br/>
+
 ![Next.js](https://img.shields.io/badge/Next.js-7C3AED?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-22D3EE?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-A855F7?style=flat-square&logo=node.js&logoColor=white)
@@ -218,6 +238,8 @@ class EmonHMamun:
 <br/><br/>
 
 **INFRASTRUCTURE**
+
+<br/>
 
 ![Docker](https://img.shields.io/badge/Docker-7C3AED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-22D3EE?style=flat-square&logo=linux&logoColor=black)
@@ -229,6 +251,8 @@ class EmonHMamun:
 
 **AI / AUTOMATION**
 
+<br/>
+
 ![LangChain](https://img.shields.io/badge/LangChain-7C3AED?style=flat-square&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-22D3EE?style=flat-square&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-A855F7?style=flat-square&logo=n8n&logoColor=white)
@@ -238,20 +262,16 @@ class EmonHMamun:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ ANIMATED SECTION DIVIDER — FIRE ANIMATION ══════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:7C3AED,100:22D3EE&height=80&section=header&fontSize=0&animation=fire" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:A855F7,100:7C3AED&height=60&section=header&fontSize=0&animation=constellation" />
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ TERMINAL SIMULATION ══════════════════════════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════ TERMINAL SIMULATION ══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><strong>🕹️ TERMINAL SESSION</strong> — <code>whoami && cat /etc/interests</code></summary>
+<summary><h3>🕹️ TERMINAL SESSION</h3></summary>
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -299,12 +319,12 @@ class EmonHMamun:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ SECURITY ARCHITECTURE DIAGRAM ══════════════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════ SECURITY ARCHITECTURE DIAGRAM ════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><strong>🗺️ SECURITY ARCHITECTURE</strong> — Systems & Layers</summary>
+<summary><h3>🗺️ SECURITY ARCHITECTURE</h3></summary>
 
 ```mermaid
 graph TD
@@ -337,29 +357,27 @@ graph TD
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ ANIMATED SECTION DIVIDER — CONSTELLATION ══════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:A855F7,100:7C3AED&height=80&section=header&fontSize=0&animation=constellation" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:EC4899,100:22D3EE&height=60&section=header&fontSize=0&animation=blinking" />
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ CONTRIBUTION GALAXY — FIXED URLs ══════════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════ CONTRIBUTION GALAXY — FIXED URLs ═════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ### 🌌 CONTRIBUTION GALAXY
 
-<!-- GitHub Stats + Top Languages Pie (reliable fork) -->
-<img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=emonhmamun&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=22D3EE&text_color=c9d1d9&count_private=true&include_all_commits=true&ring_color=A855F7" alt="GitHub Stats" />
-<img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emonhmamun&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&langs_count=8&hide=Jupyter%20Notebook,HTML,CSS" alt="Top Languages" />
+<!-- GitHub Stats + Top Languages (migrated to alpha-five — sigma-five is DEAD) -->
+<img height="195" src="https://github-readme-stats-alpha-five.vercel.app/api?username=emonhmamun&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=22D3EE&text_color=c9d1d9&count_private=true&include_all_commits=true&ring_color=A855F7" alt="GitHub Stats" onerror="this.onerror=null;this.src='https://github-readme-stats-sigma-five.vercel.app/api?username=emonhmamun&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=22D3EE&text_color=c9d1d9&ring_color=A855F7'" />
+
+<!-- Top Languages — badge-based (donut SVG services are unreliable) -->
+<img height="195" src="https://github-readme-stats-alpha-five.vercel.app/api/top-langs/?username=emonhmamun&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&langs_count=8&hide=Jupyter%20Notebook,HTML,CSS" alt="Top Languages" onerror="this.onerror=null;this.parentElement.innerHTML='<p>📊 <em>Language stats temporarily unavailable — see Tech Arsenal above</em></p>'" />
 
 <br/><br/>
 
-<!-- Streak Stats (MIGRATED to demolab — herokuapp is dead) -->
+<!-- Streak Stats (demolab — camo proxy may be slow, service itself 200) -->
 <img height="180" src="https://streak-stats.demolab.com?user=emonhmamun&theme=dark&hide_border=true&background=0d1117&stroke=A855F7&ring=7C3AED&fire=EC4899&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=c9d1d9" alt="GitHub Streak" />
 
 <br/><br/>
@@ -370,35 +388,29 @@ graph TD
 <br/><br/>
 
 <!-- Contribution Snake Animation -->
-<img src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/output/snake-dark.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/output/snake-dark.svg" alt="Contribution Snake" onerror="this.style.display='none'" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ 🏆 TROPHY CABINET (NEW — auto-unlocked from GitHub data) ══ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════ 🏆 TROPHY CABINET ═════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ### 🏆 TROPHY CABINET
 
-<!--
-🏆 TO ACTIVATE:
-The trophy service (github-profile-trophy.vercel.app) intermittently rate-limits.
-If trophies don't show, try refreshing later or deploy your own instance:
-https://github.com/ryo-ma/github-profile-trophy
--->
-<img src="https://github-profile-trophy.vercel.app/?username=emonhmamun&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8" alt="Trophies" width="95%" onerror="this.style.display='none'" />
+<img src="https://github-profile-trophy.vercel.app/?username=emonhmamun&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8" alt="Trophies" width="95%" onerror="this.style.display='none';this.parentElement.innerHTML+='<br/><sub>🏆 Trophy service rate-limited — refresh later to view achievements</sub>'" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ RECENT ACTIVITY — auto-updated by workflow ═════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════ RECENT ACTIVITY ═══════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 📡 RECENT ACTIVITY
 
@@ -409,12 +421,12 @@ https://github.com/ryo-ma/github-profile-trophy
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ 🔗 RECOMMENDED REPOS (NEW — curated tools) ══════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════ 🔗 RECOMMENDED TOOLS ═════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><strong>🔗 RECOMMENDED TOOLS</strong> — <em>tools I use & recommend</em></summary>
+<summary><h3>🔗 RECOMMENDED TOOLS</h3></summary>
 
 <br/>
 
@@ -433,9 +445,9 @@ https://github.com/ryo-ma/github-profile-trophy
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ SYSTEM STATUS — PREMIUM DYNAMIC BADGES ════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════ SYSTEM STATUS BADGES ══════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -463,7 +475,6 @@ https://github.com/ryo-ma/github-profile-trophy
 
 <br/><br/>
 
-<!-- NEW: Live Threat Level Indicator -->
 <img src="https://img.shields.io/badge/⚡_Global_Threat_Level-ELEVATED-yellow?style=for-the-badge&labelColor=0d1117" alt="Threat Level" />
 <img src="https://img.shields.io/badge/Updated-Every%206%20hours-7C3AED?style=flat-square&labelColor=0d1117" alt="Update Freq" />
 
@@ -471,9 +482,9 @@ https://github.com/ryo-ma/github-profile-trophy
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ DYNAMIC TYPING — QUOTE ROTATION ════════════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════ DYNAMIC TYPING — QUOTE ROTATION ═══════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -485,12 +496,12 @@ https://github.com/ryo-ma/github-profile-trophy
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ NEURAL NETWORK VISUALIZATION ════════════════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════ NEURAL NETWORK VISUALIZATION ═════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><strong>🧠 NEURAL NETWORK</strong> — Knowledge Interconnections</summary>
+<summary><h3>🧠 NEURAL NETWORK</h3></summary>
 
 ```mermaid
 graph LR
@@ -530,11 +541,15 @@ graph LR
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ CURRENT FOCUS ══════════════════════════════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════ CURRENT FOCUS ═════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 ### 🎯 CURRENT FOCUS
+
+</div>
 
 | Domain | Direction | Status |
 |:------:|:---------:|:------:|
@@ -545,12 +560,12 @@ graph LR
 
 ---
 
-<!-- ══════════════════════════════════════════════════ -->
-<!-- ══ ⏰ TIMELINE — MY JOURNEY (NEW) ═════════════════════ -->
-<!-- ═════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════ ⏰ TIMELINE ═════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><strong>⏰ TIMELINE</strong> — <em>how I got here</em></summary>
+<summary><h3>⏰ TIMELINE</h3></summary>
 
 ```mermaid
 timeline
@@ -573,49 +588,57 @@ timeline
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ 📈 DEV METRICS (NEW — quantitative stats) ═══════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════ 📈 DEV METRICS ══════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ### 📈 DEV METRICS
 
-<img src="https://img.shields.io/badge/Total_Repos-0-7C3AED?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Repos" />
 <img src="https://img.shields.io/github/followers/emonhmamun?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Followers" />
 <img src="https://img.shields.io/github/stars/emonhmamun?style=for-the-badge&labelColor=0d1117&logo=star&logoColor=white" alt="Stars" />
-<img src="https://img.shields.io/badge/Commit_Streak-Check_graph_above-22D3EE?style=for-the-badge&labelColor=0d1117" alt="Streak" />
+<img src="https://img.shields.io/badge/Commit_Streak-See_graph_above-22D3EE?style=for-the-badge&labelColor=0d1117" alt="Streak" />
 <img src="https://img.shields.io/badge/Actions_Workflows-3_Automated-A855F7?style=for-the-badge&labelColor=0d1117&logo=githubactions&logoColor=white" alt="Workflows" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/GitHub_Age-Active_Since_2025-EC4899?style=flat-square&labelColor=0d1117" alt="Age" />
 <img src="https://img.shields.io/badge/Profile_Views-See_badge_above-7C3AED?style=flat-square&labelColor=0d1117" alt="Views" />
-<img src="https://img.shields.io/badge/Lines_of_Code-See_stats-22D3EE?style=flat-square&labelColor=0d1117" alt="LOC" />
-<img src="https://img.shields.io/badge/Open_Source-100%25-7C3AED?style=flat-square&labelColor=0d1117" alt="Open Source" />
+<img src="https://img.shields.io/badge/Open_Source-100%25-22D3EE?style=flat-square&labelColor=0d1117" alt="Open Source" />
+<img src="https://img.shields.io/badge/Profile_Edition-Galaxy_v3.0-7C3AED?style=flat-square&labelColor=0d1117" alt="Edition" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ PRINCIPLES & PHILOSOPHY ══════════════════════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════ PRINCIPLES & PHILOSOPHY ════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-> *"Every system I build starts as a question: what would this look like if it could defend itself?"*
+<details>
+<summary><h3>📜 PRINCIPLES & PHILOSOPHY</h3></summary>
 
-> *"Not a professional developer — driven purely by curiosity. Every tool I make solves a problem I actually have."*
+<br/>
 
-> *"In the space between code and consequence, I build what watches the perimeter."*
+> 💜 *"Every system I build starts as a question: what would this look like if it could defend itself?"*
+
+> 🌊 *"Not a professional developer — driven purely by curiosity. Every tool I make solves a problem I actually have."*
+
+> 🌌 *"In the space between code and consequence, I build what watches the perimeter."*
+
+> ⚡ *"Curiosity-driven, not profession-defined. The perimeter is the philosophy."*
+
+</details>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ 🔍 NOW — WHAT I'M CURRENTLY UP TO (NEW) ══════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════ 🔍 CURRENTLY ═════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><strong>🔍 CURRENTLY</strong> — <em>what I'm working on right now</em></summary>
+<summary><h3>🔍 CURRENTLY</h3></summary>
 
 <br/>
 
@@ -631,9 +654,9 @@ timeline
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ 🏆 ACHIEVEMENT WALL — GAMIFIED ══════════════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════ 🏆 ACHIEVEMENT WALL ═══════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -669,12 +692,15 @@ timeline
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ 🎵 SPOTIFY NOW PLAYING (ready-to-activate) ═══════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:A855F7,100:22D3EE&height=60&section=header&fontSize=0&animation=rainbow" />\n
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════ 🎵 SPOTIFY NOW PLAYING ════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><strong>🎵 NOW PLAYING</strong> — <em>what's on my speakers</em></summary>
+<summary><h3>🎵 NOW PLAYING</h3></summary>
 
 <br/>
 
@@ -702,12 +728,12 @@ Example:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ 📰 LATEST WRITING (ready-to-activate) ════════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════ 📰 LATEST WRITING ══════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><strong>📰 LATEST WRITING</strong> — <em>recent blog posts & articles</em></summary>
+<summary><h3>📰 LATEST WRITING</h3></summary>
 
 <br/>
 
@@ -736,37 +762,39 @@ Example workflow generates content between these markers:
 
 </div>
 
----
-
-<!-- ════════════════════════════════════════════════════ -->
-<!-- ══ 📝 GITHUB CARD (NEW) ═════════════════════════════ -->
-<!-- ══════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 📝 GITHUB CARD
-
-<a href="https://github.com/emonhmamun">
-  <img src="https://github-card-cards.vercel.app/api?username=emonhmamun&theme=dark&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&show_icons=true&icon_color=22D3EE" alt="GitHub Card" width="400" />
-</a>
-
 </details>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ 🎮 FUN ZONE — CIPHER CHALLENGE ══════════════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════ 🏙️ GITHUB SKYLINE ═════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🏙️ CONTRIBUTION SKYLINE
+
+<img width="95%" src="https://skyline.github.com/emonhmamun/2024" alt="2024 Skyline" onerror="this.style.display='none'" />
+<img width="95%" src="https://skyline.github.com/emonhmamun/2025" alt="2025 Skyline" onerror="this.style.display='none'" />
+<img width="95%" src="https://skyline.github.com/emonhmamun/2026" alt="2026 Skyline" onerror="this.style.display='none'" />
+
+<sub>🏙️ 3D contribution cityscape generated from your GitHub activity. Click any building to see the commit.</sub>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════ 🎮 FUN ZONE ═══════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><strong>🎮 FUN ZONE</strong> — security puzzles & interactive links</summary>
+<summary><h3>🎮 FUN ZONE</h3></summary>
 
 <br/>
 
 **🔑 ACCESS CHALLENGE** — Can you find the 3 hidden sections on this profile?
 <sub>Hint: expand every `<details>` block. The perimeter rewards the curious.</sub>
-
-<br/>
 
 <br/>
 
@@ -786,24 +814,24 @@ GUR CREVZRGRE UBYQF - PHEVBFVGL VF GUR GEHR SVERJNYY
 
 <br/>
 
-**🎲 COIN FLIP** — indecisive? Let entropy decide: [Flip it](https://en.wikipedia.org/wiki/Special:Random)
-
-**🕵️ LIVE THREAT FEED** — watch the internet's background noise: [cybermap.kaspersky.com](https://cybermap.kaspersky.com/)
-
-**🌍 SHODAN VIEW** — explore exposed devices worldwide: [shodan.io](https://www.shodan.io/)
-
-**🧪 MALWARE TRAFFIC** — real-time malware distribution map: [malware-traffic-analysis.net](https://www.malware-traffic-analysis.net/)
+| 🔗 Link | 📝 Description |
+|:--------|:--------------|
+| 🎲 [Flip a Coin](https://en.wikipedia.org/wiki/Special:Random) | Let entropy decide |
+| 🕵️ [Kaspersky Cybermap](https://cybermap.kaspersky.com/) | Real-time global threat visualization |
+| 🌍 [Shodan](https://www.shodan.io/) | Explore exposed devices worldwide |
+| 🧪 [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/) | Real-time malware distribution map |
+| 🌐 [AbuseIPDB](https://www.abuseipdb.com/) | Check IP reputation scores |
 
 </details>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ ❓ FAQ ACCORDION (NEW — visitor Q&A) ══════════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════ ❓ FAQ ACCORDION ════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><strong>❓ FREQUENTLY ASKED</strong> — things people ask me</summary>
+<summary><h3>❓ FREQUENTLY ASKED</h3></summary>
 
 <br/>
 
@@ -854,49 +882,47 @@ GUR CREVZRGRE UBYQF - PHEVBFVGL VF GUR GEHR SVERJNYY
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ ANIMATED SECTION DIVIDER — BLINKING STARS ═══════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:EC4899,100:22D3EE&height=80&section=header&fontSize=0&animation=blinking" />
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ ⏱️ WAKATIME — RESERVED SLOT (activate later) ═════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════ ⏱️ WAKATIME CODING TIME ═══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><strong>⏱️ CODING TIME STATS</strong> — <em>reserved · activation pending</em></summary>
+<summary><h3>⏱️ CODING TIME STATS</h3></summary>
 
 <br/>
 
 <!--
-🚀 TO ACTIVATE (later):
+🚀 TO ACTIVATE:
 1. Create a free account at https://wakatime.com and install the plugin in your editor
 2. Go to wakatime.com/settings/api-key and copy your API key
 3. Add it as a repository secret named WAKATIME_API_KEY (GitHub → Settings → Secrets and variables → Actions)
 4. Uncomment the image below and this section will light up with live coding-time stats
 -->
 
+<div align="center">
+
 <!-- UNCOMMENT AFTER ADDING WAKATIME_API_KEY SECRET:
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=emonhmamun&api_domain=wakatime.com&bg_color=0d1117&title_color=A855F7&icon_color=22D3EE&text_color=c9d1d9&hide_border=true&langs_count=6" alt="WakaTime" />
+<img src="https://github-readme-stats-alpha-five.vercel.app/api/wakatime?username=emonhmamun&api_domain=wakatime.com&bg_color=0d1117&title_color=A855F7&icon_color=22D3EE&text_color=c9d1d9&hide_border=true&langs_count=6" alt="WakaTime" />
 -->
 
-**⏳ Coming soon:** *live coding-time analytics — which languages I actually grind, hour by hour.*
+<img src="https://img.shields.io/badge/⏱️_WakaTime-Connect_to_activate-22D3EE?style=for-the-badge&labelColor=0d1117&logo=wakatime&logoColor=white" alt="WakaTime" />
 
-<sub>Hook: [wakatime.com](https://wakatime.com) · Plugin auto-tracks editor time · badge lights up once the API key lands in repo secrets.</sub>
+<br/>
+
+<sub>🚀 Live coding-time analytics — which languages I actually grind, hour by hour. <a href="https://wakatime.com">Sign up free</a> → Install plugin → Add API key as repo secret.</sub>
+
+</div>
 
 </details>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ DETAILED ABOUT SECTION ════════════════════════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════ MORE ABOUT ME ════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><strong>🌌 MORE ABOUT ME</strong></summary>
+<summary><h3>🌌 MORE ABOUT ME</h3></summary>
 
 <br/>
 
@@ -927,9 +953,13 @@ GUR CREVZRGRE UBYQF - PHEVBFVGL VF GUR GEHR SVERJNYY
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ 📡 CONNECT ════════════════════════════════════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:EC4899,100:A855F7&height=60&section=header&fontSize=0&animation=twinkling" />
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════ 📡 CONNECT ═════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -950,7 +980,6 @@ GUR CREVZRGRE UBYQF - PHEVBFVGL VF GUR GEHR SVERJNYY
 
 <br/><br/>
 
-<!-- NEW: Additional Social Badges -->
 <a href="https://x.com/">
   <img src="https://img.shields.io/badge/X_(Twitter)-Connect-7C3AED?style=for-the-badge&labelColor=0d1117&logoColor=white" alt="X" />
 </a>
@@ -964,9 +993,9 @@ GUR CREVZRGRE UBYQF - PHEVBFVGL VF GUR GEHR SVERJNYY
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ 🌐 AT A GLANCE ═════════════════════════════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════ 🌐 AT A GLANCE ══════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -981,9 +1010,9 @@ GUR CREVZRGRE UBYQF - PHEVBFVGL VF GUR GEHR SVERJNYY
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ═══ PREMIUM FOOTER BANNER ════════════════════════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════ PREMIUM FOOTER BANNER ═════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -992,7 +1021,7 @@ GUR CREVZRGRE UBYQF - PHEVBFVGL VF GUR GEHR SVERJNYY
 <br/>
 
 <img src="https://img.shields.io/badge/Built%20with-Curiosity%20%26%20Purpose-7C3AED?style=flat-square&labelColor=0d1117" alt="Built with" />
-<img src="https://img.shields.io/badge/Theme-Galaxy%20Edition%20v2.1%20🌌-22D3EE?style=flat-square&labelColor=0d1117" alt="Theme" />
+<img src="https://img.shields.io/badge/Theme-Galaxy%20Edition%20v3.0%20🌌-22D3EE?style=flat-square&labelColor=0d1117" alt="Theme" />
 <img src="https://img.shields.io/badge/Self%20Updating-GitHub%20Actions-A855F7?style=flat-square&labelColor=0d1117&logo=githubactions&logoColor=white" alt="Self Updating" />
 
 </div>
