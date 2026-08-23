@@ -711,7 +711,7 @@ timeline
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:A855F7,100:22D3EE&height=60&section=header&fontSize=0&animation=rainbow" />\n
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:A855F7,100:22D3EE&height=60&section=header&fontSize=0&animation=rainbow" />
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
