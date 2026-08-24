@@ -1,0 +1,55 @@
+name: Track Coding Activity
+
+on:
+  workflow_dispatch:
+    inputs:
+      activity:
+        description: 'Activity type'
+        required: true
+        default: 'coding'
+        type: choice
+        options:
+          - coding
+          - security-research
+          - automation
+          - system-building
+          - debugging
+          - learning
+          - ctf
+          - review
+      duration:
+        description: 'Duration in minutes'
+        required: false
+        default: '60'
+  schedule:
+    - cron: '30 0 * * *'
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Update Activity Data
+        run: python3 .github/scripts/update_activity.py
+        env:
+          ACTIVITY_TYPE: ${{ github.event.inputs.activity || '' }}
+          DURATION_MINUTES: ${{ github.event.inputs.duration || '0' }}
+          EVENT_NAME: ${{ github.event_name }}
+          TZ: Asia/Dhaka
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || (git commit -m "🔄 activity: update coding status" && git push)
