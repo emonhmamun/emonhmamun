@@ -95,7 +95,58 @@ class EmonHMamun:
 
 ### TECH ARSENAL
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,ts,bash,go,docker,linux,git,github,vscode,neovim,nginx,nodejs,react,nextjs,tailwind,prisma,postgres,sqlite,redis,mongodb,aws,cloudflare,netlify,firebase,kubernetes,figma,grafana&theme=dark&perline=13" alt="Tech Stack" /></a>
+<img src="https://img.shields.io/badge/LANGUAGES-7C3AED?style=for-the-badge&labelColor=0d1117" alt="" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,ts,bash,go,rust,java,cpp,c,cs,php,ruby,swift,kotlin,dart,elixir,lua,perl,html,css,sql,yaml,markdown&theme=dark&perline=12" alt="Languages" /></a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/FRONTEND-22D3EE?style=for-the-badge&labelColor=0d1117" alt="" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,nuxt,nestjs,express,flask,django,fastapi,spring,tailwind,bootstrap,materialui,sass,less,threejs,webpack,vite,bun,deno,nodejs&theme=dark&perline=12" alt="Frontend" /></a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/BACKEND_&_APIS-A855F7?style=for-the-badge&labelColor=0d1117" alt="" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=graphql,rest,grpc,websocket,socketio,postman,insomnia,swagger,openapi,jwt,oauth,prisma,supabase,firebase,appwrite&theme=dark&perline=12" alt="Backend" /></a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/DATABASES-EC4899?style=for-the-badge&labelColor=0d1117" alt="" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb,sqlite,mongodb,redis,elasticsearch,cassandra,dynamodb,firestore,neo4j&theme=dark&perline=12" alt="Databases" /></a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/CLOUD_&_INFRASTRUCTURE-7C3AED?style=for-the-badge&labelColor=0d1117" alt="" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,digitalocean,heroku,vercel,netlify,cloudflare,linode,oracle,cloud,render,railway,flyio,cloudrun&theme=dark&perline=12" alt="Cloud" /></a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/DEVOPS_&_CI/CD-22D3EE?style=for-the-badge&labelColor=0d1117" alt="" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,terraform,ansible,puppet,consul,vagrant,githubactions,jenkins,circleci,travisci,argo,tekton,nginx,apache,caddy,traefik,envoy&theme=dark&perline=12" alt="DevOps" /></a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/MESSAGING_&_QUEUING-A855F7?style=for-the-badge&labelColor=0d1117" alt="" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kafka,rabbitmq,zeromq,redis,celery,bullmqtt&theme=dark&perline=12" alt="Messaging" /></a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/MONITORING_&_OBSERVABILITY-EC4899?style=for-the-badge&labelColor=0d1117" alt="" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=prometheus,grafana,datadog,elk,newrelic,sentry,prometheus&theme=dark&perline=12" alt="Monitoring" /></a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/SECURITY_TOOLS-7C3AED?style=for-the-badge&labelColor=0d1117" alt="" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=openssl,wireguard,wireshark,nmap,ghidra,clamav,yara&theme=dark&perline=12" alt="Security" /></a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/OS_&_SYSTEMS-22D3EE?style=for-the-badge&labelColor=0d1117" alt="" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,debian,arch,fedora,suse,alpine,centos,systemd,docker,git,github,gitlab,bitbucket&theme=dark&perline=12" alt="OS" /></a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/EDITORS_&_PRODUCTIVITY-A855F7?style=for-the-badge&labelColor=0d1117" alt="" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,neovim,vim,sublime,emacs,figma,sketch,adobe,androidstudio,xcode&theme=dark&perline=12" alt="Editors" /></a>
 
 <br/>
 
@@ -109,6 +160,11 @@ class EmonHMamun:
 <img src="https://img.shields.io/badge/Reverse_Engineering-Exploring-EC4899?style=for-the-badge&labelColor=0d1117&logo=debug&logoColor=white" alt="RE" />
 <img src="https://img.shields.io/badge/Malware_Analysis-Learning-22D3EE?style=for-the-badge&labelColor=0d1117&logo=mcafee&logoColor=white" alt="Malware" />
 <img src="https://img.shields.io/badge/CTF-Challenger-A855F7?style=for-the-badge&labelColor=0d1117&logo=capturetheflag&logoColor=white" alt="CTF" />
+</td></tr><tr><td align="center">
+<img src="https://img.shields.io/badge/Binary_Exploitation-Research-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Binary" />
+<img src="https://img.shields.io/badge/Web_App_Hacking-Active-22D3EE?style=for-the-badge&labelColor=0d1117" alt="WebApp" />
+<img src="https://img.shields.io/badge/Cloud_Security-Learning-A855F7?style=for-the-badge&labelColor=0d1117&logo=cloudbees&logoColor=white" alt="CloudSec" />
+<img src="https://img.shields.io/badge/Incident_Response-Exploring-EC4899?style=for-the-badge&labelColor=0d1117" alt="IR" />
 </td></tr></table>
 
 </div>
@@ -452,7 +508,7 @@ Most people build things behind the perimeter. I build the perimeter itself. My 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:EC4899&height=80&section=footer&stroke=A855F7&strokeWidth=1&animation=constellation" />
 
 <img src="https://img.shields.io/badge/Built_with-Curiosity_%26_Purpose-7C3AED?style=flat-square&labelColor=0d1117" alt="Built with" />
-<img src="https://img.shields.io/badge/Theme-Galaxy_Edition_v6.0-22D3EE?style=flat-square&labelColor=0d1117" alt="Theme" />
+<img src="https://img.shields.io/badge/Theme-Galaxy_Edition_v7.0-22D3EE?style=flat-square&labelColor=0d1117" alt="Theme" />
 <img src="https://img.shields.io/badge/Not_Professional-Its_a_Hobby-EC4899?style=flat-square&labelColor=0d1117" alt="Hobby" />
 
 </div>
