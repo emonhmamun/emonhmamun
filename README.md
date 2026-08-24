@@ -260,13 +260,13 @@ class EmonHMamun:
 <table><tr>
 <td width="33%" align="center">
 
-<details><summary><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="25" height="25" /> <b>Snake Game</b></summary><br/>
+<details><summary><img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="25" height="25" /> <b>Snake Game</b></summary><br/>
 
 > The snake animation grows as you contribute. Your graph becomes the game board!
 >
 > <a href="https://github.com/emonhmamun"><img src="https://img.shields.io/badge/See_It_Live-Scroll_Down-EC4899?style=for-the-badge&labelColor=0d1117&logo=gamepad&logoColor=white" /></a>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="100" alt="Snake" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" height="100" alt="Snake" />
 
 </details>
 
@@ -385,7 +385,7 @@ Kubernetes     ██████░░░░░░  55%
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35" height="35" /> &nbsp;MY WORKSTATION &nbsp; <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35" height="35" />
+### <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="35" height="35" /> &nbsp;MY WORKSTATION &nbsp; <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="35" height="35" />
 
 ```
 ┌─────────────────────────────────────────────┐
@@ -414,7 +414,7 @@ Kubernetes     ██████░░░░░░  55%
 
 <table><tr>
 <td width="50%" align="center">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" height="120" alt="Coding" /><br/>
+<img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="200" height="120" alt="Coding" /><br/>
 <i>When the code finally works</i>
 </td>
 <td width="50%" align="center">
@@ -444,7 +444,7 @@ Kubernetes     ██████░░░░░░  55%
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/ftn32qDEqjbOE/giphy.gif" width="35" height="35" /> &nbsp;MUSIC & VIBES &nbsp; <img src="https://media.giphy.com/media/ftn32qDEqjbOE/giphy.gif" width="35" height="35" />
+### <img src="https://media.giphy.com/media/3oz8xIsloV320wMOBu/giphy.gif" width="35" height="35" /> &nbsp;MUSIC & VIBES &nbsp; <img src="https://media.giphy.com/media/3oz8xIsloV320wMOBu/giphy.gif" width="35" height="35" />
 
 <table><tr>
 <td width="50%" align="center">
