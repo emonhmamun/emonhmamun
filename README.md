@@ -93,6 +93,45 @@ class EmonHMamun:
 
 <div align="center">
 
+### <img src="https://media.giphy.com/media/ftn32qDEqjbOE/giphy.gif" width="35" height="35" /> &nbsp;LIVE CODING STATUS &nbsp; <img src="https://media.giphy.com/media/ftn32qDEqjbOE/giphy.gif" width="35" height="35" />
+
+<!-- LIVE_STATUS_START -->
+<table><tr>
+<td><img src="https://img.shields.io/badge/Status-WAITING-lightgrey?style=for-the-badge&labelColor=0d1117" alt="Status" /></td>
+<td><img src="https://img.shields.io/badge/Last_Active-Never-lightgrey?style=for-the-badge&labelColor=0d1117" alt="Last_Active" /></td>
+</tr></table>
+
+<table><tr>
+<td><img src="https://img.shields.io/badge/Current_Task-Ready-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Current_Task" /></td>
+<td><img src="https://img.shields.io/badge/Sessions_Today-0-22D3EE?style=for-the-badge&labelColor=0d1117" alt="Sessions_Today" /></td>
+</tr></table>
+
+<table><tr>
+<td><img src="https://img.shields.io/badge/Current_Streak-0_days-EC4899?style=for-the-badge&labelColor=0d1117" alt="Current_Streak" /></td>
+<td><img src="https://img.shields.io/badge/This_Week-0_sessions-A855F7?style=for-the-badge&labelColor=0d1117" alt="This_Week" /></td>
+</tr></table>
+
+<table><tr>
+<td><img src="https://img.shields.io/badge/Total_Hours-0-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Total_Hours" /></td>
+<td><img src="https://img.shields.io/badge/Total_Sessions-0-22D3EE?style=for-the-badge&labelColor=0d1117" alt="Total_Sessions" /></td>
+</tr></table>
+
+<table><tr>
+<td><img src="https://img.shields.io/badge/Good_Afternoon-from_Bangladesh-F97316?style=for-the-badge&labelColor=0d1117" alt="Good_Afternoon" /></td>
+<td><img src="https://img.shields.io/badge/Updated-Just_Now-1f2937?style=for-the-badge&labelColor=0d1117" alt="Updated" /></td>
+</tr></table>
+<!-- LIVE_STATUS_END -->
+
+<br/>
+
+<img src="https://img.shields.io/badge/Auto_Updated-By_GitHub_Action-7C3AED?style=flat-square&labelColor=0d1117&logo=githubactions&logoColor=white" alt="Auto" />
+
+</div>
+
+---
+
+<div align="center">
+
 ### TECH ARSENAL
 
 <img src="https://img.shields.io/badge/LANGUAGES-7C3AED?style=for-the-badge&labelColor=0d1117" alt="" />
