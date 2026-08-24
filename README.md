@@ -36,11 +36,7 @@
 
 ---
 
-<div align="center">
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6WM0kWw/giphy.gif" width="40" height="35" /> &nbsp;TERMINAL ACCESS &nbsp; <img src="https://media.giphy.com/media/VgCDAzcKvsR6WM0kWw/giphy.gif" width="40" height="35" />
-
-</div>
+### 💻 TERMINAL ACCESS
 
 ```bash
 $ whoami
@@ -59,8 +55,6 @@ $ neofetch --profile
 > Cloud   : AWS, Docker, K8s
 > Fun    : CTF, HTB, Building READMEs
 ```
-
-<img src="https://media.giphy.com/media/2IudUHdL036XQ/giphy.gif" width="100%" height="8" alt="separator" />
 
 ---
 
@@ -87,13 +81,11 @@ class EmonHMamun:
 
 </div>
 
-<img src="https://media.giphy.com/media/2IudUHdL036XQ/giphy.gif" width="100%" height="8" alt="separator" />
-
 ---
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/ftn32qDEqjbOE/giphy.gif" width="35" height="35" /> &nbsp;LIVE CODING STATUS &nbsp; <img src="https://media.giphy.com/media/ftn32qDEqjbOE/giphy.gif" width="35" height="35" />
+### 🟢 LIVE CODING STATUS
 
 <!-- LIVE_STATUS_START -->
 <table><tr>
@@ -117,14 +109,15 @@ class EmonHMamun:
 </tr></table>
 
 <table><tr>
-<td><img src="https://img.shields.io/badge/Good_Afternoon-from_Bangladesh-F97316?style=for-the-badge&labelColor=0d1117" alt="Good_Afternoon" /></td>
+<td><img src="https://img.shields.io/badge/Greeting-Hello_from_Bangladesh-F97316?style=for-the-badge&labelColor=0d1117" alt="Greeting" /></td>
 <td><img src="https://img.shields.io/badge/Updated-Just_Now-1f2937?style=for-the-badge&labelColor=0d1117" alt="Updated" /></td>
 </tr></table>
 <!-- LIVE_STATUS_END -->
 
 <br/>
 
-<img src="https://img.shields.io/badge/Auto_Updated-By_GitHub_Action-7C3AED?style=flat-square&labelColor=0d1117&logo=githubactions&logoColor=white" alt="Auto" />
+<img src="https://img.shields.io/badge/Auto_Updated-By_GitHub_Action-7C3AED?style=flat-square&labelColor=0d1117&logo=githubactions&logoColor=white" alt="Auto" /> &nbsp;
+<img src="https://img.shields.io/badge/Timezone-Asia%2FDhaka_(UTC%2B6)-22D3EE?style=flat-square&labelColor=0d1117&logo=clock&logoColor=white" alt="TZ" />
 
 </div>
 
@@ -132,7 +125,7 @@ class EmonHMamun:
 
 <div align="center">
 
-### TECH ARSENAL
+### 🛡️ TECH ARSENAL
 
 <img src="https://img.shields.io/badge/LANGUAGES-7C3AED?style=for-the-badge&labelColor=0d1117" alt="" />
 <br/>
@@ -188,7 +181,7 @@ class EmonHMamun:
 
 <div align="center">
 
-### STATS & ANALYTICS
+### 📊 STATS & ANALYTICS
 
 <table><tr>
 <td>
@@ -210,7 +203,24 @@ class EmonHMamun:
 
 <div align="center">
 
-### CONTRIBUTION GALAXY
+### 📋 PROFILE SUMMARY
+
+<table><tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emonhmamun&theme=discord&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=22D3EE" alt="Profile Details" />
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emonhmamun&theme=discord&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=22D3EE" alt="Stats" />
+</td>
+</tr></table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌌 CONTRIBUTION GALAXY
 
 <img src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/main/assets/cyber-banner.png" width="100%" height="100" alt="Cyber Banner" />
 
@@ -227,7 +237,7 @@ class EmonHMamun:
 
 <div align="center">
 
-### ACHIEVEMENT HALL
+### 🏅 ACHIEVEMENT HALL
 
 <img src="https://img.shields.io/badge/Universe_Editor-Profile_README_Customized-7C3AED?style=for-the-badge&labelColor=0d1117" alt="README" />
 <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD_Pipelines-22D3EE?style=for-the-badge&labelColor=0d1117&logo=githubactions&logoColor=white" alt="Actions" />
@@ -238,14 +248,6 @@ class EmonHMamun:
 <img src="https://img.shields.io/badge/Started_Jul_2025-Still_Building-EC4899?style=for-the-badge&labelColor=0d1117&logo=rocket&logoColor=white" alt="Since" />
 
 <br/><br/>
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80" height="40" alt="rx" />
-
-</div>
-
----
-
-<div align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=2000&color=22D3EE&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=28&lines=Every+system+I+build+starts+as+a+question;I+build+what+watches+the+perimeter;Curiosity+driven+not+profession+defined;What+would+this+look+like+if+it+could+defend+itself" alt="Quote Rotation" /></a>
 
@@ -273,7 +275,7 @@ class EmonHMamun:
 </td>
 <td width="33%" align="center">
 
-<details><summary><img src="https://media.giphy.com/media/iIqmM5tJjmpym9sntW/giphy.gif" width="25" height="25" /> <b>Quote Machine</b></summary><br/>
+<details><summary>💡 <b>Quote Machine</b></summary><br/>
 
 > Every 10 min the top quote auto-refreshes with a new dev quote!
 >
@@ -281,14 +283,14 @@ class EmonHMamun:
 >
 > 200+ quotes in rotation
 
-<img src="https://media.giphy.com/media/SWoSkN17Dmtdp8sTol/giphy.gif" width="200" height="100" alt="Code" />
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" height="100" alt="Code" />
 
 </details>
 
 </td>
 <td width="33%" align="center">
 
-<details><summary><img src="https://media.giphy.com/media/zhYSVCirre4j2y3wqj/giphy.gif" width="25" height="25" /> <b>Terminal Art</b></summary><br/>
+<details><summary>💻 <b>Terminal Art</b></summary><br/>
 
 > My profile includes a hacker terminal section above!
 >
@@ -296,7 +298,7 @@ class EmonHMamun:
 >
 > Pure markdown magic, no JS needed
 
-<img src="https://media.giphy.com/media/2VtGm6eWnMhl0/giphy.gif" width="200" height="100" alt="Terminal" />
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200" height="100" alt="Terminal" />
 
 </details>
 
@@ -309,11 +311,11 @@ class EmonHMamun:
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35" height="35" /> &nbsp;PRODUCTIVITY STATS &nbsp; <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35" height="35" />
+### 📈 PRODUCTIVITY STATS
 
 <table><tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Coffee_Consumed-∞_cups-7C3AED?style=for-the-badge&labelColor=0d1117&logo=coffee&logoColor=white" alt="Coffee" />
+<img src="https://img.shields.io/badge/Coffee_Consumed-%E2%88%9E_cups-7C3AED?style=for-the-badge&labelColor=0d1117&logo=coffee&logoColor=white" alt="Coffee" />
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/Bugs_Created-Far_Too_Many-22D3EE?style=for-the-badge&labelColor=0d1117&logo=bug&logoColor=white" alt="Bugs" />
@@ -347,7 +349,7 @@ class EmonHMamun:
 
 <div align="center">
 
-### SKILL LEVELS
+### ⚙️ SKILL LEVELS
 
 <table><tr>
 <td width="50%">
@@ -385,7 +387,7 @@ Kubernetes     ██████░░░░░░  55%
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="35" height="35" /> &nbsp;MY WORKSTATION &nbsp; <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="35" height="35" />
+### 🖥️ MY WORKSTATION
 
 ```
 ┌─────────────────────────────────────────────┐
@@ -408,7 +410,7 @@ Kubernetes     ██████░░░░░░  55%
 
 <div align="center">
 
-### VISUAL GALLERY
+### 🖼️ VISUAL GALLERY
 
 <img src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/main/assets/terminal-bg.png" width="100%" height="140" alt="Terminal Background" />
 
@@ -418,23 +420,19 @@ Kubernetes     ██████░░░░░░  55%
 <i>When the code finally works</i>
 </td>
 <td width="50%" align="center">
-<img src="https://media.giphy.com/media/MC6eSxKtPIbMo/giphy.gif" width="200" height="120" alt="Matrix" /><br/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="120" alt="Code" /><br/>
 <i>How I see network traffic</i>
 </td>
 </tr></table>
 
 <table><tr>
-<td width="33%" align="center">
+<td width="50%" align="center">
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" height="90" alt="Hack" /><br/>
 <i>Pentest mode</i>
 </td>
-<td width="33%" align="center">
-<img src="https://media.giphy.com/media/VIoU0pwCMk1YtLdpJp/giphy.gif" width="150" height="90" alt="Server" /><br/>
+<td width="50%" align="center">
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="150" height="90" alt="Servers" /><br/>
 <i>My servers at 3 AM</i>
-</td>
-<td width="33%" align="center">
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="150" height="90" alt="Debug" /><br/>
-<i>Debugging sessions</i>
 </td>
 </tr></table>
 
@@ -444,7 +442,7 @@ Kubernetes     ██████░░░░░░  55%
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/3oz8xIsloV320wMOBu/giphy.gif" width="35" height="35" /> &nbsp;MUSIC & VIBES &nbsp; <img src="https://media.giphy.com/media/3oz8xIsloV320wMOBu/giphy.gif" width="35" height="35" />
+### 🎵 MUSIC & VIBES
 
 <table><tr>
 <td width="50%" align="center">
@@ -488,7 +486,7 @@ Kubernetes     ██████░░░░░░  55%
 ---
 
 <details>
-<summary><h3>Security Architecture</h3></summary>
+<summary><h3>🛡️ Security Architecture</h3></summary>
 
 ```mermaid
 graph TD
@@ -517,7 +515,7 @@ graph TD
 </details>
 
 <details>
-<summary><h3>Current Focus</h3></summary>
+<summary><h3>🎯 Current Focus</h3></summary>
 
 | Domain | Direction | Status |
 |:------:|:---------:|:------:|
@@ -531,7 +529,7 @@ graph TD
 </details>
 
 <details>
-<summary><h3>Featured Repositories</h3></summary>
+<summary><h3>📦 Featured Repositories</h3></summary>
 
 <table><tr>
 <td width="50%">
@@ -549,10 +547,10 @@ graph TD
 </details>
 
 <details>
-<summary><h3>Recommended Tools</h3></summary>
+<summary><h3>🔧 Recommended Tools</h3></summary>
 
 | Tool | Purpose | Why |
-|:-----|:--------|:----|
+|:-----|:--------|:----:|
 | [**Nuclei**](https://github.com/projectdiscovery/nuclei) | Vulnerability scanner | Fast, template-based, community-driven |
 | [**Nmap**](https://nmap.org/) | Network discovery | Swiss army knife of network security |
 | [**Burp Suite**](https://portswigger.net/burp/communitydownload) | Web proxy | Essential for web app testing |
@@ -565,7 +563,7 @@ graph TD
 </details>
 
 <details>
-<summary><h3>FAQ</h3></summary>
+<summary><h3>❓ FAQ</h3></summary>
 
 <details>
 <summary><strong>Are you available for collaboration?</strong></summary>
@@ -611,7 +609,7 @@ Most people build things behind the perimeter. I build the perimeter itself. My 
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/fYSnHlKiT3CWk/giphy.gif" width="35" height="35" /> &nbsp;SUPPORT MY WORK &nbsp; <img src="https://media.giphy.com/media/fYSnHlKiT3CWk/giphy.gif" width="35" height="35" />
+### ❤️ SUPPORT MY WORK
 
 <p>
 <img src="https://img.shields.io/badge/Smash_Star-If_You_Like_It-7C3AED?style=for-the-badge&labelColor=0d1117&logo=star&logoColor=white" alt="Star" />
@@ -625,7 +623,7 @@ Most people build things behind the perimeter. I build the perimeter itself. My 
 
 <div align="center">
 
-### CONNECT
+### 🔗 CONNECT
 
 <a href="https://github.com/emonhmamun"><img src="https://img.shields.io/badge/GitHub-@emonhmamun-7C3AED?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.facebook.com/emonhasanmamun.m"><img src="https://img.shields.io/badge/Facebook-Emon_Hasan_Mamun-22D3EE?style=for-the-badge&labelColor=0d1117&logo=facebook&logoColor=white" alt="Facebook" /></a>
@@ -641,7 +639,7 @@ Most people build things behind the perimeter. I build the perimeter itself. My 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:EC4899&height=80&section=footer&stroke=A855F7&strokeWidth=1&animation=constellation" />
 
 <img src="https://img.shields.io/badge/Built_with-Curiosity_%26_Purpose-7C3AED?style=flat-square&labelColor=0d1117" alt="Built with" />
-<img src="https://img.shields.io/badge/Theme-Galaxy_Edition_v7.0-22D3EE?style=flat-square&labelColor=0d1117" alt="Theme" />
+<img src="https://img.shields.io/badge/Theme-Galaxy_Edition_v8.0-22D3EE?style=flat-square&labelColor=0d1117" alt="Theme" />
 <img src="https://img.shields.io/badge/Not_Professional-Its_a_Hobby-EC4899?style=flat-square&labelColor=0d1117" alt="Hobby" />
 
 </div>
