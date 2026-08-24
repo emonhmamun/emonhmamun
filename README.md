@@ -2,23 +2,27 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:EC4899&height=200&section=header&text=EMON%20H.%20MAMUN&fontSize=42&fontColor=ffffff&desc=Security%20Researcher%20%7C%20Automation%20Architect%20%7C%20System%20Builder&descSize=16&descColor=22D3EE&descAlignY=60&stroke=A855F7&strokeWidth=1&animation=constellation&fontAlignY=30" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Security+Researcher+%26+Automation+Architect;Building+Autonomous+Defense+Systems;Exploring+the+Intersection+of+Security+%26+AI;Crafting+Tools+That+Watch+The+Perimeter" alt="Typing SVG" /></a>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40" height="40" /> &nbsp;
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Security+Researcher+%26+Automation+Architect;Building+Autonomous+Defense+Systems;Exploring+the+Intersection+of+Security+%26+AI;Crafting+Tools+That+Watch+The+Perimeter" alt="Typing SVG" /></a> &nbsp;
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="40" height="40" />
 
 <p>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-7C3AED?style=for-the-badge&labelColor=0d1117&logo=handshake&logoColor=white" alt="Status" />
 <img src="https://img.shields.io/badge/Focus-Security%20%7C%20Automation%20%7C%20Systems-22D3EE?style=for-the-badge&labelColor=0d1117&logo=shield&logoColor=white" alt="Focus" />
-<img src="https://img.shields.io/badge/Location-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-EC4899?style=for-the-badge&labelColor=0d1117&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Location-Bangladesh-EC4899?style=for-the-badge&labelColor=0d1117" alt="Location" />
 </p>
 <p>
 <img src="https://komarev.com/ghpvc/?username=emonhmamun&color=A855F7&style=flat-square&labelColor=0d1117&label=VISITORS" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/emonhmamun?style=social&labelColor=0d1117" alt="Followers" />
 <img src="https://img.shields.io/github/stars/emonhmamun?style=social&labelColor=0d1117" alt="Stars" />
+<img src="https://img.shields.io/github/following/emonhmamun?style=social&labelColor=0d1117" alt="Following" />
+<img src="https://img.shields.io/badge/Joined-Jul_2025-7C3AED?style=flat-square&labelColor=0d1117&logo=github&logoColor=white" alt="Joined" />
 </p>
 
 <table><tr>
 <td width="58%" valign="middle">
 <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" /></a><br/>
-<img src="https://img.shields.io/badge/%F0%9F%94%84_Auto_Refreshes_Every_10min-22D3EE?style=flat-square&labelColor=0d1117" alt="Auto-refresh" />
+<img src="https://img.shields.io/badge/Auto_Refreshes_Every_10min-22D3EE?style=flat-square&labelColor=0d1117" alt="Auto-refresh" />
 </td>
 <td width="42%" valign="middle">
 <img src="https://img.shields.io/github/commit-activity/y/emonhmamun/emonhmamun?label=COMMITS_THIS_YEAR&color=7C3AED&style=for-the-badge&labelColor=0d1117" alt="Yearly Commits" /><br/>
@@ -28,46 +32,84 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:EC4899&height=40&section=header&fontSize=0&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:EC4899&height=35&section=header&fontSize=0&animation=twinkling" />
 
 ---
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6WM0kWw/giphy.gif" width="50" height="40" />  &nbsp;WHO AM I &nbsp; <img src="https://media.giphy.com/media/VgCDAzcKvsR6WM0kWw/giphy.gif" width="50" height="40" />
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6WM0kWw/giphy.gif" width="40" height="35" /> &nbsp;TERMINAL ACCESS &nbsp; <img src="https://media.giphy.com/media/VgCDAzcKvsR6WM0kWw/giphy.gif" width="40" height="35" />
+
+</div>
+
+```bash
+$ whoami
+> emonhmamun | Security Researcher & System Builder
+
+$ cat philosophy.txt
+> [+] I build what watches the perimeter
+> [+] Curiosity-driven, not profession-defined
+> [+] Autonomous defense > manual response
+
+$ neofetch --profile
+> OS      : Arch Linux / Debian
+> Editor  : Neovim (quick) + VS Code (heavy)
+> Shell  : zsh + starship
+> Langs   : Python, TypeScript, Bash, Go
+> Cloud   : AWS, Docker, K8s
+> Fun    : CTF, HTB, Building READMEs
+```
+
+<img src="https://media.giphy.com/media/2IudUHdL036XQ/giphy.gif" width="100%" height="8" alt="separator" />
+
+---
+
+<div align="center">
+
+### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40" height="35" /> &nbsp;WHO AM I &nbsp; <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40" height="35" />
+
+<img src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/main/assets/galaxy-nebula.png" width="100%" height="120" alt="Galaxy Nebula" />
 
 ```python
 class EmonHMamun:
     """Security Researcher | Automation Architect | System Builder"""
     def __init__(self):
-        self.base           = "Bangladesh 🇧🇩"
+        self.base           = "Bangladesh"
         self.languages      = ["Python", "JavaScript", "TypeScript", "Bash", "Go"]
         self.domains        = ["Security Research", "Automation", "Systems Engineering"]
         self.philosophy     = "I build what watches the perimeter."
         self.motto          = "Curiosity-driven, not profession-defined."
         self.currently      = "Building autonomous defense systems"
+
+    def __repr__(self):
+        return f"{self.philosophy} | {self.motto}"
 ```
 
 </div>
 
+<img src="https://media.giphy.com/media/2IudUHdL036XQ/giphy.gif" width="100%" height="8" alt="separator" />
+
 ---
 
 <div align="center">
 
-### ⚡ TECH ARSENAL
+### TECH ARSENAL
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,ts,bash,go,docker,linux,git,github,vscode,neovim,nginx,nodejs,react,nextjs,tailwind,prisma,postgres,sqlite,redis,mongodb,aws,cloudflare,netlify,firebase,kubernetes,figma&theme=dark&perline=13" alt="Tech Stack" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,ts,bash,go,docker,linux,git,github,vscode,neovim,nginx,nodejs,react,nextjs,tailwind,prisma,postgres,sqlite,redis,mongodb,aws,cloudflare,netlify,firebase,kubernetes,figma,grafana&theme=dark&perline=13" alt="Tech Stack" /></a>
 
 <br/>
 
+<table><tr><td align="center">
 <img src="https://img.shields.io/badge/Penetration_Testing-Active-7C3AED?style=for-the-badge&labelColor=0d1117&logo=hackthebox&logoColor=white" alt="Pentesting" />
 <img src="https://img.shields.io/badge/Threat_Analysis-Continuous-22D3EE?style=for-the-badge&labelColor=0d1117&logo=datadog&logoColor=white" alt="Threat" />
 <img src="https://img.shields.io/badge/Security_Automation-Architected-A855F7?style=for-the-badge&labelColor=0d1117&logo=auth0&logoColor=white" alt="SecAuto" />
 <img src="https://img.shields.io/badge/Network_Defense-Monitoring-EC4899?style=for-the-badge&labelColor=0d1117&logo=cloudflare&logoColor=white" alt="NetDef" />
+</td></tr><tr><td align="center">
 <img src="https://img.shields.io/badge/OSINT-Research-7C3AED?style=for-the-badge&labelColor=0d1117&logo=internetarchive&logoColor=white" alt="OSINT" />
 <img src="https://img.shields.io/badge/Reverse_Engineering-Exploring-EC4899?style=for-the-badge&labelColor=0d1117&logo=debug&logoColor=white" alt="RE" />
 <img src="https://img.shields.io/badge/Malware_Analysis-Learning-22D3EE?style=for-the-badge&labelColor=0d1117&logo=mcafee&logoColor=white" alt="Malware" />
 <img src="https://img.shields.io/badge/CTF-Challenger-A855F7?style=for-the-badge&labelColor=0d1117&logo=capturetheflag&logoColor=white" alt="CTF" />
+</td></tr></table>
 
 </div>
 
@@ -75,7 +117,7 @@ class EmonHMamun:
 
 <div align="center">
 
-### 📊 STATS & ANALYTICS
+### STATS & ANALYTICS
 
 <table><tr>
 <td>
@@ -89,19 +131,23 @@ class EmonHMamun:
 </td>
 </tr></table>
 
+<img src="https://img.shields.io/badge/Live_Data-Auto_Updates_Every_Visit-22D3EE?style=flat-square&labelColor=0d1117" alt="Live" />
+
 </div>
 
 ---
 
 <div align="center">
 
-### 🌌 CONTRIBUTION GALAXY
+### CONTRIBUTION GALAXY
+
+<img src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/main/assets/cyber-banner.png" width="100%" height="100" alt="Cyber Banner" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=emonhmamun&bg_color=0d1117&color=A855F7&line=22D3EE&point=EC4899&area=true&hide_border=true&radius=6" alt="Activity Graph" width="100%" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/🐍_Contribution_Snake-Animated-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Snake" /><br/>
+<img src="https://img.shields.io/badge/Contribution_Snake-Animated-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Snake" /><br/>
 <img src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/output/snake-dark.svg" alt="Contribution Snake" onerror="this.style.display='none'" />
 
 </div>
@@ -110,15 +156,19 @@ class EmonHMamun:
 
 <div align="center">
 
-### 🏆 ACHIEVEMENT HALL
+### ACHIEVEMENT HALL
 
-<img src="https://img.shields.io/badge/Universe_Editor-Profile_README_Customized-7C3AED?style=for-the-badge&labelColor=0d1117&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiI+PHBvbHlnb24gcG9pbnRzPSIxMiAyIDE1LjA5IDguMjYgMjIgOS4yNyAxNyAxNS4xNCAxOCAyMS4wMiAxMiAxNy43NyA2IDE4LjI3IDIuMDkgOC4yNiAxMiAyIi8+PC9zdmc+&logoColor=white" alt="README Master" />
+<img src="https://img.shields.io/badge/Universe_Editor-Profile_README_Customized-7C3AED?style=for-the-badge&labelColor=0d1117" alt="README" />
 <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD_Pipelines-22D3EE?style=for-the-badge&labelColor=0d1117&logo=githubactions&logoColor=white" alt="Actions" />
-<img src="https://img.shields.io/badge/Snake_Contribution-Game_Integration-EC4899?style=for-the-badge&labelColor=0d1117&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTIgMTJzMy03IDEwLTcgMTAgNyAxMCA3LTEwLTctMTAtN3oiLz48L3N2Zz4=&logoColor=white" alt="Snake" />
-<img src="https://img.shields.io/badge/Automation_Architect-Multiple_Workflows-A855F7?style=for-the-badge&labelColor=0d1117&logo=robot&logoColor=white" alt="Automation" />
-<img src="https://img.shields.io/badge/Security_First-Secure_by_Design-7C3AED?style=for-the-badge&labelColor=0d1117&logo=lock&logoColor=white" alt="Security" />
-<img src="https://img.shields.io/badge/Open_Source-Contributor-22D3EE?style=for-the-badge&labelColor=0d1117&logo=opensourceinitiative&logoColor=white" alt="OpenSource" />
+<img src="https://img.shields.io/badge/Snake_Contribution-Game_Integration-EC4899?style=for-the-badge&labelColor=0d1117" alt="Snake" />
+<img src="https://img.shields.io/badge/Automation_Architect-Multiple_Workflows-A855F7?style=for-the-badge&labelColor=0d1117&logo=robot&logoColor=white" alt="Auto" />
+<img src="https://img.shields.io/badge/Security_First-Secure_by_Design-7C3AED?style=for-the-badge&labelColor=0d1117&logo=lock&logoColor=white" alt="Sec" />
+<img src="https://img.shields.io/badge/Open_Source-Contributor-22D3EE?style=for-the-badge&labelColor=0d1117&logo=opensourceinitiative&logoColor=white" alt="OS" />
 <img src="https://img.shields.io/badge/Started_Jul_2025-Still_Building-EC4899?style=for-the-badge&labelColor=0d1117&logo=rocket&logoColor=white" alt="Since" />
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80" height="40" alt="rx" />
 
 </div>
 
@@ -134,41 +184,48 @@ class EmonHMamun:
 
 <div align="center">
 
-### 🎮 FUN ZONE
-
-<img src="https://img.shields.io/badge/🕹️_Interactive_Section-Click_to_Explore-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Fun" />
-
-<br/>
+### FUN ZONE
 
 <table><tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-<details><summary>🐸 <b>🐍 Snake Game — Try It!</b></summary><br/>
+<details><summary><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="25" height="25" /> <b>Snake Game</b></summary><br/>
 
-> 🎯 **How to Play:** Click the link below and use arrow keys to control the snake on any GitHub profile with snake animation!
+> The snake animation grows as you contribute. Your graph becomes the game board!
 >
-> 🕹️ The snake grows as you contribute more. Your contribution graph becomes the game board!
->
-> <a href="https://github.com/emonhmamun"><img src="https://img.shields.io/badge/Play_on_My_Profile-Click_Here-EC4899?style=for-the-badge&labelColor=0d1117&logo=gamepad&logoColor=white" /></a>
->
-> 🏆 **Pro Tip:** The snake animation below is generated by your real GitHub contributions!
+> <a href="https://github.com/emonhmamun"><img src="https://img.shields.io/badge/See_It_Live-Scroll_Down-EC4899?style=for-the-badge&labelColor=0d1117&logo=gamepad&logoColor=white" /></a>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="150" alt="Snake Game" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="100" alt="Snake" />
 
 </details>
 
 </td>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-<details><summary>🎲 <b>Random Dev Quote Generator</b></summary><br/>
+<details><summary><img src="https://media.giphy.com/media/iIqmM5tJjmpym9sntW/giphy.gif" width="25" height="25" /> <b>Quote Machine</b></summary><br/>
 
-> 💡 **Every 10 minutes** the quote at the top of my profile automatically refreshes with a new developer quote!
+> Every 10 min the top quote auto-refreshes with a new dev quote!
 >
-> 🔄 Powered by [github-readme-quotes](https://github.com/piyushsuthar/github-readme-quotes)
+> Powered by [github-readme-quotes](https://github.com/piyushsuthar/github-readme-quotes)
 >
-> <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"><img src="https://img.shields.io/badge/See_Live_Quote-Click_Here-22D3EE?style=for-the-badge&labelColor=0d1117&logo=link&logoColor=white" /></a>
+> 200+ quotes in rotation
+
+<img src="https://media.giphy.com/media/SWoSkN17Dmtdp8sTol/giphy.gif" width="200" height="100" alt="Code" />
+
+</details>
+
+</td>
+<td width="33%" align="center">
+
+<details><summary><img src="https://media.giphy.com/media/zhYSVCirre4j2y3wqj/giphy.gif" width="25" height="25" /> <b>Terminal Art</b></summary><br/>
+
+> My profile includes a hacker terminal section above!
 >
-> 📖 **Total Quotes in Rotation:** 200+
+> Check out the TERMINAL ACCESS section with neofetch-style output.
+>
+> Pure markdown magic, no JS needed
+
+<img src="https://media.giphy.com/media/2VtGm6eWnMhl0/giphy.gif" width="200" height="100" alt="Terminal" />
 
 </details>
 
@@ -181,37 +238,35 @@ class EmonHMamun:
 
 <div align="center">
 
-### 🔧 SKILL LEVELS
+### SKILL LEVELS
 
 <table><tr>
 <td width="50%">
 
 ```
-🖥️  Languages
-━━━━━━━━━━━━━━━━━━━━━━
-Python         ████████████░░ 90%
-JavaScript     █████████░░░░  75%
-TypeScript     ████████░░░░░  70%
-Bash/Shell     ██████████░░░  80%
-Go             ██████░░░░░░░  55%
-PowerShell     ██████░░░░░░░  55%
-YAML           ████████░░░░░  70%
+Languages
+Python         ████████████░ 90%
+JavaScript     █████████░░░  75%
+TypeScript     ████████░░░░  70%
+Bash/Shell     ██████████░░  80%
+Go             ██████░░░░░░  55%
+PowerShell     ██████░░░░░░  55%
+YAML           ████████░░░░  70%
 ```
 
 </td>
 <td width="50%">
 
 ```
-🛠️  Frameworks & Tools
-━━━━━━━━━━━━━━━━━━━━━━━━━━
-React/Next.js  ████████░░░░░  70%
-Tailwind CSS   █████████░░░░  80%
-Docker         █████████░░░░  80%
-Linux/Arch     ██████████░░░  85%
-Neovim         ████████░░░░░  70%
-AWS/Cloud      ███████░░░░░░  65%
-Kubernetes     ██████░░░░░░░  55%
-Prisma/DB      ███████░░░░░░  65%
+Frameworks & Tools
+React/Next.js  ████████░░░░  70%
+Tailwind CSS   █████████░░░  80%
+Docker         █████████░░░  80%
+Linux/Arch     ██████████░░  85%
+Neovim         ████████░░░░  70%
+AWS/Cloud      ███████░░░░░  65%
+Kubernetes     ██████░░░░░░  55%
+Prisma/DB      ███████░░░░░  65%
 ```
 
 </td>
@@ -221,8 +276,44 @@ Prisma/DB      ███████░░░░░░  65%
 
 ---
 
+<div align="center">
+
+### VISUAL GALLERY
+
+<img src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/main/assets/terminal-bg.png" width="100%" height="140" alt="Terminal Background" />
+
+<table><tr>
+<td width="50%" align="center">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" height="120" alt="Coding" /><br/>
+<i>When the code finally works</i>
+</td>
+<td width="50%" align="center">
+<img src="https://media.giphy.com/media/MC6eSxKtPIbMo/giphy.gif" width="200" height="120" alt="Matrix" /><br/>
+<i>How I see network traffic</i>
+</td>
+</tr></table>
+
+<table><tr>
+<td width="33%" align="center">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" height="90" alt="Hack" /><br/>
+<i>Pentest mode</i>
+</td>
+<td width="33%" align="center">
+<img src="https://media.giphy.com/media/VIoU0pwCMk1YtLdpJp/giphy.gif" width="150" height="90" alt="Server" /><br/>
+<i>My servers at 3 AM</i>
+</td>
+<td width="33%" align="center">
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="150" height="90" alt="Debug" /><br/>
+<i>Debugging sessions</i>
+</td>
+</tr></table>
+
+</div>
+
+---
+
 <details>
-<summary><h3>🗺️ Security Architecture</h3></summary>
+<summary><h3>Security Architecture</h3></summary>
 
 ```mermaid
 graph TD
@@ -251,43 +342,39 @@ graph TD
 </details>
 
 <details>
-<summary><h3>🎯 Current Focus</h3></summary>
+<summary><h3>Current Focus</h3></summary>
 
 | Domain | Direction | Status |
 |:------:|:---------:|:------:|
-| Security Research | Threat analysis, OSINT, penetration testing | 🟣 Active |
-| Automation Systems | Building autonomous security & workflow tools | 🔵 Building |
-| System Architecture | Designing secure, resilient infrastructure | 🟣 Exploring |
-| AI Integration | Applying ML/AI to security analysis & automation | 🩷 Experimenting |
-| Container Security | Docker/K8s hardening & runtime protection | 🟢 Learning |
-| Tool Development | Custom security & automation CLI tools | 🟡 Prototyping |
+| Security Research | Threat analysis, OSINT, penetration testing | Active |
+| Automation Systems | Building autonomous security & workflow tools | Building |
+| System Architecture | Designing secure, resilient infrastructure | Exploring |
+| AI Integration | Applying ML/AI to security analysis & automation | Experimenting |
+| Container Security | Docker/K8s hardening & runtime protection | Learning |
+| Tool Development | Custom security & automation CLI tools | Prototyping |
 
 </details>
 
 <details>
-<summary><h3>📦 Featured Repositories</h3></summary>
+<summary><h3>Featured Repositories</h3></summary>
 
 <table><tr>
 <td width="50%">
-
 <a href="https://github.com/emonhmamun/CleanSweep-Pro">
   <img src="https://github-readme-stats-taupe.vercel.app/api/pin/?username=emonhmamun&repo=CleanSweep-Pro&theme=transparent&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=22D3EE&hide_border=true&show_owner=false" alt="CleanSweep-Pro" width="100%" />
 </a>
-
 </td>
 <td width="50%">
-
 <a href="https://github.com/emonhmamun/NeoMate-Agent-AI">
   <img src="https://github-readme-stats-taupe.vercel.app/api/pin/?username=emonhmamun&repo=NeoMate-Agent-AI&theme=transparent&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=22D3EE&hide_border=true&show_owner=false" alt="NeoMate-Agent-AI" width="100%" />
 </a>
-
 </td>
 </tr></table>
 
 </details>
 
 <details>
-<summary><h3>🔗 Recommended Tools</h3></summary>
+<summary><h3>Recommended Tools</h3></summary>
 
 | Tool | Purpose | Why |
 |:-----|:--------|:----|
@@ -303,7 +390,7 @@ graph TD
 </details>
 
 <details>
-<summary><h3>❓ FAQ</h3></summary>
+<summary><h3>FAQ</h3></summary>
 
 <details>
 <summary><strong>Are you available for collaboration?</strong></summary>
@@ -340,7 +427,7 @@ AI is a force multiplier, not a replacement. I use LLMs for code assistance and 
 <details>
 <summary><strong>Why "Building what watches the perimeter"?</strong></summary>
 
-Most people build things behind the perimeter. I build the perimeter itself. My interest is in the systems that defend, monitor, and respond — the autonomous layers.
+Most people build things behind the perimeter. I build the perimeter itself. My interest is in the systems that defend, monitor, and respond - the autonomous layers.
 </details>
 
 </details>
@@ -349,7 +436,7 @@ Most people build things behind the perimeter. I build the perimeter itself. My 
 
 <div align="center">
 
-### 📡 CONNECT
+### CONNECT
 
 <a href="https://github.com/emonhmamun"><img src="https://img.shields.io/badge/GitHub-@emonhmamun-7C3AED?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.facebook.com/emonhasanmamun.m"><img src="https://img.shields.io/badge/Facebook-Emon_Hasan_Mamun-22D3EE?style=for-the-badge&labelColor=0d1117&logo=facebook&logoColor=white" alt="Facebook" /></a>
@@ -365,7 +452,7 @@ Most people build things behind the perimeter. I build the perimeter itself. My 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:EC4899&height=80&section=footer&stroke=A855F7&strokeWidth=1&animation=constellation" />
 
 <img src="https://img.shields.io/badge/Built_with-Curiosity_%26_Purpose-7C3AED?style=flat-square&labelColor=0d1117" alt="Built with" />
-<img src="https://img.shields.io/badge/Theme-Galaxy_Edition_v5.0-22D3EE?style=flat-square&labelColor=0d1117" alt="Theme" />
-<img src="https://img.shields.io/badge/⚠️_Not_Professional-It%27s_a_Hobby-EC4899?style=flat-square&labelColor=0d1117" alt="Hobby" />
+<img src="https://img.shields.io/badge/Theme-Galaxy_Edition_v6.0-22D3EE?style=flat-square&labelColor=0d1117" alt="Theme" />
+<img src="https://img.shields.io/badge/Not_Professional-Its_a_Hobby-EC4899?style=flat-square&labelColor=0d1117" alt="Hobby" />
 
 </div>
