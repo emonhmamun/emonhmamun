@@ -96,57 +96,38 @@ class EmonHMamun:
 ### TECH ARSENAL
 
 <img src="https://img.shields.io/badge/LANGUAGES-7C3AED?style=for-the-badge&labelColor=0d1117" alt="" />
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,ts,bash,go,rust,java,cpp,c,cs,php,ruby,swift,kotlin,dart,elixir,lua,perl,html,css,sql,yaml,markdown&theme=dark&perline=12" alt="Languages" /></a>
-
 <br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,ts,bash,go,rust,java,cpp,c,php,ruby&theme=dark&perline=12" alt="Languages" /></a>
 
-<img src="https://img.shields.io/badge/FRONTEND-22D3EE?style=for-the-badge&labelColor=0d1117" alt="" />
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,nuxt,nestjs,express,flask,django,fastapi,spring,tailwind,bootstrap,materialui,sass,less,threejs,webpack,vite,bun,deno,nodejs&theme=dark&perline=12" alt="Frontend" /></a>
+<br/><br/>
 
+<img src="https://img.shields.io/badge/FRONTEND_&_WEB-22D3EE?style=for-the-badge&labelColor=0d1117" alt="" />
 <br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,nuxt,tailwind,bootstrap,materialui,sass,threejs&theme=dark&perline=12" alt="Frontend" /></a>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/BACKEND_&_APIS-A855F7?style=for-the-badge&labelColor=0d1117" alt="" />
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=graphql,rest,grpc,websocket,socketio,postman,insomnia,swagger,openapi,jwt,oauth,prisma,supabase,firebase,appwrite&theme=dark&perline=12" alt="Backend" /></a>
-
 <br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,deno,bun,fastapi,flask,django,spring,graphql,postman,prisma&theme=dark&perline=12" alt="Backend" /></a>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/DATABASES-EC4899?style=for-the-badge&labelColor=0d1117" alt="" />
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb,sqlite,mongodb,redis,elasticsearch,cassandra,dynamodb,firestore,neo4j&theme=dark&perline=12" alt="Databases" /></a>
-
 <br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,elasticsearch,cassandra,dynamodb,supabase,appwrite&theme=dark&perline=11" alt="Databases" /></a>
 
-<img src="https://img.shields.io/badge/CLOUD_&_INFRASTRUCTURE-7C3AED?style=for-the-badge&labelColor=0d1117" alt="" />
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,digitalocean,heroku,vercel,netlify,cloudflare,linode,oracle,cloud,render,railway,flyio,cloudrun&theme=dark&perline=12" alt="Cloud" /></a>
+<br/><br/>
 
+<img src="https://img.shields.io/badge/CLOUD_&_DEVOPS-7C3AED?style=for-the-badge&labelColor=0d1117" alt="" />
 <br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,jenkins,aws,azure,gcp,heroku,netlify,cloudflare&theme=dark&perline=12" alt="Cloud & DevOps" /></a>
 
-<img src="https://img.shields.io/badge/DEVOPS_&_CI/CD-22D3EE?style=for-the-badge&labelColor=0d1117" alt="" />
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,terraform,ansible,puppet,consul,vagrant,githubactions,jenkins,circleci,travisci,argo,tekton,nginx,apache,caddy,traefik,envoy&theme=dark&perline=12" alt="DevOps" /></a>
+<br/><br/>
 
+<img src="https://img.shields.io/badge/TOOLS_&_PLATFORMS-22D3EE?style=for-the-badge&labelColor=0d1117" alt="" />
 <br/>
-
-<img src="https://img.shields.io/badge/MESSAGING_&_QUEUING-A855F7?style=for-the-badge&labelColor=0d1117" alt="" />
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kafka,rabbitmq,zeromq,redis,celery,bullmqtt&theme=dark&perline=12" alt="Messaging" /></a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/MONITORING_&_OBSERVABILITY-EC4899?style=for-the-badge&labelColor=0d1117" alt="" />
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=prometheus,grafana,datadog,elk,newrelic,sentry,prometheus&theme=dark&perline=12" alt="Monitoring" /></a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/SECURITY_TOOLS-7C3AED?style=for-the-badge&labelColor=0d1117" alt="" />
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=openssl,wireguard,wireshark,nmap,ghidra,clamav,yara&theme=dark&perline=12" alt="Security" /></a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/OS_&_SYSTEMS-22D3EE?style=for-the-badge&labelColor=0d1117" alt="" />
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,debian,arch,fedora,suse,alpine,centos,systemd,docker,git,github,gitlab,bitbucket&theme=dark&perline=12" alt="OS" /></a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/EDITORS_&_PRODUCTIVITY-A855F7?style=for-the-badge&labelColor=0d1117" alt="" />
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,neovim,vim,sublime,emacs,figma,sketch,adobe,androidstudio,xcode&theme=dark&perline=12" alt="Editors" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode,neovim,vim,nginx,figma,firebase,prometheus,grafana&theme=dark&perline=12" alt="Tools" /></a>
 
 <br/>
 
@@ -160,11 +141,6 @@ class EmonHMamun:
 <img src="https://img.shields.io/badge/Reverse_Engineering-Exploring-EC4899?style=for-the-badge&labelColor=0d1117&logo=debug&logoColor=white" alt="RE" />
 <img src="https://img.shields.io/badge/Malware_Analysis-Learning-22D3EE?style=for-the-badge&labelColor=0d1117&logo=mcafee&logoColor=white" alt="Malware" />
 <img src="https://img.shields.io/badge/CTF-Challenger-A855F7?style=for-the-badge&labelColor=0d1117&logo=capturetheflag&logoColor=white" alt="CTF" />
-</td></tr><tr><td align="center">
-<img src="https://img.shields.io/badge/Binary_Exploitation-Research-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Binary" />
-<img src="https://img.shields.io/badge/Web_App_Hacking-Active-22D3EE?style=for-the-badge&labelColor=0d1117" alt="WebApp" />
-<img src="https://img.shields.io/badge/Cloud_Security-Learning-A855F7?style=for-the-badge&labelColor=0d1117&logo=cloudbees&logoColor=white" alt="CloudSec" />
-<img src="https://img.shields.io/badge/Incident_Response-Exploring-EC4899?style=for-the-badge&labelColor=0d1117" alt="IR" />
 </td></tr></table>
 
 </div>
@@ -240,7 +216,7 @@ class EmonHMamun:
 
 <div align="center">
 
-### FUN ZONE
+### <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35" height="35" /> &nbsp;FUN ZONE &nbsp; <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35" height="35" />
 
 <table><tr>
 <td width="33%" align="center">
@@ -294,6 +270,44 @@ class EmonHMamun:
 
 <div align="center">
 
+### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35" height="35" /> &nbsp;PRODUCTIVITY STATS &nbsp; <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35" height="35" />
+
+<table><tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Coffee_Consumed-∞_cups-7C3AED?style=for-the-badge&labelColor=0d1117&logo=coffee&logoColor=white" alt="Coffee" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Bugs_Created-Far_Too_Many-22D3EE?style=for-the-badge&labelColor=0d1117&logo=bug&logoColor=white" alt="Bugs" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Bugs_Fixed-Slightly_More-EC4899?style=for-the-badge&labelColor=0d1117&logo=bug&logoColor=white" alt="Fixed" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Sleep_Deprived-Professional_Level-A855F7?style=for-the-badge&labelColor=0d1117&logo=moon&logoColor=white" alt="Sleep" />
+</td>
+</tr></table>
+
+<table><tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Git_Pushes-Thousands-7C3AED?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Pushes" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Terminal_Hours-10000%2B-22D3EE?style=for-the-badge&labelColor=0d1117&logo=terminal&logoColor=white" alt="Terminal" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/CTF_Flags_Captured-Many-EC4899?style=for-the-badge&labelColor=0d1117&logo=flag&logoColor=white" alt="Flags" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Docker_Images_Built-Countless-A855F7?style=for-the-badge&labelColor=0d1117&logo=docker&logoColor=white" alt="Docker" />
+</td>
+</tr></table>
+
+</div>
+
+---
+
+<div align="center">
+
 ### SKILL LEVELS
 
 <table><tr>
@@ -307,7 +321,6 @@ TypeScript     ████████░░░░  70%
 Bash/Shell     ██████████░░  80%
 Go             ██████░░░░░░  55%
 PowerShell     ██████░░░░░░  55%
-YAML           ████████░░░░  70%
 ```
 
 </td>
@@ -322,11 +335,33 @@ Linux/Arch     ██████████░░  85%
 Neovim         ████████░░░░  70%
 AWS/Cloud      ███████░░░░░  65%
 Kubernetes     ██████░░░░░░  55%
-Prisma/DB      ███████░░░░░  65%
 ```
 
 </td>
 </tr></table>
+
+</div>
+
+---
+
+<div align="center">
+
+### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35" height="35" /> &nbsp;MY WORKSTATION &nbsp; <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35" height="35" />
+
+```
+┌─────────────────────────────────────────────┐
+│  ╔═══════════════════════════════════════╗   │
+│  ║  🖥️  ARCH LINUX   |  NEovim + zsh    ║   │
+│  ╠═══════════════════════════════════════╣   │
+│  ║  🐍 Python    │  🟨 JavaScript       ║   │
+│  ║  🔷 TypeScript │  🐚 Bash            ║   │
+│  ║  🐹 Go        │  🦀 Rust             ║   │
+│  ╠═══════════════════════════════════════╣   │
+│  ║  ☁️  AWS/Docker │  🔒 Security Tools  ║   │
+│  ║  📊 Grafana   │  🐙 GitHub           ║   │
+│  ╚═══════════════════════════════════════╝   │
+└─────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -361,6 +396,51 @@ Prisma/DB      ███████░░░░░  65%
 <td width="33%" align="center">
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="150" height="90" alt="Debug" /><br/>
 <i>Debugging sessions</i>
+</td>
+</tr></table>
+
+</div>
+
+---
+
+<div align="center">
+
+### <img src="https://media.giphy.com/media/ftn32qDEqjbOE/giphy.gif" width="35" height="35" /> &nbsp;MUSIC & VIBES &nbsp; <img src="https://media.giphy.com/media/ftn32qDEqjbOE/giphy.gif" width="35" height="35" />
+
+<table><tr>
+<td width="50%" align="center">
+
+<details><summary><b>🎵 While Coding I Listen To</b></summary><br/>
+
+> Lo-fi Hip Hop beats for deep focus
+>
+> Synthwave / Retrowave for late night sessions
+>
+> Ambient / Electronic for debugging marathons
+>
+> Silence when the bug is really annoying
+
+<img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="180" height="100" alt="Music" />
+
+</details>
+
+</td>
+<td width="50%" align="center">
+
+<details><summary><b>☕ Fuel Sources</b></summary><br/>
+
+> 1. Black Coffee (primary fuel)
+>
+> 2. Green Tea (when coffee fails)
+>
+> 3. Curiosity (infinite supply)
+>
+> 4. CTF Adrenaline (premium fuel)
+
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="180" height="100" alt="Coffee" />
+
+</details>
+
 </td>
 </tr></table>
 
@@ -487,6 +567,20 @@ Most people build things behind the perimeter. I build the perimeter itself. My 
 </details>
 
 </details>
+
+---
+
+<div align="center">
+
+### <img src="https://media.giphy.com/media/fYSnHlKiT3CWk/giphy.gif" width="35" height="35" /> &nbsp;SUPPORT MY WORK &nbsp; <img src="https://media.giphy.com/media/fYSnHlKiT3CWk/giphy.gif" width="35" height="35" />
+
+<p>
+<img src="https://img.shields.io/badge/Smash_Star-If_You_Like_It-7C3AED?style=for-the-badge&labelColor=0d1117&logo=star&logoColor=white" alt="Star" />
+<img src="https://img.shields.io/badge/Fork-If_You_Want_To_Hack_It-22D3EE?style=for-the-badge&labelColor=0d1117&logo=gitfork&logoColor=white" alt="Fork" />
+<img src="https://img.shields.io/badge/Follow-If_You_Want_Updates-EC4899?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Follow" />
+</p>
+
+</div>
 
 ---
 
