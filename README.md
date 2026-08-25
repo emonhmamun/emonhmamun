@@ -235,7 +235,7 @@ class EmonHMamun:
 <td width="50%" align="center">
 
 🔥 <b>Streak Stats — Consistency Tracker</b><br/><br/>
-<img src="https://streak-stats.demolab.com?user=emonhmamun&theme=radical&hide_border=true&background=0d1117&stroke=A855F7&ring=22D3EE&fire=EC4899&currStreakLabel=Current+Streak&sideLabels=Contributions+per+day&date_format=%5Cb%20%25Y" alt="Streak Stats" width="100%" />
+<img src="https://streak-stats.demolab.com?user=emonhmamun&theme=radical&hide_border=true&background=0d1117&stroke=A855F7&ring=22D3EE&fire=EC4899&currStreakLabel=22D3EE&sideLabels=c9d1d9" alt="Streak Stats" width="100%" />
 
 </td>
 </tr>
