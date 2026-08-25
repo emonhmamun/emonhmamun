@@ -222,14 +222,42 @@ class EmonHMamun:
 
 ### 🌌 CONTRIBUTION GALAXY
 
-<img src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/main/assets/cyber-banner.png" width="100%" height="100" alt="Cyber Banner" />
+<img src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/main/assets/activity-banner.jpg" width="100%" alt="Activity Banner" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=emonhmamun&bg_color=0d1117&color=A855F7&line=22D3EE&point=EC4899&area=true&hide_border=true&radius=6" alt="Activity Graph" width="100%" />
+<table>
+<tr>
+<td width="50%" align="center">
 
-<br/>
+📊 <b>Activity Graph — Contribution Flow</b><br/><br/>
+<img src="https://github-readme-activity-graph-ochre.vercel.app/graph?username=emonhmamun&bg_color=0d1117&color=A855F7&line=22D3EE&point=EC4899&area=true&hide_border=true&radius=6&custom_title=true&title=Contribution+Activity" alt="Activity Graph" width="100%" />
 
-<img src="https://img.shields.io/badge/Contribution_Snake-Animated-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Snake" /><br/>
-<img src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/output/snake-dark.svg" alt="Contribution Snake" onerror="this.style.display='none'" />
+</td>
+<td width="50%" align="center">
+
+🔥 <b>Streak Stats — Consistency Tracker</b><br/><br/>
+<img src="https://streak-stats.demolab.com?user=emonhmamun&theme=radical&hide_border=true&background=0d1117&stroke=A855F7&ring=22D3EE&fire=EC4899&currStreakLabel=Current+Streak&sideLabels=Contributions+per+day&date_format=%5Cb%20%25Y" alt="Streak Stats" width="100%" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+📈 <b>Year Overview — Linear Progression</b><br/><br/>
+<img src="https://github-readme-activity-graph-ochre.vercel.app/graph?username=emonhmamun&bg_color=0d1117&color=22D3EE&line=EC4899&point=A855F7&area=false&hide_border=true&radius=6&custom_title=true&title=Year+Overview" alt="Year Overview" width="100%" />
+
+</td>
+<td width="50%" align="center">
+
+🌀 <b>Visual Galaxy — Contribution Art</b><br/><br/>
+<img src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/main/assets/galaxy-visual.jpg" width="100%" alt="Galaxy Visual" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://img.shields.io/badge/Activity-Graph_+Streak_+Overview_+Galaxy-A855F7?style=for-the-badge&labelColor=0d1117" alt="Features" />
+<img src="https://img.shields.io/badge/Data_Source-GitHub_API-22D3EE?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Source" />
+<img src="https://img.shields.io/badge/Live-Auto_Updated-7C3AED?style=for-the-badge&labelColor=0d1117&logo=sync&logoColor=white" alt="Live" />
 
 </div>
 
@@ -241,7 +269,7 @@ class EmonHMamun:
 
 <img src="https://img.shields.io/badge/Universe_Editor-Profile_README_Customized-7C3AED?style=for-the-badge&labelColor=0d1117" alt="README" />
 <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD_Pipelines-22D3EE?style=for-the-badge&labelColor=0d1117&logo=githubactions&logoColor=white" alt="Actions" />
-<img src="https://img.shields.io/badge/Snake_Contribution-Game_Integration-EC4899?style=for-the-badge&labelColor=0d1117" alt="Snake" />
+<img src="https://img.shields.io/badge/Activity_Visuals-Multi_Graph_Dashboard-EC4899?style=for-the-badge&labelColor=0d1117&logo=chart&logoColor=white" alt="Graphs" />
 <img src="https://img.shields.io/badge/Automation_Architect-Multiple_Workflows-A855F7?style=for-the-badge&labelColor=0d1117&logo=robot&logoColor=white" alt="Auto" />
 <img src="https://img.shields.io/badge/Security_First-Secure_by_Design-7C3AED?style=for-the-badge&labelColor=0d1117&logo=lock&logoColor=white" alt="Sec" />
 <img src="https://img.shields.io/badge/Open_Source-Contributor-22D3EE?style=for-the-badge&labelColor=0d1117&logo=opensourceinitiative&logoColor=white" alt="OS" />
