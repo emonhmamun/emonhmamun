@@ -47,6 +47,16 @@ jobs:
           EVENT_NAME: ${{ github.event_name }}
           TZ: Asia/Dhaka
 
+      - name: Update Streak Stats SVG
+        run: |
+          curl -sL --max-time 30 "https://streak-stats.demolab.com?user=emonhmamun&theme=dark&hide_border=true&background=0d1117&stroke=A855F7&ring=22D3EE&fire=EC4899&currStreakLabel=22D3EE&sideLabels=c9d1d9" -o assets/streak-stats.svg
+          if [ -f assets/streak-stats.svg ] && [ $(wc -c < assets/streak-stats.svg) -gt 1000 ]; then
+            echo "Streak SVG updated successfully"
+          else
+            echo "Streak SVG download failed, keeping existing"
+            git checkout -- assets/streak-stats.svg 2>/dev/null || true
+          fi
+
       - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"

@@ -191,7 +191,7 @@ class EmonHMamun:
 <img height="170" src="https://github-readme-stats-taupe.vercel.app/api/top-langs/?username=emonhmamun&layout=pie&theme=transparent&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&hide_border=true&size_weight=1&count_weight=0.5" alt="Top Languages" />
 </td>
 <td>
-<img height="170" src="https://streak-stats.demolab.com?user=emonhmamun&theme=dark&hide_border=true&background=0d1117&stroke=A855F7&ring=7C3AED&fire=EC4899&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=c9d1d9" alt="GitHub Streak" />
+<img height="170" src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/main/assets/streak-stats.svg" alt="GitHub Streak" />
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ class EmonHMamun:
 <td width="50%" align="center">
 
 🔥 <b>Streak Stats — Consistency Tracker</b><br/><br/>
-<img src="https://streak-stats.demolab.com?user=emonhmamun&theme=dark&hide_border=true&background=0d1117&stroke=A855F7&ring=22D3EE&fire=EC4899&currStreakLabel=22D3EE&sideLabels=c9d1d9" alt="Streak Stats" width="100%" />
+<img src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/main/assets/streak-stats.svg" alt="Streak Stats" width="100%" />
 
 </td>
 </tr>
