@@ -15,7 +15,7 @@
 <img src="https://komarev.com/ghpvc/?username=emonhmamun&color=A855F7&style=flat-square&labelColor=0d1117&label=VISITORS" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/emonhmamun?style=social&labelColor=0d1117" alt="Followers" />
 <img src="https://img.shields.io/github/stars/emonhmamun?style=social&labelColor=0d1117" alt="Stars" />
-<img src="https://img.shields.io/github/following/emonhmamun?style=social&labelColor=0d1117" alt="Following" />
+<img src="https://img.shields.io/badge/Following-Click_Profile-22D3EE?style=flat-square&labelColor=0d1117" alt="Following" />
 <img src="https://img.shields.io/badge/Joined-Jul_2025-7C3AED?style=flat-square&labelColor=0d1117&logo=github&logoColor=white" alt="Joined" />
 </p>
 
@@ -488,28 +488,24 @@ Kubernetes     ██████░░░░░░  55%
 <details>
 <summary><h3>🛡️ Security Architecture</h3></summary>
 
-```mermaid
-graph TD
-    A[EMON H. MAMUN] --> B[Security Research]
-    A --> C[Automation Engineering]
-    A --> D[System Building]
-    B --> B1[Threat Analysis]
-    B --> B2[Penetration Testing]
-    B --> B3[OSINT Research]
-    B --> B4[Malware Analysis]
-    B --> B5[CTF Challenges]
-    C --> C1[Agent Systems]
-    C --> C2[Workflow Automation]
-    C --> C3[Security Tooling]
-    C --> C4[CI/CD Pipelines]
-    D --> D1[Infrastructure Design]
-    D --> D2[Container Security]
-    D --> D3[Monitoring Systems]
-    D --> D4[Network Defense]
-    style A fill:#7C3AED,stroke:#22D3EE,color:#fff,stroke-width:2px
-    style B fill:#22D3EE,stroke:#7C3AED,color:#000
-    style C fill:#A855F7,stroke:#EC4899,color:#fff
-    style D fill:#EC4899,stroke:#22D3EE,color:#fff
+```
+                 ┌──────────────────┐
+                 │  EMON H. MAMUN  │
+                 └────────┬─────────┘
+          ┌───────────────┼───────────────┐
+          ▼               ▼               ▼
+   ┌─────────────┐ ┌─────────────┐ ┌─────────────┐
+   │  Security   │ │ Automation  │ │   System    │
+   │  Research   │ │ Engineering │ │  Building   │
+   └──────┬──────┘ └──────┬──────┘ └──────┬──────┘
+          │               │               │
+    ┌─────┴─────┐   ┌─────┴─────┐   ┌─────┴─────┐
+    ▼     ▼     ▼   ▼     ▼     ▼   ▼     ▼     ▼
+  Threat  Pentest OSINT  Agent  Workflow  Infra  Container
+  Analysis       Research Systems Automation Design  Security
+              Malware    Security        Monitoring
+              Analysis   Tooling         Network
+              CTF        CI/CD           Defense
 ```
 
 </details>
