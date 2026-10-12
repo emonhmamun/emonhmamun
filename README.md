@@ -1,38 +1,40 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:EC4899&height=200&section=header&text=EMON%20H.%20MAMUN&fontSize=42&fontColor=ffffff&desc=Security%20Researcher%20%7C%20Automation%20Architect%20%7C%20System%20Builder&descSize=16&descColor=22D3EE&descAlignY=60&stroke=A855F7&strokeWidth=1&animation=constellation&fontAlignY=30" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:EC4899&height=200&section=header&text=EMON%20H.%20MAMUN&fontSize=42&fontColor=ffffff&desc=Security%20Researcher%20%7C%20Automation%20Architect%20%7C%20System%20Builder&descSize=16&descColor=22D3EE&descAlignY=60&stroke=A855F7&strokeWidth=1&animation=constellation&fontAlignY=30" alt="Header" />
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40" height="40" /> &nbsp;
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40" height="40" alt="cat typing" /> &nbsp;
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Security+Researcher+%26+Automation+Architect;Building+Autonomous+Defense+Systems;Exploring+the+Intersection+of+Security+%26+AI;Crafting+Tools+That+Watch+The+Perimeter" alt="Typing SVG" /></a> &nbsp;
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="40" height="40" alt="code" />
 
 <p>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-7C3AED?style=for-the-badge&labelColor=0d1117&logo=handshake&logoColor=white" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Security%20%7C%20Automation%20%7C%20Systems-22D3EE?style=for-the-badge&labelColor=0d1117&logo=shield&logoColor=white" alt="Focus" />
+<img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_Focus-Security%20%7C%20Automation%20%7C%20Systems-22D3EE?style=for-the-badge&labelColor=0d1117" alt="Focus" />
 <img src="https://img.shields.io/badge/Location-Bangladesh-EC4899?style=for-the-badge&labelColor=0d1117" alt="Location" />
 </p>
 <p>
 <img src="https://komarev.com/ghpvc/?username=emonhmamun&color=A855F7&style=flat-square&labelColor=0d1117&label=VISITORS" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/emonhmamun?style=social&labelColor=0d1117" alt="Followers" />
-<img src="https://img.shields.io/github/stars/emonhmamun?style=social&labelColor=0d1117" alt="Stars" />
-<img src="https://img.shields.io/badge/Following-Click_Profile-22D3EE?style=flat-square&labelColor=0d1117" alt="Following" />
+<img src="https://img.shields.io/github/followers/emonhmamun?style=social" alt="Followers" />
+<img src="https://img.shields.io/github/stars/emonhmamun/emonhmamun?style=social" alt="Repo Stars" />
 <img src="https://img.shields.io/badge/Joined-Jul_2025-7C3AED?style=flat-square&labelColor=0d1117&logo=github&logoColor=white" alt="Joined" />
 </p>
 
-<table><tr>
-<td width="58%" valign="middle">
-<a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" /></a><br/>
-<img src="https://img.shields.io/badge/Auto_Refreshes_Every_10min-22D3EE?style=flat-square&labelColor=0d1117" alt="Auto-refresh" />
-</td>
-<td width="42%" valign="middle">
-<img src="https://img.shields.io/github/commit-activity/y/emonhmamun/emonhmamun?label=COMMITS_THIS_YEAR&color=7C3AED&style=for-the-badge&labelColor=0d1117" alt="Yearly Commits" /><br/>
-<img src="https://img.shields.io/github/commit-activity/m/emonhmamun/emonhmamun?label=THIS_MONTH&color=22D3EE&style=for-the-badge&labelColor=0d1117" alt="Monthly Commits" /><br/>
-<img src="https://img.shields.io/github/repo-size/emonhmamun/emonhmamun?label=REPO_SIZE&color=EC4899&style=for-the-badge&labelColor=0d1117&logo=github" alt="Repo Size" />
-</td></tr></table>
+<p>
+<a href="#-terminal-access">💻 Terminal</a> •
+<a href="#-who-am-i">🌌 Who Am I</a> •
+<a href="#-live-coding-status">🛰️ Live Status</a> •
+<a href="#-latest-activity">📡 Activity</a> •
+<a href="#-tech-arsenal">🛡️ Arsenal</a> •
+<a href="#-stats--analytics">📊 Stats</a> •
+<a href="#-contribution-galaxy">🌠 Galaxy</a> •
+<a href="#-contribution-snake">🐍 Snake</a> •
+<a href="#-trophy-case">🏆 Trophies</a> •
+<a href="#-featured-repositories">📦 Repos</a> •
+<a href="#-connect">🔗 Connect</a>
+</p>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:EC4899&height=35&section=header&fontSize=0&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:EC4899&height=35&section=header&fontSize=0&animation=twinkling" alt="divider" />
 
 ---
 
@@ -50,19 +52,19 @@ $ cat philosophy.txt
 $ neofetch --profile
 > OS      : Arch Linux / Debian
 > Editor  : Neovim (quick) + VS Code (heavy)
-> Shell  : zsh + starship
+> Shell   : zsh + starship
 > Langs   : Python, TypeScript, Bash, Go
 > Cloud   : AWS, Docker, K8s
-> Fun    : CTF, HTB, Building READMEs
+> Fun     : CTF, HTB, Building READMEs
 ```
 
 ---
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40" height="35" /> &nbsp;WHO AM I &nbsp; <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40" height="35" />
+### 🌌 WHO AM I
 
-<img src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/main/assets/galaxy-nebula.png" width="100%" height="120" alt="Galaxy Nebula" />
+<img src="assets/galaxy-nebula.jpg" width="100%" height="140" alt="Galaxy Nebula" />
 
 ```python
 class EmonHMamun:
@@ -83,9 +85,25 @@ class EmonHMamun:
 
 ---
 
+<!--DYNAMIC:START-->
 <div align="center">
 
-### 🟢 LIVE CODING STATUS
+<img src="https://img.shields.io/badge/%F0%9F%9B%B0%EF%B8%8F_LIVE_FROM_DHAKA-GMT%2B6-7C3AED?style=flat-square&labelColor=0d1117" alt="Live from Dhaka" />
+<img src="https://img.shields.io/badge/%F0%9F%92%AC_THOUGHT_OF_THE_MOMENT-refreshes_automatically-22D3EE?style=flat-square&labelColor=0d1117" alt="Quote" />
+
+🛰️ **`দুপুর ২:০১` · `সোমবার, ১২ অক্টোবর ২০২৬`** *(GMT+6 · auto-refreshed every 30 min by GitHub Actions)*
+
+> 💬 *"The only truly secure system is one that is powered off."*
+> — **Gene Spafford** <sub>· via Local Vault</sub>
+
+</div>
+<!--DYNAMIC:END-->
+
+---
+
+<div align="center">
+
+### 🛰️ LIVE CODING STATUS
 
 <!-- LIVE_STATUS_START -->
 <table><tr>
@@ -109,7 +127,13 @@ class EmonHMamun:
 </tr></table>
 
 <table><tr>
-<td><img src="https://img.shields.io/badge/Good_Afternoon-from_Bangladesh-F97316?style=for-the-badge&labelColor=0d1117" alt="Good_Afternoon" /></td>
+<td><img src="https://img.shields.io/badge/All_Time_Commits-46-7C3AED?style=for-the-badge&labelColor=0d1117" alt="All_Time_Commits" /></td>
+<td><img src="https://img.shields.io/badge/Public_Repos-6-22D3EE?style=for-the-badge&labelColor=0d1117" alt="Public_Repos" /></td>
+<td><img src="https://img.shields.io/badge/Followers-0-EC4899?style=for-the-badge&labelColor=0d1117" alt="Followers" /></td>
+</tr></table>
+
+<table><tr>
+<td><img src="https://img.shields.io/badge/%F0%9F%91%8B_Good_Afternoon-from_Bangladesh-F97316?style=for-the-badge&labelColor=0d1117" alt="%F0%9F%91%8B_Good_Afternoon" /></td>
 <td><img src="https://img.shields.io/badge/Updated-Just_Now-1f2937?style=for-the-badge&labelColor=0d1117" alt="Updated" /></td>
 </tr></table>
 <!-- LIVE_STATUS_END -->
@@ -117,7 +141,29 @@ class EmonHMamun:
 <br/>
 
 <img src="https://img.shields.io/badge/Auto_Updated-By_GitHub_Action-7C3AED?style=flat-square&labelColor=0d1117&logo=githubactions&logoColor=white" alt="Auto" /> &nbsp;
-<img src="https://img.shields.io/badge/Timezone-Asia%2FDhaka_(UTC%2B6)-22D3EE?style=flat-square&labelColor=0d1117&logo=clock&logoColor=white" alt="TZ" />
+<img src="https://img.shields.io/badge/%F0%9F%95%90_Timezone-Asia%2FDhaka_(UTC%2B6)-22D3EE?style=flat-square&labelColor=0d1117" alt="TZ" /> &nbsp;
+<img src="https://img.shields.io/badge/Log_a_session-gh_workflow_run_track--activity-1f2937?style=flat-square&labelColor=0d1117" alt="dispatch hint" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📡 LATEST ACTIVITY
+
+<!--START_SECTION:activity-->
+
+- 🚀 Released **v1.5.0** of `aurora-clock` · _03 Oct 2026, 11:57 PM_
+- 🌱 Created `main` branch in `aurora-clock` · _03 Oct 2026, 11:57 PM_
+- 🌱 Created `main` branch in `persistmark-extension` · _02 Oct 2026, 09:32 AM_
+- 🕒 Pushed **1 commit** to `persistmark-extension` · _02 Oct 2026, 10:56 AM_
+- 🕒 Pushed **1 commit** to `persistmark-extension` · _02 Oct 2026, 11:09 AM_
+- 🕒 Pushed **1 commit** to `persistmark-extension` · _02 Oct 2026, 10:58 AM_
+
+<sub>🔄 auto-refreshed from the GitHub Events API every 6 hours by `.github/workflows/update-readme.yml`</sub>
+
+<!--END_SECTION:activity-->
 
 </div>
 
@@ -127,37 +173,37 @@ class EmonHMamun:
 
 ### 🛡️ TECH ARSENAL
 
-<img src="https://img.shields.io/badge/LANGUAGES-7C3AED?style=for-the-badge&labelColor=0d1117" alt="" />
+<img src="https://img.shields.io/badge/LANGUAGES-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Languages" />
 <br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,ts,bash,go,rust,java,cpp,c,php,ruby&theme=dark&perline=12" alt="Languages" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FRONTEND_&_WEB-22D3EE?style=for-the-badge&labelColor=0d1117" alt="" />
+<img src="https://img.shields.io/badge/FRONTEND_%26_WEB-22D3EE?style=for-the-badge&labelColor=0d1117" alt="Frontend" />
 <br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,nuxt,tailwind,bootstrap,materialui,sass,threejs&theme=dark&perline=12" alt="Frontend" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/BACKEND_&_APIS-A855F7?style=for-the-badge&labelColor=0d1117" alt="" />
+<img src="https://img.shields.io/badge/BACKEND_%26_APIS-A855F7?style=for-the-badge&labelColor=0d1117" alt="Backend" />
 <br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,deno,bun,fastapi,flask,django,spring,graphql,postman,prisma&theme=dark&perline=12" alt="Backend" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/DATABASES-EC4899?style=for-the-badge&labelColor=0d1117" alt="" />
+<img src="https://img.shields.io/badge/DATABASES-EC4899?style=for-the-badge&labelColor=0d1117" alt="Databases" />
 <br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,elasticsearch,cassandra,dynamodb,supabase,appwrite&theme=dark&perline=11" alt="Databases" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/CLOUD_&_DEVOPS-7C3AED?style=for-the-badge&labelColor=0d1117" alt="" />
+<img src="https://img.shields.io/badge/CLOUD_%26_DEVOPS-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Cloud and DevOps" />
 <br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,jenkins,aws,azure,gcp,heroku,netlify,cloudflare&theme=dark&perline=12" alt="Cloud & DevOps" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,jenkins,aws,azure,gcp,heroku,netlify,cloudflare&theme=dark&perline=12" alt="Cloud and DevOps" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/TOOLS_&_PLATFORMS-22D3EE?style=for-the-badge&labelColor=0d1117" alt="" />
+<img src="https://img.shields.io/badge/TOOLS_%26_PLATFORMS-22D3EE?style=for-the-badge&labelColor=0d1117" alt="Tools" />
 <br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode,neovim,vim,nginx,figma,firebase,prometheus,grafana&theme=dark&perline=12" alt="Tools" /></a>
 
@@ -170,9 +216,9 @@ class EmonHMamun:
 <img src="https://img.shields.io/badge/Network_Defense-Monitoring-EC4899?style=for-the-badge&labelColor=0d1117&logo=cloudflare&logoColor=white" alt="NetDef" />
 </td></tr><tr><td align="center">
 <img src="https://img.shields.io/badge/OSINT-Research-7C3AED?style=for-the-badge&labelColor=0d1117&logo=internetarchive&logoColor=white" alt="OSINT" />
-<img src="https://img.shields.io/badge/Reverse_Engineering-Exploring-EC4899?style=for-the-badge&labelColor=0d1117&logo=debug&logoColor=white" alt="RE" />
+<img src="https://img.shields.io/badge/%F0%9F%94%8D_Reverse_Engineering-Exploring-EC4899?style=for-the-badge&labelColor=0d1117" alt="RE" />
 <img src="https://img.shields.io/badge/Malware_Analysis-Learning-22D3EE?style=for-the-badge&labelColor=0d1117&logo=mcafee&logoColor=white" alt="Malware" />
-<img src="https://img.shields.io/badge/CTF-Challenger-A855F7?style=for-the-badge&labelColor=0d1117&logo=capturetheflag&logoColor=white" alt="CTF" />
+<img src="https://img.shields.io/badge/CTF-Challenger-A855F7?style=for-the-badge&labelColor=0d1117&logo=tryhackme&logoColor=white" alt="CTF" />
 </td></tr></table>
 
 </div>
@@ -185,17 +231,97 @@ class EmonHMamun:
 
 <table><tr>
 <td>
-<img height="170" src="https://github-readme-stats-alpha-five.vercel.app/api?username=emonhmamun&show_icons=true&hide=contribs&theme=transparent&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=22D3EE&hide_border=true&ring_color=A855F7" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=emonhmamun&show_icons=true&hide=contribs&theme=transparent&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=22D3EE&hide_border=true&ring_color=A855F7" alt="GitHub Stats" />
 </td>
 <td>
-<img height="170" src="https://github-readme-stats-taupe.vercel.app/api/top-langs/?username=emonhmamun&layout=pie&theme=transparent&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&hide_border=true&size_weight=1&count_weight=0.5" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonhmamun&layout=pie&theme=transparent&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&hide_border=true&size_weight=1&count_weight=0.5" alt="Top Languages" />
 </td>
 <td>
-<img height="170" src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/main/assets/streak-stats.svg" alt="GitHub Streak" />
+<img height="170" src="assets/streak-stats.svg" alt="GitHub Streak snapshot (refreshed daily by GitHub Actions)" />
 </td>
 </tr></table>
 
-<img src="https://img.shields.io/badge/Live_Data-Auto_Updates_Every_Visit-22D3EE?style=flat-square&labelColor=0d1117" alt="Live" />
+<img src="https://img.shields.io/badge/Live_Data-Renders_On_Every_Visit-22D3EE?style=flat-square&labelColor=0d1117" alt="Live" /> &nbsp;
+<img src="https://img.shields.io/badge/Streak_Snapshot-Refreshed_Daily_By_CI-7C3AED?style=flat-square&labelColor=0d1117&logo=githubactions&logoColor=white" alt="Snapshot" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌠 CONTRIBUTION GALAXY
+
+<img src="assets/cyber-banner.jpg" width="100%" alt="Cyber city banner" />
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+📊 <b>Activity Graph — Contribution Flow</b><br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=emonhmamun&bg_color=0d1117&color=A855F7&line=22D3EE&point=EC4899&area=true&hide_border=true&radius=6" alt="Activity Graph" width="100%" />
+
+</td>
+<td width="50%" align="center">
+
+🔥 <b>Streak Stats — Consistency Tracker</b><br/><br/>
+<img src="https://streak-stats.demolab.com?user=emonhmamun&theme=dark&hide_border=true&background=0d1117&stroke=A855F7&ring=22D3EE&fire=EC4899&currStreakLabel=22D3EE&sideLabels=c9d1d9" alt="Streak Stats live" width="100%" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+ <b>Year Overview — Linear Progression</b><br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=emonhmamun&bg_color=0d1117&color=22D3EE&line=EC4899&point=A855F7&area=false&hide_border=true&radius=6" alt="Year Overview" width="100%" />
+
+</td>
+<td width="50%" align="center">
+
+🌀 <b>Visual Galaxy — Contribution Art</b><br/><br/>
+<img src="assets/galaxy-visual.jpg" width="100%" alt="Galaxy Visual" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+🧊 <b>3D Contribution Graph — self-hosted, regenerated weekly by GitHub Actions</b><br/><br/>
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://img.shields.io/badge/Activity-Graph_+Streak_+Overview_+3D-A855F7?style=for-the-badge&labelColor=0d1117" alt="Features" />
+<img src="https://img.shields.io/badge/Data_Source-GitHub_API-22D3EE?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Source" />
+<img src="https://img.shields.io/badge/%F0%9F%94%84_Live-Auto_Updated-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Live" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 CONTRIBUTION SNAKE
+
+> The snake literally eats my contribution graph — regenerated nightly by
+> `.github/workflows/snake.yml` into the `output` branch and embedded below.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emonhmamun/emonhmamun/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/output/snake.svg" alt="Contribution snake animation" width="100%" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 TROPHY CASE
+
+<img src="https://github-profile-trophy.vercel.app/?username=emonhmamun&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
 
 </div>
 
@@ -207,57 +333,19 @@ class EmonHMamun:
 
 <table><tr>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emonhmamun&theme=discord&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=22D3EE" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emonhmamun&theme=discord" alt="Profile Details" />
 </td>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emonhmamun&theme=discord&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=22D3EE" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emonhmamun&theme=discord" alt="Stats" />
+</td>
+</tr><tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emonhmamun&theme=discord" alt="Most commit language" />
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emonhmamun&theme=discord" alt="Productive time" />
 </td>
 </tr></table>
-
-</div>
-
----
-
-<div align="center">
-
-### 🌌 CONTRIBUTION GALAXY
-
-<img src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/main/assets/activity-banner.jpg" width="100%" alt="Activity Banner" />
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-📊 <b>Activity Graph — Contribution Flow</b><br/><br/>
-<img src="https://github-readme-activity-graph-ochre.vercel.app/graph?username=emonhmamun&bg_color=0d1117&color=A855F7&line=22D3EE&point=EC4899&area=true&hide_border=true&radius=6&custom_title=true&title=Contribution+Activity" alt="Activity Graph" width="100%" />
-
-</td>
-<td width="50%" align="center">
-
-🔥 <b>Streak Stats — Consistency Tracker</b><br/><br/>
-<img src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/main/assets/streak-stats.svg" alt="Streak Stats" width="100%" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-📈 <b>Year Overview — Linear Progression</b><br/><br/>
-<img src="https://github-readme-activity-graph-ochre.vercel.app/graph?username=emonhmamun&bg_color=0d1117&color=22D3EE&line=EC4899&point=A855F7&area=false&hide_border=true&radius=6&custom_title=true&title=Year+Overview" alt="Year Overview" width="100%" />
-
-</td>
-<td width="50%" align="center">
-
-🌀 <b>Visual Galaxy — Contribution Art</b><br/><br/>
-<img src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/main/assets/galaxy-visual.jpg" width="100%" alt="Galaxy Visual" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://img.shields.io/badge/Activity-Graph_+Streak_+Overview_+Galaxy-A855F7?style=for-the-badge&labelColor=0d1117" alt="Features" />
-<img src="https://img.shields.io/badge/Data_Source-GitHub_API-22D3EE?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Source" />
-<img src="https://img.shields.io/badge/Live-Auto_Updated-7C3AED?style=for-the-badge&labelColor=0d1117&logo=sync&logoColor=white" alt="Live" />
 
 </div>
 
@@ -269,9 +357,9 @@ class EmonHMamun:
 
 <img src="https://img.shields.io/badge/Universe_Editor-Profile_README_Customized-7C3AED?style=for-the-badge&labelColor=0d1117" alt="README" />
 <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD_Pipelines-22D3EE?style=for-the-badge&labelColor=0d1117&logo=githubactions&logoColor=white" alt="Actions" />
-<img src="https://img.shields.io/badge/Activity_Visuals-Multi_Graph_Dashboard-EC4899?style=for-the-badge&labelColor=0d1117&logo=chart&logoColor=white" alt="Graphs" />
-<img src="https://img.shields.io/badge/Automation_Architect-Multiple_Workflows-A855F7?style=for-the-badge&labelColor=0d1117&logo=robot&logoColor=white" alt="Auto" />
-<img src="https://img.shields.io/badge/Security_First-Secure_by_Design-7C3AED?style=for-the-badge&labelColor=0d1117&logo=lock&logoColor=white" alt="Sec" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8A_Activity_Visuals-Multi_Graph_Dashboard-EC4899?style=for-the-badge&labelColor=0d1117" alt="Graphs" />
+<img src="https://img.shields.io/badge/%F0%9F%A4%96_Automation_Architect-Multiple_Workflows-A855F7?style=for-the-badge&labelColor=0d1117" alt="Auto" />
+<img src="https://img.shields.io/badge/%F0%9F%94%92_Security_First-Secure_by_Design-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Sec" />
 <img src="https://img.shields.io/badge/Open_Source-Contributor-22D3EE?style=for-the-badge&labelColor=0d1117&logo=opensourceinitiative&logoColor=white" alt="OS" />
 <img src="https://img.shields.io/badge/Started_Jul_2025-Still_Building-EC4899?style=for-the-badge&labelColor=0d1117&logo=rocket&logoColor=white" alt="Since" />
 
@@ -285,16 +373,16 @@ class EmonHMamun:
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35" height="35" /> &nbsp;FUN ZONE &nbsp; <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35" height="35" />
+### 🎮 FUN ZONE
 
 <table><tr>
 <td width="33%" align="center">
 
-<details><summary><img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="25" height="25" /> <b>Snake Game</b></summary><br/>
+<details><summary>🐍 <b>Snake Game</b></summary><br/>
 
-> The snake animation grows as you contribute. Your graph becomes the game board!
->
-> <a href="https://github.com/emonhmamun"><img src="https://img.shields.io/badge/See_It_Live-Scroll_Down-EC4899?style=for-the-badge&labelColor=0d1117&logo=gamepad&logoColor=white" /></a>
+> The snake animation grows as you contribute — it is embedded live just
+> above in the <a href="#-contribution-snake">CONTRIBUTION SNAKE</a> section,
+> regenerated nightly from my real contribution graph.
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" height="100" alt="Snake" />
 
@@ -305,11 +393,11 @@ class EmonHMamun:
 
 <details><summary>💡 <b>Quote Machine</b></summary><br/>
 
-> Every 10 min the top quote auto-refreshes with a new dev quote!
+> The top quote auto-refreshes with a new dev quote, and the
+> <a href="#-live-coding-status">Live block</a> rotates a fresh thought
+> every 30 minutes with the current Dhaka time in Bengali.
 >
 > Powered by [github-readme-quotes](https://github.com/piyushsuthar/github-readme-quotes)
->
-> 200+ quotes in rotation
 
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" height="100" alt="Code" />
 
@@ -343,16 +431,16 @@ class EmonHMamun:
 
 <table><tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Coffee_Consumed-%E2%88%9E_cups-7C3AED?style=for-the-badge&labelColor=0d1117&logo=coffee&logoColor=white" alt="Coffee" />
+<img src="https://img.shields.io/badge/%E2%98%95_Coffee_Consumed-%E2%88%9E_cups-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Coffee" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Bugs_Created-Far_Too_Many-22D3EE?style=for-the-badge&labelColor=0d1117&logo=bug&logoColor=white" alt="Bugs" />
+<img src="https://img.shields.io/badge/%F0%9F%90%9B_Bugs_Created-Far_Too_Many-22D3EE?style=for-the-badge&labelColor=0d1117" alt="Bugs" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Bugs_Fixed-Slightly_More-EC4899?style=for-the-badge&labelColor=0d1117&logo=bug&logoColor=white" alt="Fixed" />
+<img src="https://img.shields.io/badge/%F0%9F%90%9E_Bugs_Fixed-Slightly_More-EC4899?style=for-the-badge&labelColor=0d1117" alt="Fixed" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Sleep_Deprived-Professional_Level-A855F7?style=for-the-badge&labelColor=0d1117&logo=moon&logoColor=white" alt="Sleep" />
+<img src="https://img.shields.io/badge/%F0%9F%8C%99_Sleep_Deprived-Professional_Level-A855F7?style=for-the-badge&labelColor=0d1117" alt="Sleep" />
 </td>
 </tr></table>
 
@@ -361,10 +449,10 @@ class EmonHMamun:
 <img src="https://img.shields.io/badge/Git_Pushes-Thousands-7C3AED?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white" alt="Pushes" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Terminal_Hours-10000%2B-22D3EE?style=for-the-badge&labelColor=0d1117&logo=terminal&logoColor=white" alt="Terminal" />
+<img src="https://img.shields.io/badge/%F0%9F%92%BB_Terminal_Hours-10000%2B-22D3EE?style=for-the-badge&labelColor=0d1117" alt="Terminal" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/CTF_Flags_Captured-Many-EC4899?style=for-the-badge&labelColor=0d1117&logo=flag&logoColor=white" alt="Flags" />
+<img src="https://img.shields.io/badge/%F0%9F%9A%A9_CTF_Flags_Captured-Many-EC4899?style=for-the-badge&labelColor=0d1117" alt="Flags" />
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/Docker_Images_Built-Countless-A855F7?style=for-the-badge&labelColor=0d1117&logo=docker&logoColor=white" alt="Docker" />
@@ -420,14 +508,14 @@ Kubernetes     ██████░░░░░░  55%
 ```
 ┌─────────────────────────────────────────────┐
 │  ╔═══════════════════════════════════════╗   │
-│  ║  🖥️  ARCH LINUX   |  NEovim + zsh    ║   │
+│  ║  🖥️  ARCH LINUX   |  Neovim + zsh     ║   │
 │  ╠═══════════════════════════════════════╣   │
-│  ║  🐍 Python    │  🟨 JavaScript       ║   │
-│  ║  🔷 TypeScript │  🐚 Bash            ║   │
-│  ║  🐹 Go        │  🦀 Rust             ║   │
+│  ║  🐍 Python    │  🟨 JavaScript          │
+│  ║  🔷 TypeScript │  🐚 Bash             ║   │
+│  ║  🐹 Go        │  🦀 Rust                │
 │  ╠═══════════════════════════════════════╣   │
 │  ║  ☁️  AWS/Docker │  🔒 Security Tools  ║   │
-│  ║  📊 Grafana   │  🐙 GitHub           ║   │
+│  ║  📊 Grafana   │  🐙 GitHub              │
 │  ╚═══════════════════════════════════════╝   │
 └─────────────────────────────────────────────┘
 ```
@@ -440,7 +528,7 @@ Kubernetes     ██████░░░░░░  55%
 
 ### 🖼️ VISUAL GALLERY
 
-<img src="https://raw.githubusercontent.com/emonhmamun/emonhmamun/main/assets/terminal-bg.png" width="100%" height="140" alt="Terminal Background" />
+<img src="assets/terminal-bg.jpg" width="100%" height="140" alt="Terminal Background" />
 
 <table><tr>
 <td width="50%" align="center">
@@ -525,7 +613,7 @@ Kubernetes     ██████░░░░░░  55%
    ┌─────────────┐ ┌─────────────┐ ┌─────────────┐
    │  Security   │ │ Automation  │ │   System    │
    │  Research   │ │ Engineering │ │  Building   │
-   └──────┬──────┘ └──────┬──────┘ └──────┬──────┘
+   └──────┬──────┘ └────────────┘ └──────┬──────┘
           │               │               │
     ┌─────┴─────┐   ┌─────┴─────┐   ┌─────┴─────┐
     ▼     ▼     ▼   ▼     ▼     ▼   ▼     ▼     ▼
@@ -552,23 +640,37 @@ Kubernetes     ██████░░░░░░  55%
 
 </details>
 
-<details>
-<summary><h3>📦 Featured Repositories</h3></summary>
+<div align="center">
+
+### 📦 FEATURED REPOSITORIES
 
 <table><tr>
 <td width="50%">
 <a href="https://github.com/emonhmamun/CleanSweep-Pro">
-  <img src="https://github-readme-stats-taupe.vercel.app/api/pin/?username=emonhmamun&repo=CleanSweep-Pro&theme=transparent&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=22D3EE&hide_border=true&show_owner=false" alt="CleanSweep-Pro" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emonhmamun&repo=CleanSweep-Pro&theme=transparent&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=22D3EE&hide_border=true&show_owner=true" alt="CleanSweep-Pro" width="100%" />
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/emonhmamun/NeoMate-Agent-AI">
-  <img src="https://github-readme-stats-taupe.vercel.app/api/pin/?username=emonhmamun&repo=NeoMate-Agent-AI&theme=transparent&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=22D3EE&hide_border=true&show_owner=false" alt="NeoMate-Agent-AI" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emonhmamun&repo=NeoMate-Agent-AI&theme=transparent&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=22D3EE&hide_border=true&show_owner=true" alt="NeoMate-Agent-AI" width="100%" />
+</a>
+</td>
+</tr><tr>
+<td width="50%">
+<a href="https://github.com/emonhmamun/aurora-clock">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emonhmamun&repo=aurora-clock&theme=transparent&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=22D3EE&hide_border=true&show_owner=true" alt="aurora-clock" width="100%" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/emonhmamun/persistmark-extension">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emonhmamun&repo=persistmark-extension&theme=transparent&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=22D3EE&hide_border=true&show_owner=true" alt="persistmark-extension" width="100%" />
 </a>
 </td>
 </tr></table>
 
-</details>
+</div>
+
+---
 
 <details>
 <summary><h3>🔧 Recommended Tools</h3></summary>
@@ -636,8 +738,8 @@ Most people build things behind the perimeter. I build the perimeter itself. My 
 ### ❤️ SUPPORT MY WORK
 
 <p>
-<img src="https://img.shields.io/badge/Smash_Star-If_You_Like_It-7C3AED?style=for-the-badge&labelColor=0d1117&logo=star&logoColor=white" alt="Star" />
-<img src="https://img.shields.io/badge/Fork-If_You_Want_To_Hack_It-22D3EE?style=for-the-badge&labelColor=0d1117&logo=gitfork&logoColor=white" alt="Fork" />
+<img src="https://img.shields.io/badge/%E2%AD%90_Smash_Star-If_You_Like_It-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Star" />
+<img src="https://img.shields.io/badge/%F0%9F%8D%B4_Fork-If_You_Want_To_Hack_It-22D3EE?style=for-the-badge&labelColor=0d1117" alt="Fork" />
 <img src="https://img.shields.io/badge/Follow-If_You_Want_Updates-EC4899?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Follow" />
 </p>
 
@@ -660,10 +762,10 @@ Most people build things behind the perimeter. I build the perimeter itself. My 
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:EC4899&height=80&section=footer&stroke=A855F7&strokeWidth=1&animation=constellation" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:EC4899&height=80&section=footer&stroke=A855F7&strokeWidth=1&animation=constellation" alt="Footer" />
 
 <img src="https://img.shields.io/badge/Built_with-Curiosity_%26_Purpose-7C3AED?style=flat-square&labelColor=0d1117" alt="Built with" />
-<img src="https://img.shields.io/badge/Theme-Galaxy_Edition_v8.0-22D3EE?style=flat-square&labelColor=0d1117" alt="Theme" />
+<img src="https://img.shields.io/badge/Theme-Galaxy_Edition_v9.0-22D3EE?style=flat-square&labelColor=0d1117" alt="Theme" />
 <img src="https://img.shields.io/badge/Not_Professional-Its_a_Hobby-EC4899?style=flat-square&labelColor=0d1117" alt="Hobby" />
 
 </div>
