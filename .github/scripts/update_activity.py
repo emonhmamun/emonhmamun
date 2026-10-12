@@ -153,9 +153,9 @@ def badge(label, value, color, style="for-the-badge"):
 
 
 def generate_status_html(data, sig):
+    """One compact 3-row table instead of the old six-table wall."""
     status, status_color = get_status_info(data)
     last_active = relative_time(data.get('lastActivity', ''))
-    greeting = get_greeting()
 
     task_labels = {
         'coding': 'Coding', 'security-research': 'Security_Research',
@@ -164,45 +164,31 @@ def generate_status_html(data, sig):
         'ctf': 'CTF_Challenge', 'review': 'Code_Review', 'ready': 'Ready',
     }
     task_label = task_labels.get(data.get('currentTask', 'ready'), 'Working')
-
     last_color = status_color if last_active != "Never" else "lightgrey"
-    html = f'''<table><tr>
-<td>{badge("Status", status, status_color)}</td>
-<td>{badge("Last_Active", last_active, last_color)}</td>
-</tr></table>
 
-<table><tr>
-<td>{badge("Current_Task", task_label, "7C3AED")}</td>
-<td>{badge("Sessions_Today", str(data.get("sessionsToday", 0)), "22D3EE")}</td>
-</tr></table>
+    row1 = [badge("Status", status, status_color),
+            badge("Last_Active", last_active, last_color),
+            badge("Task", task_label, "7C3AED")]
 
-<table><tr>
-<td>{badge("Current_Streak", str(data.get("currentStreak", 0)) + "_days", "EC4899")}</td>
-<td>{badge("This_Week", str(data.get("sessionsThisWeek", 0)) + "_sessions", "A855F7")}</td>
-</tr></table>
-
-<table><tr>
-<td>{badge("Total_Hours", str(data.get("totalHours", 0)), "7C3AED")}</td>
-<td>{badge("Total_Sessions", str(data.get("totalSessions", 0)), "22D3EE")}</td>
-</tr></table>'''
-
-    # ── Real GitHub signals (graceful when the API is down) ──
-    gh_cells = []
+    row2 = []
     if sig['commits'] is not None:
-        gh_cells.append(f'<td>{badge("All_Time_Commits", str(sig["commits"]), "7C3AED")}</td>')
+        row2.append(badge("Commits", str(sig['commits']), "22D3EE"))
     if sig['repos'] is not None:
-        gh_cells.append(f'<td>{badge("Public_Repos", str(sig["repos"]), "22D3EE")}</td>')
+        row2.append(badge("Repos", str(sig['repos']), "7C3AED"))
     if sig['followers'] is not None:
-        gh_cells.append(f'<td>{badge("Followers", str(sig["followers"]), "EC4899")}</td>')
-    if gh_cells:
-        html += "\n\n<table><tr>\n" + "\n".join(gh_cells) + "\n</tr></table>"
+        row2.append(badge("Followers", str(sig['followers']), "EC4899"))
+    if not row2:  # API unreachable — keep the row meaningful
+        row2 = [badge("Sessions", str(data.get('totalSessions', 0)), "22D3EE"),
+                badge("Hours", str(data.get('totalHours', 0)), "7C3AED")]
 
-    html += f'''
+    row3 = [badge("Streak", str(data.get('currentStreak', 0)) + "_days", "EC4899"),
+            badge("%F0%9F%91%8B_" + get_greeting(), "BD", "F97316"),
+            badge("Updated", relative_time(data.get('lastUpdated', '')), "1f2937")]
 
-<table><tr>
-<td>{badge("%F0%9F%91%8B_" + greeting, "from_Bangladesh", "F97316")}</td>
-<td>{badge("Updated", relative_time(data.get("lastUpdated", "")), "1f2937")}</td>
-</tr></table>'''
+    rows = [row1, row2, row3]
+    html = '<table>\n' + '\n'.join(
+        '<tr>' + ''.join(f'<td>{c}</td>' for c in r) + '</tr>' for r in rows
+    ) + '\n</table>'
     return html
 
 
