@@ -109,7 +109,7 @@ class EmonHMamun:
 </tr></table>
 
 <table><tr>
-<td><img src="https://img.shields.io/badge/Good_Afternoon-from_Bangladesh-F97316?style=for-the-badge&labelColor=0d1117" alt="Good_Afternoon" /></td>
+<td><img src="https://img.shields.io/badge/Good_Morning-from_Bangladesh-F97316?style=for-the-badge&labelColor=0d1117" alt="Good_Morning" /></td>
 <td><img src="https://img.shields.io/badge/Updated-Just_Now-1f2937?style=for-the-badge&labelColor=0d1117" alt="Updated" /></td>
 </tr></table>
 <!-- LIVE_STATUS_END -->
